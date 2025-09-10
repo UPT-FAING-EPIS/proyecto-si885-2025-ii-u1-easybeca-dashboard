@@ -6,13 +6,10 @@
 📍 **Universidad Privada de Tacna**  
 **Facultad de Ingeniería – Escuela Profesional de Ingeniería de Sistemas**  
 
-📘 **Curso:** Inteligencia de Negocios  
-👨‍🏫 **Docente:** Mag. Patrick Cuadros Quiroga  
-
 ---
 
 ## 👥 Integrantes del Equipo  
-- Nombre 1  
+- Calizaya Ladera, Andy Michael
 - Nombre 2  
 - Nombre 3  
 
