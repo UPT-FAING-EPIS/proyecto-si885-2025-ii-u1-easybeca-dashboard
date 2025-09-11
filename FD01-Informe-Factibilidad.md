@@ -12,17 +12,16 @@
 
 **Proyecto *{Nombre de Proyecto}***
 
-Curso: *{Nombre de Asignatura}*
+**Curso:** Inteligencia de Negocios  
+**Docente:** Ing. Patrick Cuadros Quiroga
 
-Docente: *{Nombre de Docente}*
-
-Integrantes:
-
-***{Apellidos y nombres del estudiante (código universitario)}***
+**Estudiantes:**
+- Angel Jose VARGAS GUTIERREZ (2020066922)
+- ANDY MICHAEL CALIZAYA LADERA (2022074258)
 
 **Tacna – Perú**
 
-***{Año}***
+***2025***
 
 **  
 **
