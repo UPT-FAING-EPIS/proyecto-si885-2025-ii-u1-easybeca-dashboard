@@ -11,7 +11,8 @@
 ## 👥 Integrantes del Equipo  
 - Calizaya Ladera, Andy Michael
 - Vargas Gutierrez, Angel Jose
-- Nombre 3  
+- Colque Ponce, Sergio Alberto
+- Castillo Mamani, Diego Fernadinho
 
 ---
 
