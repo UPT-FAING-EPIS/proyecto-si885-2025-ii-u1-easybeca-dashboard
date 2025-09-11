@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Comparación</title>
+</head>
+<body>
+    <h1>Test de Comparación</h1>
+    <div id="results"></div>
+    
+    <script>
+        async function testComparison() {
+            try {
+                console.log('Iniciando test...');
+                const response = await fetch('/api/compare');
+                const data = await response.json();
+                
+                console.log('Datos recibidos:', data);
+                
+                document.getElementById('results').innerHTML = `
+                    <h2>Resultados:</h2>
+                    <p>Coincidencias Exactas: ${data.exact_matches_count || 0}</p>
+                    <p>Coincidencias Parciales: ${data.partial_matches_count || 0}</p>
+                    <p>Nuevas Entradas: ${data.new_entries ? data.new_entries.length : 0}</p>
+                    <p>Entradas Faltantes: ${data.missing_entries ? data.missing_entries.length : 0}</p>
+                    <p>Total Scrapeado: ${data.total_scraped || 0}</p>
+                    <hr>
+                    <h3>Datos completos:</h3>
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('results').innerHTML = `<p>Error: ${error.message}</p>`;
+            }
+        }
+        
+        // Ejecutar al cargar la página
+        window.onload = testComparison;
+    </script>
+</body>
+</html>

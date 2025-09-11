@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparación de Datos - Becas Perú Scraper</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .comparison-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: none;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .comparison-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+        }
+        .metric-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        .match-item {
+            border-left: 4px solid #28a745;
+            background: #f8f9fa;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 0 5px 5px 0;
+        }
+        .partial-match-item {
+            border-left: 4px solid #ffc107;
+            background: #fffbf0;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 0 5px 5px 0;
+        }
+        .new-item {
+            border-left: 4px solid #17a2b8;
+            background: #f0f9ff;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 0 5px 5px 0;
+        }
+        .missing-item {
+            border-left: 4px solid #dc3545;
+            background: #fff5f5;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 0 5px 5px 0;
+        }
+        .similarity-score {
+            font-weight: bold;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+        }
+        .score-high {
+            background: #d4edda;
+            color: #155724;
+        }
+        .score-medium {
+            background: #fff3cd;
+            color: #856404;
+        }
+        .score-low {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        .btn-custom {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            border: none;
+            color: white;
+            transition: all 0.3s ease;
+        }
+        .btn-custom:hover {
+            background: linear-gradient(45deg, #764ba2, #667eea);
+            color: white;
+            transform: translateY(-2px);
+        }
+        .comparison-tabs .nav-link {
+            border: none;
+            border-bottom: 3px solid transparent;
+            color: #6c757d;
+            font-weight: 500;
+        }
+        .comparison-tabs .nav-link.active {
+            border-bottom-color: #667eea;
+            color: #667eea;
+            background: none;
+        }
+        .data-table {
+            font-size: 0.9rem;
+        }
+        .progress-ring {
+            width: 120px;
+            height: 120px;
+        }
+        .progress-ring circle {
+            fill: transparent;
+            stroke-width: 8;
+            stroke-linecap: round;
+            transform: rotate(-90deg);
+            transform-origin: 50% 50%;
+        }
+        .progress-ring .background {
+            stroke: #e9ecef;
+        }
+        .progress-ring .progress {
+            stroke: #28a745;
+            stroke-dasharray: 0 100;
+            transition: stroke-dasharray 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="fas fa-graduation-cap me-2"></i>
+                Becas Perú Scraper
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/sources">Fuentes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/comparison">Comparación</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/api/docs" target="_blank">API Docs</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <div class="bg-info text-white py-5">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-8">
+                    <h1 class="display-5 fw-bold mb-3">
+                        <i class="fas fa-balance-scale me-3"></i>
+                        Comparación de Datos
+                    </h1>
+                    <p class="lead mb-0">
+                        Validación y comparación entre datos scrapeados y el archivo Excel "Becas Peru"
+                    </p>
+                </div>
+                <div class="col-md-4 text-end">
+                    <button class="btn btn-light btn-lg" onclick="runComparison()">
+                        <i class="fas fa-sync-alt me-2"></i>
+                        Ejecutar Comparación
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container my-5">
+        <!-- Comparison Overview -->
+        <div class="row mb-5">
+            <div class="col-md-3 mb-4">
+                <div class="card comparison-card text-center">
+                    <div class="card-body">
+                        <i class="fas fa-check-double metric-icon text-success"></i>
+                        <h3 class="mb-2" id="exactMatches">-</h3>
+                        <h6 class="text-muted">Coincidencias Exactas</h6>
+                        <p class="small text-success mb-0">Datos idénticos encontrados</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="card comparison-card text-center">
+                    <div class="card-body">
+                        <i class="fas fa-check metric-icon text-warning"></i>
+                        <h3 class="mb-2" id="partialMatches">-</h3>
+                        <h6 class="text-muted">Coincidencias Parciales</h6>
+                        <p class="small text-warning mb-0">Datos similares encontrados</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="card comparison-card text-center">
+                    <div class="card-body">
+                        <i class="fas fa-plus-circle metric-icon text-info"></i>
+                        <h3 class="mb-2" id="newBecas">-</h3>
+                        <h6 class="text-muted">Nuevas Becas</h6>
+                        <p class="small text-info mb-0">No encontradas en Excel</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="card comparison-card text-center">
+                    <div class="card-body">
+                        <i class="fas fa-exclamation-triangle metric-icon text-danger"></i>
+                        <h3 class="mb-2" id="missingBecas">-</h3>
+                        <h6 class="text-muted">Becas Faltantes</h6>
+                        <p class="small text-danger mb-0">En Excel pero no scrapeadas</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Accuracy Metrics -->
+        <div class="row mb-5">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <h5 class="card-title mb-4">
+                            <i class="fas fa-chart-pie me-2"></i>
+                            Precisión del Scraping
+                        </h5>
+                        <div class="d-flex justify-content-center mb-3">
+                            <svg class="progress-ring">
+                                <circle class="background" cx="60" cy="60" r="50"></circle>
+                                <circle class="progress" cx="60" cy="60" r="50" id="accuracyCircle"></circle>
+                            </svg>
+                        </div>
+                        <h3 class="text-success" id="accuracyPercentage">-%</h3>
+                        <p class="text-muted mb-0">Porcentaje de datos validados</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title mb-4">
+                            <i class="fas fa-chart-bar me-2"></i>
+                            Estadísticas Detalladas
+                        </h5>
+                        <div class="row text-center">
+                            <div class="col-6 mb-3">
+                                <h5 class="text-primary" id="totalScraped">-</h5>
+                                <small class="text-muted">Total Scrapeado</small>
+                            </div>
+                            <div class="col-6 mb-3">
+                                <h5 class="text-secondary" id="totalExcel">-</h5>
+                                <small class="text-muted">Total en Excel</small>
+                            </div>
+                            <div class="col-6">
+                                <h5 class="text-success" id="validatedData">-</h5>
+                                <small class="text-muted">Datos Validados</small>
+                            </div>
+                            <div class="col-6">
+                                <h5 class="text-info" id="coveragePercentage">-%</h5>
+                                <small class="text-muted">Cobertura</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Comparison Details Tabs -->
+        <div class="row">
+            <div class="col-12">
+                <ul class="nav nav-tabs comparison-tabs mb-4" id="comparisonTabs" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="exact-tab" data-bs-toggle="tab" data-bs-target="#exact" type="button" role="tab">
+                            <i class="fas fa-check-double me-2"></i>
+                            Coincidencias Exactas
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="partial-tab" data-bs-toggle="tab" data-bs-target="#partial" type="button" role="tab">
+                            <i class="fas fa-check me-2"></i>
+                            Coincidencias Parciales
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="new-tab" data-bs-toggle="tab" data-bs-target="#new" type="button" role="tab">
+                            <i class="fas fa-plus-circle me-2"></i>
+                            Nuevas Becas
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="missing-tab" data-bs-toggle="tab" data-bs-target="#missing" type="button" role="tab">
+                            <i class="fas fa-exclamation-triangle me-2"></i>
+                            Becas Faltantes
+                        </button>
+                    </li>
+                </ul>
+
+                <div class="tab-content" id="comparisonTabContent">
+                    <!-- Exact Matches Tab -->
+                    <div class="tab-pane fade show active" id="exact" role="tabpanel">
+                        <div class="card">
+                            <div class="card-header d-flex justify-content-between align-items-center">
+                                <h6 class="mb-0">
+                                    <i class="fas fa-check-double text-success me-2"></i>
+                                    Coincidencias Exactas
+                                </h6>
+                                <button class="btn btn-outline-success btn-sm" onclick="exportMatches('exact')">
+                                    <i class="fas fa-download me-1"></i>
+                                    Exportar
+                                </button>
+                            </div>
+                            <div class="card-body">
+                                <div id="exactMatchesContent">
+                                    <div class="text-center text-muted py-4">
+                                        <i class="fas fa-spinner fa-spin me-2"></i>
+                                        Cargando coincidencias exactas...
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Partial Matches Tab -->
+                    <div class="tab-pane fade" id="partial" role="tabpanel">
+                        <div class="card">
+                            <div class="card-header d-flex justify-content-between align-items-center">
+                                <h6 class="mb-0">
+                                    <i class="fas fa-check text-warning me-2"></i>
+                                    Coincidencias Parciales
+                                </h6>
+                                <button class="btn btn-outline-warning btn-sm" onclick="exportMatches('partial')">
+                                    <i class="fas fa-download me-1"></i>
+                                    Exportar
+                                </button>
+                            </div>
+                            <div class="card-body">
+                                <div id="partialMatchesContent">
+                                    <div class="text-center text-muted py-4">
+                                        <i class="fas fa-spinner fa-spin me-2"></i>
+                                        Cargando coincidencias parciales...
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- New Becas Tab -->
+                    <div class="tab-pane fade" id="new" role="tabpanel">
+                        <div class="card">
+                            <div class="card-header d-flex justify-content-between align-items-center">
+                                <h6 class="mb-0">
+                                    <i class="fas fa-plus-circle text-info me-2"></i>
+                                    Nuevas Becas Encontradas
+                                </h6>
+                                <button class="btn btn-outline-info btn-sm" onclick="exportMatches('new')">
+                                    <i class="fas fa-download me-1"></i>
+                                    Exportar
+                                </button>
+                            </div>
+                            <div class="card-body">
+                                <div id="newBecasContent">
+                                    <div class="text-center text-muted py-4">
+                                        <i class="fas fa-spinner fa-spin me-2"></i>
+                                        Cargando nuevas becas...
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Missing Becas Tab -->
+                    <div class="tab-pane fade" id="missing" role="tabpanel">
+                        <div class="card">
+                            <div class="card-header d-flex justify-content-between align-items-center">
+                                <h6 class="mb-0">
+                                    <i class="fas fa-exclamation-triangle text-danger me-2"></i>
+                                    Becas Faltantes en Scraping
+                                </h6>
+                                <button class="btn btn-outline-danger btn-sm" onclick="exportMatches('missing')">
+                                    <i class="fas fa-download me-1"></i>
+                                    Exportar
+                                </button>
+                            </div>
+                            <div class="card-body">
+                                <div id="missingBecasContent">
+                                    <div class="text-center text-muted py-4">
+                                        <i class="fas fa-spinner fa-spin me-2"></i>
+                                        Cargando becas faltantes...
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="row mt-5">
+            <div class="col-12 text-center">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title mb-4">
+                            <i class="fas fa-tools me-2"></i>
+                            Acciones de Validación
+                        </h5>
+                        <div class="row justify-content-center">
+                            <div class="col-md-3 mb-3">
+                                <button class="btn btn-custom w-100" onclick="runComparison()">
+                                    <i class="fas fa-sync-alt me-2"></i>
+                                    Actualizar Comparación
+                                </button>
+                            </div>
+                            <div class="col-md-3 mb-3">
+                                <button class="btn btn-outline-primary w-100" onclick="exportFullReport()">
+                                    <i class="fas fa-file-excel me-2"></i>
+                                    Reporte Completo
+                                </button>
+                            </div>
+                            <div class="col-md-3 mb-3">
+                                <button class="btn btn-outline-secondary w-100" onclick="validateData()">
+                                    <i class="fas fa-shield-alt me-2"></i>
+                                    Validar Datos
+                                </button>
+                            </div>
+                            <div class="col-md-3 mb-3">
+                                <button class="btn btn-outline-info w-100" onclick="viewRawData()">
+                                    <i class="fas fa-database me-2"></i>
+                                    Ver Datos Raw
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white py-4 mt-5">
+        <div class="container text-center">
+            <p class="mb-0">
+                <i class="fas fa-code me-2"></i>
+                API de Scraping de Becas Perú - Validación de Información
+            </p>
+            <small class="text-muted">Comparación automática para sustentar la veracidad de los datos</small>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Custom JavaScript -->
+    <script>
+        let comparisonData = null;
+        
+        // Funciones principales
+        async function runComparison() {
+            try {
+                showAlert('Ejecutando comparación de datos...', 'info');
+                
+                const response = await fetch('/api/compare');
+                if (response.ok) {
+                    comparisonData = await response.json();
+                    updateComparisonMetrics();
+                    loadTabContent();
+                    showAlert('Comparación completada exitosamente', 'success');
+                } else {
+                    throw new Error('Error al ejecutar comparación');
+                }
+            } catch (error) {
+                showAlert('Error en comparación: ' + error.message, 'danger');
+            }
+        }
+        
+        function updateComparisonMetrics() {
+            if (!comparisonData) return;
+            
+            // Actualizar métricas principales
+            document.getElementById('exactMatches').textContent = comparisonData.exact_matches_count || 0;
+            document.getElementById('partialMatches').textContent = comparisonData.partial_matches_count || 0;
+            document.getElementById('newBecas').textContent = comparisonData.new_entries?.length || 0;
+            document.getElementById('missingBecas').textContent = comparisonData.missing_entries?.length || 0;
+            
+            // Actualizar estadísticas detalladas
+            document.getElementById('totalScraped').textContent = comparisonData.total_scraped || 0;
+            document.getElementById('totalExcel').textContent = comparisonData.total_excel || 0;
+            
+            const validated = (comparisonData.exact_matches_count || 0) + (comparisonData.partial_matches_count || 0);
+            document.getElementById('validatedData').textContent = validated;
+            
+            // Calcular precisión
+            const totalScraped = comparisonData.total_scraped || 0;
+            const accuracy = totalScraped > 0 ? Math.round((validated / totalScraped) * 100) : 0;
+            document.getElementById('accuracyPercentage').textContent = accuracy + '%';
+            
+            // Calcular cobertura
+            const totalExcel = comparisonData.total_excel || 0;
+            const coverage = totalExcel > 0 ? Math.round((validated / totalExcel) * 100) : 0;
+            document.getElementById('coveragePercentage').textContent = coverage + '%';
+            
+            // Actualizar círculo de progreso
+            updateProgressRing(accuracy);
+        }
+        
+        function updateProgressRing(percentage) {
+            const circle = document.getElementById('accuracyCircle');
+            const circumference = 2 * Math.PI * 50; // radio = 50
+            const offset = circumference - (percentage / 100) * circumference;
+            
+            circle.style.strokeDasharray = `${circumference} ${circumference}`;
+            circle.style.strokeDashoffset = offset;
+            
+            // Cambiar color según el porcentaje
+            if (percentage >= 80) {
+                circle.style.stroke = '#28a745'; // Verde
+            } else if (percentage >= 60) {
+                circle.style.stroke = '#ffc107'; // Amarillo
+            } else {
+                circle.style.stroke = '#dc3545'; // Rojo
+            }
+        }
+        
+        function loadTabContent() {
+            if (!comparisonData) return;
+            
+            loadExactMatches();
+            loadPartialMatches();
+            loadNewBecas();
+            loadMissingBecas();
+        }
+        
+        function loadExactMatches() {
+            const content = document.getElementById('exactMatchesContent');
+            const matches = comparisonData.exact_matches || [];
+            
+            if (matches.length === 0) {
+                content.innerHTML = `
+                    <div class="text-center text-muted py-4">
+                        <i class="fas fa-info-circle me-2"></i>
+                        No se encontraron coincidencias exactas
+                    </div>
+                `;
+                return;
+            }
+            
+            const html = matches.map(match => `
+                <div class="match-item">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h6 class="mb-2">
+                                <i class="fas fa-graduation-cap text-success me-2"></i>
+                                ${match.scraped_data.nombre_beca}
+                            </h6>
+                            <p class="mb-1"><strong>Institución:</strong> ${match.scraped_data.institucion}</p>
+                            <p class="mb-1"><strong>Fuente:</strong> <span class="badge bg-secondary">${match.scraped_data.fuente}</span></p>
+                            ${match.scraped_data.promedio_minimo ? `<p class="mb-0"><strong>Promedio:</strong> ${match.scraped_data.promedio_minimo}</p>` : ''}
+                        </div>
+                        <div class="col-md-6">
+                            <h6 class="mb-2">
+                                <i class="fas fa-file-excel text-success me-2"></i>
+                                ${match.excel_data.nombre_beca}
+                            </h6>
+                            <p class="mb-1"><strong>Institución:</strong> ${match.excel_data.institucion}</p>
+                            <p class="mb-1"><strong>Tipo:</strong> <span class="badge bg-info">${match.excel_data.tipo_beca || 'N/A'}</span></p>
+                            <div class="mt-2">
+                                <span class="similarity-score score-high">
+                                    <i class="fas fa-check me-1"></i>
+                                    100% Coincidencia
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+            
+            content.innerHTML = html;
+        }
+        
+        function loadPartialMatches() {
+            const content = document.getElementById('partialMatchesContent');
+            const matches = comparisonData.partial_matches || [];
+            
+            if (matches.length === 0) {
+                content.innerHTML = `
+                    <div class="text-center text-muted py-4">
+                        <i class="fas fa-info-circle me-2"></i>
+                        No se encontraron coincidencias parciales
+                    </div>
+                `;
+                return;
+            }
+            
+            const html = matches.map(match => {
+                const similarity = Math.round(match.similarity_score * 100);
+                const scoreClass = similarity >= 80 ? 'score-high' : similarity >= 60 ? 'score-medium' : 'score-low';
+                
+                return `
+                    <div class="partial-match-item">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h6 class="mb-2">
+                                    <i class="fas fa-graduation-cap text-warning me-2"></i>
+                                    ${match.scraped_data.nombre_beca}
+                                </h6>
+                                <p class="mb-1"><strong>Institución:</strong> ${match.scraped_data.institucion}</p>
+                                <p class="mb-1"><strong>Fuente:</strong> <span class="badge bg-secondary">${match.scraped_data.fuente}</span></p>
+                                ${match.scraped_data.promedio_minimo ? `<p class="mb-0"><strong>Promedio:</strong> ${match.scraped_data.promedio_minimo}</p>` : ''}
+                            </div>
+                            <div class="col-md-6">
+                                <h6 class="mb-2">
+                                    <i class="fas fa-file-excel text-warning me-2"></i>
+                                    ${match.excel_data.nombre_beca}
+                                </h6>
+                                <p class="mb-1"><strong>Institución:</strong> ${match.excel_data.institucion}</p>
+                                <p class="mb-1"><strong>Tipo:</strong> <span class="badge bg-info">${match.excel_data.tipo_beca || 'N/A'}</span></p>
+                                <div class="mt-2">
+                                    <span class="similarity-score ${scoreClass}">
+                                        <i class="fas fa-percentage me-1"></i>
+                                        ${similarity}% Similitud
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+            
+            content.innerHTML = html;
+        }
+        
+        function loadNewBecas() {
+            const content = document.getElementById('newBecasContent');
+            const newBecas = comparisonData.new_becas || [];
+            
+            if (newBecas.length === 0) {
+                content.innerHTML = `
+                    <div class="text-center text-muted py-4">
+                        <i class="fas fa-info-circle me-2"></i>
+                        No se encontraron nuevas becas
+                    </div>
+                `;
+                return;
+            }
+            
+            const html = newBecas.map(beca => `
+                <div class="new-item">
+                    <div class="row align-items-center">
+                        <div class="col-md-8">
+                            <h6 class="mb-2">
+                                <i class="fas fa-plus-circle text-info me-2"></i>
+                                ${beca.nombre_beca}
+                            </h6>
+                            <p class="mb-1"><strong>Institución:</strong> ${beca.institucion}</p>
+                            <p class="mb-1"><strong>Fuente:</strong> <span class="badge bg-secondary">${beca.fuente}</span></p>
+                            ${beca.promedio_minimo ? `<p class="mb-1"><strong>Promedio:</strong> ${beca.promedio_minimo}</p>` : ''}
+                            <p class="mb-0 small text-muted">${beca.descripcion}</p>
+                        </div>
+                        <div class="col-md-4 text-end">
+                            ${beca.enlace ? `
+                                <a href="${beca.enlace}" target="_blank" class="btn btn-outline-info btn-sm">
+                                    <i class="fas fa-external-link-alt me-1"></i>
+                                    Ver Fuente
+                                </a>
+                            ` : ''}
+                            <div class="mt-2">
+                                <span class="badge bg-info">
+                                    <i class="fas fa-star me-1"></i>
+                                    Nueva
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+            
+            content.innerHTML = html;
+        }
+        
+        function loadMissingBecas() {
+            const content = document.getElementById('missingBecasContent');
+            const missingBecas = comparisonData.missing_becas || [];
+            
+            if (missingBecas.length === 0) {
+                content.innerHTML = `
+                    <div class="text-center text-muted py-4">
+                        <i class="fas fa-check-circle text-success me-2"></i>
+                        ¡Excelente! Todas las becas del Excel fueron encontradas en el scraping
+                    </div>
+                `;
+                return;
+            }
+            
+            const html = missingBecas.map(beca => `
+                <div class="missing-item">
+                    <div class="row align-items-center">
+                        <div class="col-md-8">
+                            <h6 class="mb-2">
+                                <i class="fas fa-exclamation-triangle text-danger me-2"></i>
+                                ${beca.nombre_beca}
+                            </h6>
+                            <p class="mb-1"><strong>Institución:</strong> ${beca.institucion}</p>
+                            <p class="mb-1"><strong>Tipo:</strong> <span class="badge bg-info">${beca.tipo_beca || 'N/A'}</span></p>
+                            ${beca.promedio_minimo ? `<p class="mb-0"><strong>Promedio:</strong> ${beca.promedio_minimo}</p>` : ''}
+                        </div>
+                        <div class="col-md-4 text-end">
+                            <div class="mt-2">
+                                <span class="badge bg-danger">
+                                    <i class="fas fa-minus-circle me-1"></i>
+                                    Faltante
+                                </span>
+                            </div>
+                            <p class="small text-muted mt-2 mb-0">
+                                Esta beca está en el Excel pero no fue encontrada en el scraping
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+            
+            content.innerHTML = html;
+        }
+        
+        // Funciones de exportación
+        async function exportMatches(type) {
+            try {
+                const response = await fetch(`/api/export?type=${type}`);
+                if (response.ok) {
+                    const blob = await response.blob();
+                    const url = window.URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = url;
+                    a.download = `comparacion_${type}_${new Date().toISOString().split('T')[0]}.xlsx`;
+                    document.body.appendChild(a);
+                    a.click();
+                    document.body.removeChild(a);
+                    window.URL.revokeObjectURL(url);
+                    
+                    showAlert(`Datos de ${type} exportados exitosamente`, 'success');
+                } else {
+                    throw new Error('Error al exportar datos');
+                }
+            } catch (error) {
+                showAlert('Error al exportar: ' + error.message, 'danger');
+            }
+        }
+        
+        async function exportFullReport() {
+            try {
+                const response = await fetch('/api/export?type=full_report');
+                if (response.ok) {
+                    const blob = await response.blob();
+                    const url = window.URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = url;
+                    a.download = `reporte_completo_${new Date().toISOString().split('T')[0]}.xlsx`;
+                    document.body.appendChild(a);
+                    a.click();
+                    document.body.removeChild(a);
+                    window.URL.revokeObjectURL(url);
+                    
+                    showAlert('Reporte completo exportado exitosamente', 'success');
+                } else {
+                    throw new Error('Error al exportar reporte');
+                }
+            } catch (error) {
+                showAlert('Error al exportar reporte: ' + error.message, 'danger');
+            }
+        }
+        
+        async function validateData() {
+            try {
+                showAlert('Validando datos...', 'info');
+                
+                const response = await fetch('/api/validate');
+                if (response.ok) {
+                    const result = await response.json();
+                    showAlert(`Validación completada: ${result.valid_records} registros válidos de ${result.total_records}`, 'success');
+                } else {
+                    throw new Error('Error al validar datos');
+                }
+            } catch (error) {
+                showAlert('Error en validación: ' + error.message, 'danger');
+            }
+        }
+        
+        async function viewRawData() {
+            try {
+                const response = await fetch('/api/data');
+                if (response.ok) {
+                    const data = await response.json();
+                    
+                    const modalHtml = `
+                        <div class="modal fade" id="rawDataModal" tabindex="-1">
+                            <div class="modal-dialog modal-xl">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">Datos Raw (${data.length} registros)</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="table-responsive">
+                                            <table class="table table-striped data-table">
+                                                <thead class="table-dark">
+                                                    <tr>
+                                                        <th>ID</th>
+                                                        <th>Nombre</th>
+                                                        <th>Institución</th>
+                                                        <th>Fuente</th>
+                                                        <th>Promedio</th>
+                                                        <th>Fecha</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    ${data.slice(0, 50).map(beca => `
+                                                        <tr>
+                                                            <td>${beca.id || 'N/A'}</td>
+                                                            <td class="fw-bold">${beca.nombre_beca}</td>
+                                                            <td>${beca.institucion}</td>
+                                                            <td><span class="badge bg-secondary">${beca.fuente}</span></td>
+                                                            <td>${beca.promedio_minimo || 'N/A'}</td>
+                                                            <td class="small">${beca.fecha_scraping ? new Date(beca.fecha_scraping).toLocaleDateString() : 'N/A'}</td>
+                                                        </tr>
+                                                    `).join('')}
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        ${data.length > 50 ? '<p class="text-muted text-center">Mostrando primeros 50 registros...</p>' : ''}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                    
+                    document.body.insertAdjacentHTML('beforeend', modalHtml);
+                    const modal = new bootstrap.Modal(document.getElementById('rawDataModal'));
+                    modal.show();
+                    
+                    // Limpiar modal al cerrar
+                    document.getElementById('rawDataModal').addEventListener('hidden.bs.modal', function () {
+                        this.remove();
+                    });
+                } else {
+                    throw new Error('Error al obtener datos raw');
+                }
+            } catch (error) {
+                showAlert('Error al obtener datos raw: ' + error.message, 'danger');
+            }
+        }
+        
+        // Funciones auxiliares
+        function showAlert(message, type) {
+            const alertHtml = `
+                <div class="alert alert-${type} alert-dismissible fade show" role="alert">
+                    ${message}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            `;
+            
+            const container = document.querySelector('.container');
+            container.insertAdjacentHTML('afterbegin', alertHtml);
+            
+            // Auto-dismiss after 5 seconds
+            setTimeout(() => {
+                const alert = container.querySelector('.alert');
+                if (alert) {
+                    const bsAlert = new bootstrap.Alert(alert);
+                    bsAlert.close();
+                }
+            }, 5000);
+        }
+        
+        // Inicialización
+        document.addEventListener('DOMContentLoaded', function() {
+            runComparison();
+        });
+    </script>
+</body>
+</html>

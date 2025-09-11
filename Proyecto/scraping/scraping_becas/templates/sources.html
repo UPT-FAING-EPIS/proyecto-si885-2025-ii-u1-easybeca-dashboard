@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fuentes de Datos - Becas Perú Scraper</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .source-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: none;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            height: 100%;
+        }
+        .source-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+        }
+        .source-icon {
+            font-size: 4rem;
+            margin-bottom: 1rem;
+        }
+        .status-badge {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+        }
+        .verification-item {
+            background: #f8f9fa;
+            border-left: 4px solid #28a745;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 0 5px 5px 0;
+        }
+        .verification-item.warning {
+            border-left-color: #ffc107;
+        }
+        .verification-item.error {
+            border-left-color: #dc3545;
+        }
+        .data-preview {
+            max-height: 300px;
+            overflow-y: auto;
+            background: #f8f9fa;
+            border-radius: 5px;
+            padding: 15px;
+        }
+        .btn-custom {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            border: none;
+            color: white;
+            transition: all 0.3s ease;
+        }
+        .btn-custom:hover {
+            background: linear-gradient(45deg, #764ba2, #667eea);
+            color: white;
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="fas fa-graduation-cap me-2"></i>
+                Becas Perú Scraper
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/sources">Fuentes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/comparison">Comparación</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/api/docs" target="_blank">API Docs</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <div class="bg-primary text-white py-5">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-8">
+                    <h1 class="display-5 fw-bold mb-3">
+                        <i class="fas fa-database me-3"></i>
+                        Fuentes de Datos Oficiales
+                    </h1>
+                    <p class="lead mb-0">
+                        Información detallada sobre las fuentes de datos utilizadas para el scraping de becas educativas
+                    </p>
+                </div>
+                <div class="col-md-4 text-end">
+                    <button class="btn btn-light btn-lg" onclick="refreshAllSources()">
+                        <i class="fas fa-sync-alt me-2"></i>
+                        Actualizar Todo
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container my-5">
+        <!-- Sources Overview -->
+        <div class="row mb-5">
+            <!-- PRONABEC -->
+            <div class="col-lg-4 mb-4">
+                <div class="card source-card position-relative">
+                    <span class="badge bg-success status-badge" id="pronabecStatus">Activo</span>
+                    <div class="card-body text-center">
+                        <i class="fas fa-university source-icon text-primary"></i>
+                        <h4 class="card-title">PRONABEC</h4>
+                        <p class="card-text text-muted mb-3">
+                            Programa Nacional de Becas y Crédito Educativo
+                        </p>
+                        <div class="mb-3">
+                            <small class="text-muted d-block">URL Principal:</small>
+                            <a href="https://www.pronabec.gob.pe" target="_blank" class="text-decoration-none">
+                                www.pronabec.gob.pe
+                            </a>
+                        </div>
+                        <div class="mb-3">
+                            <span class="badge bg-info me-2">Oficial</span>
+                            <span class="badge bg-secondary me-2">Gobierno</span>
+                            <span class="badge bg-warning">JavaScript</span>
+                        </div>
+                        <div class="row text-center mb-3">
+                            <div class="col-6">
+                                <h6 class="mb-0" id="pronabecCount">-</h6>
+                                <small class="text-muted">Becas Encontradas</small>
+                            </div>
+                            <div class="col-6">
+                                <h6 class="mb-0" id="pronabecLastUpdate">-</h6>
+                                <small class="text-muted">Última Actualización</small>
+                            </div>
+                        </div>
+                        <button class="btn btn-custom btn-sm me-2" onclick="scrapePronabec()">
+                            <i class="fas fa-download me-1"></i>
+                            Scrapear
+                        </button>
+                        <button class="btn btn-outline-secondary btn-sm" onclick="viewSourceDetails('pronabec')">
+                            <i class="fas fa-eye me-1"></i>
+                            Detalles
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Universities -->
+            <div class="col-lg-4 mb-4">
+                <div class="card source-card position-relative">
+                    <span class="badge bg-success status-badge" id="universitiesStatus">Activo</span>
+                    <div class="card-body text-center">
+                        <i class="fas fa-graduation-cap source-icon text-success"></i>
+                        <h4 class="card-title">Universidades</h4>
+                        <p class="card-text text-muted mb-3">
+                            Becas de universidades públicas y privadas del Perú
+                        </p>
+                        <div class="mb-3">
+                            <small class="text-muted d-block">Fuentes Múltiples:</small>
+                            <span class="text-decoration-none small">
+                                UNMSM, UNI, PUCP, UPC, etc.
+                            </span>
+                        </div>
+                        <div class="mb-3">
+                            <span class="badge bg-info me-2">Múltiples</span>
+                            <span class="badge bg-secondary me-2">Académico</span>
+                            <span class="badge bg-warning">Mixto</span>
+                        </div>
+                        <div class="row text-center mb-3">
+                            <div class="col-6">
+                                <h6 class="mb-0" id="universitiesCount">-</h6>
+                                <small class="text-muted">Becas Encontradas</small>
+                            </div>
+                            <div class="col-6">
+                                <h6 class="mb-0" id="universitiesLastUpdate">-</h6>
+                                <small class="text-muted">Última Actualización</small>
+                            </div>
+                        </div>
+                        <button class="btn btn-custom btn-sm me-2" onclick="scrapeUniversities()">
+                            <i class="fas fa-download me-1"></i>
+                            Scrapear
+                        </button>
+                        <button class="btn btn-outline-secondary btn-sm" onclick="viewSourceDetails('universidades')">
+                            <i class="fas fa-eye me-1"></i>
+                            Detalles
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- BCP -->
+            <div class="col-lg-4 mb-4">
+                <div class="card source-card position-relative">
+                    <span class="badge bg-success status-badge" id="bcpStatus">Activo</span>
+                    <div class="card-body text-center">
+                        <i class="fas fa-building source-icon text-warning"></i>
+                        <h4 class="card-title">BCP</h4>
+                        <p class="card-text text-muted mb-3">
+                            Banco de Crédito del Perú - Becas y Programas Educativos
+                        </p>
+                        <div class="mb-3">
+                            <small class="text-muted d-block">URL Principal:</small>
+                            <a href="https://www.viabcp.com" target="_blank" class="text-decoration-none">
+                                www.viabcp.com
+                            </a>
+                        </div>
+                        <div class="mb-3">
+                            <span class="badge bg-info me-2">Privado</span>
+                            <span class="badge bg-secondary me-2">Bancario</span>
+                            <span class="badge bg-warning">JavaScript</span>
+                        </div>
+                        <div class="row text-center mb-3">
+                            <div class="col-6">
+                                <h6 class="mb-0" id="bcpCount">-</h6>
+                                <small class="text-muted">Becas Encontradas</small>
+                            </div>
+                            <div class="col-6">
+                                <h6 class="mb-0" id="bcpLastUpdate">-</h6>
+                                <small class="text-muted">Última Actualización</small>
+                            </div>
+                        </div>
+                        <button class="btn btn-custom btn-sm me-2" onclick="scrapeBCP()">
+                            <i class="fas fa-download me-1"></i>
+                            Scrapear
+                        </button>
+                        <button class="btn btn-outline-secondary btn-sm" onclick="viewSourceDetails('bcp')">
+                            <i class="fas fa-eye me-1"></i>
+                            Detalles
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Data Verification Section -->
+        <div class="row mb-5">
+            <div class="col-12">
+                <h3 class="mb-4">
+                    <i class="fas fa-shield-alt me-2"></i>
+                    Verificación de Datos
+                </h3>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="verification-item">
+                            <h6 class="mb-2">
+                                <i class="fas fa-check-circle text-success me-2"></i>
+                                Fuentes Oficiales Verificadas
+                            </h6>
+                            <p class="mb-0 small">
+                                Todas las fuentes utilizadas son sitios web oficiales de instituciones reconocidas.
+                            </p>
+                        </div>
+                        <div class="verification-item">
+                            <h6 class="mb-2">
+                                <i class="fas fa-clock text-info me-2"></i>
+                                Actualización en Tiempo Real
+                            </h6>
+                            <p class="mb-0 small">
+                                Los datos se extraen directamente de las páginas web actuales, garantizando información actualizada.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="verification-item warning">
+                            <h6 class="mb-2">
+                                <i class="fas fa-exclamation-triangle text-warning me-2"></i>
+                                Limitaciones Técnicas
+                            </h6>
+                            <p class="mb-0 small">
+                                Algunos sitios requieren JavaScript o tienen medidas anti-bot que pueden afectar la extracción.
+                            </p>
+                        </div>
+                        <div class="verification-item">
+                            <h6 class="mb-2">
+                                <i class="fas fa-database text-primary me-2"></i>
+                                Validación con Excel
+                            </h6>
+                            <p class="mb-0 small">
+                                Los datos scrapeados se comparan automáticamente con el archivo "Becas Peru" para validación.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Technical Details -->
+        <div class="row mb-5">
+            <div class="col-12">
+                <h3 class="mb-4">
+                    <i class="fas fa-cogs me-2"></i>
+                    Detalles Técnicos del Scraping
+                </h3>
+                <div class="row">
+                    <div class="col-md-4 mb-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h6 class="card-title">
+                                    <i class="fas fa-code text-primary me-2"></i>
+                                    Tecnologías Utilizadas
+                                </h6>
+                                <ul class="list-unstyled small">
+                                    <li><i class="fas fa-check text-success me-1"></i> Python 3.8+</li>
+                                    <li><i class="fas fa-check text-success me-1"></i> Selenium WebDriver</li>
+                                    <li><i class="fas fa-check text-success me-1"></i> BeautifulSoup4</li>
+                                    <li><i class="fas fa-check text-success me-1"></i> Requests</li>
+                                    <li><i class="fas fa-check text-success me-1"></i> Pandas</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h6 class="card-title">
+                                    <i class="fas fa-shield-alt text-success me-2"></i>
+                                    Medidas de Seguridad
+                                </h6>
+                                <ul class="list-unstyled small">
+                                    <li><i class="fas fa-check text-success me-1"></i> Rate limiting</li>
+                                    <li><i class="fas fa-check text-success me-1"></i> User-Agent rotation</li>
+                                    <li><i class="fas fa-check text-success me-1"></i> Timeout handling</li>
+                                    <li><i class="fas fa-check text-success me-1"></i> Error recovery</li>
+                                    <li><i class="fas fa-check text-success me-1"></i> Respectful scraping</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h6 class="card-title">
+                                    <i class="fas fa-chart-line text-info me-2"></i>
+                                    Métricas de Calidad
+                                </h6>
+                                <ul class="list-unstyled small">
+                                    <li><i class="fas fa-check text-success me-1"></i> Deduplicación automática</li>
+                                    <li><i class="fas fa-check text-success me-1"></i> Validación de datos</li>
+                                    <li><i class="fas fa-check text-success me-1"></i> Logging detallado</li>
+                                    <li><i class="fas fa-check text-success me-1"></i> Monitoreo de errores</li>
+                                    <li><i class="fas fa-check text-success me-1"></i> Reportes de calidad</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Data Preview Section -->
+        <div class="row">
+            <div class="col-12">
+                <h3 class="mb-4">
+                    <i class="fas fa-table me-2"></i>
+                    Vista Previa de Datos
+                </h3>
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center mb-3">
+                            <h6 class="mb-0">Últimos Datos Scrapeados</h6>
+                            <button class="btn btn-outline-primary btn-sm" onclick="refreshDataPreview()">
+                                <i class="fas fa-sync-alt me-1"></i>
+                                Actualizar
+                            </button>
+                        </div>
+                        <div class="data-preview" id="dataPreview">
+                            <div class="text-center text-muted">
+                                <i class="fas fa-spinner fa-spin me-2"></i>
+                                Cargando datos...
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white py-4 mt-5">
+        <div class="container text-center">
+            <p class="mb-0">
+                <i class="fas fa-code me-2"></i>
+                API de Scraping de Becas Perú - Fuentes de Datos Oficiales
+            </p>
+            <small class="text-muted">Información extraída de sitios web oficiales para garantizar veracidad</small>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Custom JavaScript -->
+    <script>
+        // Funciones principales
+        async function scrapePronabec() {
+            await scrapeSource('pronabec', 'PRONABEC');
+        }
+        
+        async function scrapeUniversities() {
+            await scrapeSource('universities', 'Universidades');
+        }
+        
+        async function scrapeBCP() {
+            await scrapeSource('bcp', 'BCP');
+        }
+        
+        async function scrapeSource(source, displayName) {
+            try {
+                showAlert(`Iniciando scraping de ${displayName}...`, 'info');
+                updateSourceStatus(source, 'Scraping...');
+                
+                const response = await fetch(`/api/scrape/${source}`, {
+                    method: 'POST'
+                });
+                
+                if (response.ok) {
+                    const result = await response.json();
+                    showAlert(`Scraping de ${displayName} completado: ${result.total_becas} becas encontradas`, 'success');
+                    updateSourceData(source, result.total_becas);
+                    refreshDataPreview();
+                } else {
+                    throw new Error(`Error al scrapear ${displayName}`);
+                }
+            } catch (error) {
+                showAlert(`Error scraping ${displayName}: ` + error.message, 'danger');
+                updateSourceStatus(source, 'Error');
+            }
+        }
+        
+        async function refreshAllSources() {
+            try {
+                showAlert('Actualizando todas las fuentes...', 'info');
+                
+                const response = await fetch('/api/scrape/all', {
+                    method: 'POST'
+                });
+                
+                if (response.ok) {
+                    const result = await response.json();
+                    showAlert('Todas las fuentes actualizadas exitosamente', 'success');
+                    updateAllSourcesData();
+                    refreshDataPreview();
+                } else {
+                    throw new Error('Error al actualizar fuentes');
+                }
+            } catch (error) {
+                showAlert('Error al actualizar fuentes: ' + error.message, 'danger');
+            }
+        }
+        
+        async function viewSourceDetails(source) {
+            try {
+                const response = await fetch(`/api/data?source=${source}`);
+                if (response.ok) {
+                    const data = await response.json();
+                    
+                    const modalHtml = `
+                        <div class="modal fade" id="sourceModal" tabindex="-1">
+                            <div class="modal-dialog modal-xl">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">Detalles de ${source.toUpperCase()} (${data.length} becas)</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="table-responsive">
+                                            <table class="table table-striped table-hover">
+                                                <thead class="table-dark">
+                                                    <tr>
+                                                        <th>Nombre de la Beca</th>
+                                                        <th>Institución</th>
+                                                        <th>Descripción</th>
+                                                        <th>Promedio Requerido</th>
+                                                        <th>Enlace</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    ${data.map(beca => `
+                                                        <tr>
+                                                            <td><strong>${beca.nombre_beca}</strong></td>
+                                                            <td>${beca.institucion}</td>
+                                                            <td class="text-truncate" style="max-width: 200px;" title="${beca.descripcion}">
+                                                                ${beca.descripcion}
+                                                            </td>
+                                                            <td>
+                                                                ${beca.promedio_minimo ? 
+                                                                    `<span class="badge bg-info">${beca.promedio_minimo}</span>` : 
+                                                                    '<span class="text-muted">N/A</span>'
+                                                                }
+                                                            </td>
+                                                            <td>
+                                                                ${beca.enlace ? 
+                                                                    `<a href="${beca.enlace}" target="_blank" class="btn btn-sm btn-outline-primary">
+                                                                        <i class="fas fa-external-link-alt"></i>
+                                                                    </a>` : 
+                                                                    '<span class="text-muted">N/A</span>'
+                                                                }
+                                                            </td>
+                                                        </tr>
+                                                    `).join('')}
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                                        <button type="button" class="btn btn-primary" onclick="exportSourceData('${source}')">
+                                            <i class="fas fa-download me-1"></i>
+                                            Exportar Excel
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                    
+                    document.body.insertAdjacentHTML('beforeend', modalHtml);
+                    const modal = new bootstrap.Modal(document.getElementById('sourceModal'));
+                    modal.show();
+                    
+                    // Limpiar modal al cerrar
+                    document.getElementById('sourceModal').addEventListener('hidden.bs.modal', function () {
+                        this.remove();
+                    });
+                } else {
+                    throw new Error('Error al obtener detalles de la fuente');
+                }
+            } catch (error) {
+                showAlert('Error al obtener detalles: ' + error.message, 'danger');
+            }
+        }
+        
+        async function refreshDataPreview() {
+            try {
+                const response = await fetch('/api/data');
+                if (response.ok) {
+                    const data = await response.json();
+                    
+                    const previewHtml = `
+                        <div class="table-responsive">
+                            <table class="table table-sm table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Nombre</th>
+                                        <th>Institución</th>
+                                        <th>Fuente</th>
+                                        <th>Fecha</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    ${data.slice(0, 10).map(beca => `
+                                        <tr>
+                                            <td class="fw-bold">${beca.nombre_beca}</td>
+                                            <td>${beca.institucion}</td>
+                                            <td>
+                                                <span class="badge bg-secondary">${beca.fuente}</span>
+                                            </td>
+                                            <td class="text-muted small">
+                                                ${beca.fecha_scraping ? new Date(beca.fecha_scraping).toLocaleDateString() : 'N/A'}
+                                            </td>
+                                        </tr>
+                                    `).join('')}
+                                </tbody>
+                            </table>
+                        </div>
+                        ${data.length > 10 ? `<p class="text-muted text-center mb-0">Mostrando 10 de ${data.length} becas totales</p>` : ''}
+                    `;
+                    
+                    document.getElementById('dataPreview').innerHTML = previewHtml;
+                } else {
+                    throw new Error('Error al obtener vista previa');
+                }
+            } catch (error) {
+                document.getElementById('dataPreview').innerHTML = `
+                    <div class="text-center text-danger">
+                        <i class="fas fa-exclamation-triangle me-2"></i>
+                        Error al cargar datos: ${error.message}
+                    </div>
+                `;
+            }
+        }
+        
+        async function exportSourceData(source) {
+            try {
+                const response = await fetch(`/api/export?source=${source}`);
+                if (response.ok) {
+                    const blob = await response.blob();
+                    const url = window.URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = url;
+                    a.download = `becas_${source}_${new Date().toISOString().split('T')[0]}.xlsx`;
+                    document.body.appendChild(a);
+                    a.click();
+                    document.body.removeChild(a);
+                    window.URL.revokeObjectURL(url);
+                    
+                    showAlert(`Datos de ${source} exportados exitosamente`, 'success');
+                } else {
+                    throw new Error('Error al exportar datos');
+                }
+            } catch (error) {
+                showAlert('Error al exportar: ' + error.message, 'danger');
+            }
+        }
+        
+        // Funciones auxiliares
+        function updateSourceStatus(source, status) {
+            const statusElement = document.getElementById(`${source}Status`);
+            if (statusElement) {
+                statusElement.textContent = status;
+                statusElement.className = `badge status-badge ${
+                    status === 'Activo' ? 'bg-success' : 
+                    status === 'Error' ? 'bg-danger' : 'bg-warning'
+                }`;
+            }
+        }
+        
+        function updateSourceData(source, count) {
+            const countElement = document.getElementById(`${source}Count`);
+            const updateElement = document.getElementById(`${source}LastUpdate`);
+            
+            if (countElement) countElement.textContent = count;
+            if (updateElement) updateElement.textContent = new Date().toLocaleTimeString();
+            
+            updateSourceStatus(source, 'Activo');
+        }
+        
+        async function updateAllSourcesData() {
+            try {
+                const sources = ['pronabec', 'universidades', 'bcp'];
+                
+                for (const source of sources) {
+                    const response = await fetch(`/api/data?source=${source}`);
+                    if (response.ok) {
+                        const data = await response.json();
+                        // Mapear el nombre de la fuente al ID del elemento
+                        const elementId = source === 'universidades' ? 'universities' : source;
+                        updateSourceData(elementId, data.length);
+                    }
+                }
+            } catch (error) {
+                console.error('Error updating sources data:', error);
+            }
+        }
+        
+        function showAlert(message, type) {
+            const alertHtml = `
+                <div class="alert alert-${type} alert-dismissible fade show" role="alert">
+                    ${message}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            `;
+            
+            const container = document.querySelector('.container');
+            container.insertAdjacentHTML('afterbegin', alertHtml);
+            
+            // Auto-dismiss after 5 seconds
+            setTimeout(() => {
+                const alert = container.querySelector('.alert');
+                if (alert) {
+                    const bsAlert = new bootstrap.Alert(alert);
+                    bsAlert.close();
+                }
+            }, 5000);
+        }
+        
+        // Inicialización
+        document.addEventListener('DOMContentLoaded', function() {
+            updateAllSourcesData();
+            refreshDataPreview();
+        });
+    </script>
+</body>
+</html>
