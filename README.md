@@ -10,7 +10,7 @@
 
 ## 👥 Integrantes del Equipo  
 - Calizaya Ladera, Andy Michael
-- Nombre 2  
+- Vargas Gutierrez, Angel Jose
 - Nombre 3  
 
 ---
