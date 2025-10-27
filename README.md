@@ -86,7 +86,11 @@ IDB = (0.3 * Académicos) + (0.3 * Socioeconómicos) + (0.2 * Documentos) + (0.2
 - 📈 **Gráfico comparativo**: Becas ordenadas por índice de dificultad (IDB).  
 - 📊 **Radar chart**: Requisitos académicos vs. socioeconómicos por beca.  
 - 🗺️ **Mapa**: Cobertura de manutención por región.  
-- 📋 **Tabla dinámica**: Fechas de convocatoria y duración del proceso.  
+- 📋 **Tabla dinámica**: Fechas de convocatoria y duración del proceso.
+
+  <img width="1331" height="786" alt="image" src="https://github.com/user-attachments/assets/e9454cbe-6593-4300-b663-dff812f56b97" />
+  <img width="1365" height="756" alt="image" src="https://github.com/user-attachments/assets/bd684f9e-ceb7-4c44-a6eb-f5b2c12a75c6" />
+
 
 ---
 
