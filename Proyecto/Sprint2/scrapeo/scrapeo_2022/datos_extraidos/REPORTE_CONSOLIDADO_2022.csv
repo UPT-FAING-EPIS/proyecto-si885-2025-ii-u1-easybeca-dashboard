@@ -1,0 +1,6 @@
+﻿Dataset,Año,Registros,Descripción,Archivo,Utilidad_Dashboard
+Becarios por Departamento,2022,25,"Distribución de becarios aptos, asistentes e inasistentes por departamento",becarios_por_departamento_2022.csv,"Mapa de calor, gráficos geográficos, distribución regional"
+Becas por Tipo y Modalidad,2022,20,"Tipos de becas, becarios continuadores y becas otorgadas en 2022",becas_por_tipo_modalidad_2022.csv,"Gráficos de barras, distribución por programa"
+Metas y Otorgamiento,2022,14,Metas planteadas vs becas otorgadas por programa,metas_otorgamiento_becas_2022.csv,"KPIs, indicadores de cumplimiento, gráficos de progreso"
+Becas Internacionales,2022,15,Becas de maestría y doctorado por país de destino,becas_internacionales_pais_2022.csv,"Migración internacional, distribución por país"
+Créditos Educativos,2022,4,Modalidades de crédito educativo con beneficiarios y montos,creditos_educativos_2022.csv,"Análisis financiero, distribución de recursos"

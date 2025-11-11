@@ -1,0 +1,167 @@
+{
+  "fecha_generacion": "2025-10-23 15:51:29",
+  "total_registros": 182,
+  "resumen_por_beca": {
+    "beca_tec": {
+      "nombre_beca": "Beca Tec",
+      "total_registros": 61,
+      "instituciones_unicas": 9,
+      "programas_unicos": 31
+    },
+    "beca_18": {
+      "nombre_beca": "Beca 18",
+      "total_registros": 103,
+      "instituciones_unicas": 95,
+      "programas_unicos": 4
+    },
+    "beca_peru": {
+      "nombre_beca": "Beca Perú",
+      "total_registros": 12,
+      "instituciones_unicas": 12,
+      "programas_unicos": 1
+    },
+    "chevening": {
+      "nombre_beca": "Becas Chevening",
+      "total_registros": 3,
+      "instituciones_unicas": 3,
+      "programas_unicos": 1
+    },
+    "fulbright": {
+      "nombre_beca": "Becas Fulbright",
+      "total_registros": 3,
+      "instituciones_unicas": 3,
+      "programas_unicos": 1
+    }
+  },
+  "resumen_por_region": {
+    "Lima": {
+      "total_registros": 61,
+      "instituciones_unicas": 37
+    },
+    "Arequipa": {
+      "total_registros": 20,
+      "instituciones_unicas": 6
+    },
+    "Cusco": {
+      "total_registros": 10,
+      "instituciones_unicas": 3
+    },
+    "Lambayeque": {
+      "total_registros": 13,
+      "instituciones_unicas": 4
+    },
+    "Nacional": {
+      "total_registros": 37,
+      "instituciones_unicas": 37
+    },
+    "Puno": {
+      "total_registros": 3,
+      "instituciones_unicas": 2
+    },
+    "Ayacucho": {
+      "total_registros": 3,
+      "instituciones_unicas": 1
+    },
+    "Tacna": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Huacho": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Tarapoto": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Huancayo": {
+      "total_registros": 3,
+      "instituciones_unicas": 3
+    },
+    "Andahuaylas": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Pasco": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Huaraz": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Iquitos": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Chimbote": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Tingo María": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Sullana": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Ucayali": {
+      "total_registros": 2,
+      "instituciones_unicas": 1
+    },
+    "La Cantuta": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Chiclayo": {
+      "total_registros": 2,
+      "instituciones_unicas": 2
+    },
+    "Abancay": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Trujillo": {
+      "total_registros": 2,
+      "instituciones_unicas": 2
+    },
+    "Trujillo/Lima": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Huancavelica": {
+      "total_registros": 2,
+      "instituciones_unicas": 1
+    },
+    "La Libertad": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Piura": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "San Martín": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Junín": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Huánuco": {
+      "total_registros": 1,
+      "instituciones_unicas": 1
+    },
+    "Reino Unido": {
+      "total_registros": 3,
+      "instituciones_unicas": 3
+    },
+    "Estados Unidos": {
+      "total_registros": 3,
+      "instituciones_unicas": 3
+    }
+  },
+  "resumen_por_tipo_institucion": {}
+}

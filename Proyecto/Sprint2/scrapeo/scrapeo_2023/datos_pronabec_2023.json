@@ -1,0 +1,183 @@
+{
+  "becarios_por_departamento": [
+    {
+      "pagina": 31,
+      "texto": "superiores, lo que representa un 43.1 %. La región de estudios elegida por los beca-",
+      "numeros": [
+        "43",
+        "1"
+      ]
+    },
+    {
+      "pagina": 31,
+      "texto": "rios que deciden migrar se ha concentrado en la región de Lima: representa el 88.9",
+      "numeros": [
+        "88",
+        "9"
+      ]
+    },
+    {
+      "pagina": 32,
+      "texto": "MEMORIA ANUAL DEL PRONABEC 202232Distribución de becarios según región de procedencia. Beca 18-2023",
+      "numeros": [
+        "18",
+        "2023"
+      ]
+    },
+    {
+      "pagina": 32,
+      "texto": "Por región de RENIEC Gráfico 4.  Migración de becarios-Beca 18- Convocatoria 2023",
+      "numeros": [
+        "4",
+        "18",
+        "2023"
+      ]
+    }
+  ],
+  "becarios_por_institucion": [
+    {
+      "pagina": 31,
+      "texto": "Finalmente, se otorgaron 4998 becas: 3991 para universidades y 1007 para insti-"
+    }
+  ],
+  "becarios_por_carrera": [
+    {
+      "pagina": 26,
+      "texto": "Beca Inclusión para Carreras Universitarias"
+    },
+    {
+      "pagina": 30,
+      "texto": "Beca 18 en la identificación de las carreras alineadas a sus preferencias y sus ap-"
+    },
+    {
+      "pagina": 30,
+      "texto": "carrera y una institución de educación superior (IES) adecuada a su perfil y prefe-"
+    },
+    {
+      "pagina": 30,
+      "texto": "las plataformas “Aprendo en Casa La Pre” y “Ponte en Carrera”. Igualmente, tuvieron"
+    },
+    {
+      "pagina": 30,
+      "texto": "disposición opciones de carrera que resultan de la realización de tres test"
+    },
+    {
+      "pagina": 30,
+      "texto": "de carreras por Concytec, así como los puntos adicionales de priorización"
+    }
+  ],
+  "becarios_por_modalidad": [
+    {
+      "pagina": 26,
+      "texto": "Pregrado Beca 18 5000 4998 100.0"
+    },
+    {
+      "pagina": 26,
+      "texto": "EspecialesBeca Inclusión Técnico-Productiva 100 96 96.0"
+    },
+    {
+      "pagina": 26,
+      "texto": "Beca para Situaciones Especiales en"
+    },
+    {
+      "pagina": 26,
+      "texto": "Situaciones Especiales110 107 97.3"
+    },
+    {
+      "pagina": 26,
+      "texto": "Beca Permanencia de Estudios Nacional 8000 7962 99.5"
+    },
+    {
+      "pagina": 27,
+      "texto": "2.1.1.1. Beca 18"
+    },
+    {
+      "pagina": 27,
+      "texto": "Beca 18 busca incrementar el acceso y la culminación de estudios de educación"
+    },
+    {
+      "pagina": 27,
+      "texto": "ción Básica Alternativa o Educación Básica Especial, con alto rendimiento académi-"
+    },
+    {
+      "pagina": 27,
+      "texto": "poblaciones vulnerables o en situaciones especiales."
+    },
+    {
+      "pagina": 27,
+      "texto": "Beca 18 contempla, además de la modalidad ordinaria, siete modalidades especia-"
+    },
+    {
+      "pagina": 27,
+      "texto": "les, las cuales atienden a poblaciones vulnerables o en situaciones especiales:"
+    },
+    {
+      "pagina": 28,
+      "texto": "Post en redes socialesGráfico 2. Canales de difusión de la convocatoria 2023 de Beca 18Difusión de la convocatoria 2023"
+    },
+    {
+      "pagina": 30,
+      "texto": "Beca 18 en la identificación de las carreras alineadas a sus preferencias y sus ap-"
+    },
+    {
+      "pagina": 31,
+      "texto": "La meta de la Beca 18, convocatoria 2023, fue de 5000 becas a nivel nacional."
+    },
+    {
+      "pagina": 31,
+      "texto": "Brecha: 89.8 %Gráfico 3. Cobertura de Beca 18"
+    },
+    {
+      "pagina": 32,
+      "texto": "MEMORIA ANUAL DEL PRONABEC 202232Distribución de becarios según región de procedencia. Beca 18-2023"
+    },
+    {
+      "pagina": 32,
+      "texto": "Por región de RENIEC Gráfico 4.  Migración de becarios-Beca 18- Convocatoria 2023"
+    },
+    {
+      "pagina": 34,
+      "texto": "Beca 18- 2023 según sexo"
+    },
+    {
+      "pagina": 73,
+      "texto": "año 2023, se logró una ejecución del 99.8 %. Beca 18 y Beca Permanencia tuvieron"
+    },
+    {
+      "pagina": 73,
+      "texto": "0122 “Acceso y permanencia de población con alto rendimiento académico a una"
+    },
+    {
+      "pagina": 74,
+      "texto": "Beca 18 Beca Permanencia Beca Continuidad Beca Generación"
+    },
+    {
+      "pagina": 75,
+      "texto": "MEMORIA ANUAL DEL PRONABEC 202275En otras becas se incluyen las becas especiales: Beca Alianza Pacífico, Becas Téc -"
+    },
+    {
+      "pagina": 75,
+      "texto": "principal producto es Beca 18, ascendió a S/ 549,8 millones, monto que representó"
+    },
+    {
+      "pagina": 88,
+      "texto": "Imágenes del Lanzamiento de Beca 18 con la participación de medios de comuni-"
+    }
+  ],
+  "becarios_por_estrato": [],
+  "becarios_migracion": [
+    {
+      "pagina": 31,
+      "texto": "Respecto a la migración de los becarios al momento de iniciar los estudios, de los"
+    },
+    {
+      "pagina": 32,
+      "texto": "Por región de RENIEC Gráfico 4.  Migración de becarios-Beca 18- Convocatoria 2023"
+    },
+    {
+      "pagina": 75,
+      "texto": "Ciencia, Beca Traslado."
+    }
+  ],
+  "estadisticas_generales": []
+}

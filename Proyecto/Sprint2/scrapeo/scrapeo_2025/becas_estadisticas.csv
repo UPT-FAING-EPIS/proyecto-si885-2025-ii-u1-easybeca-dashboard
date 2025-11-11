@@ -1,0 +1,48 @@
+﻿tipo_estadistica,categoria,cantidad
+total_becas,Total,24
+por_institucion,PRONABEC,5
+por_institucion,PRONABEC (coordinación),1
+por_institucion,MINEDU,2
+por_institucion,CONCYTEC,1
+por_institucion,SERNANP,1
+por_institucion,Gobierno del Reino Unido,1
+por_institucion,Gobierno de Estados Unidos,1
+por_institucion,Unión Europea,1
+por_institucion,Gobierno de Alemania,1
+por_institucion,Gobierno de Francia,1
+por_institucion,Gobierno de Japón,1
+por_institucion,Gobierno de Corea del Sur,1
+por_institucion,Gobierno de China,1
+por_institucion,Gobiernos Regionales,1
+por_institucion,Municipalidades,1
+por_institucion,Fundación Romero,1
+por_institucion,Fundación Telefónica,1
+por_institucion,Universidades Privadas,1
+por_institucion,Empresas Privadas,1
+por_categoria,Pregrado,4
+por_categoria,Técnico,1
+por_categoria,Posgrado,5
+por_categoria,Financiamiento,1
+por_categoria,Capacitación,2
+por_categoria,Especialización,1
+por_categoria,Pregrado/Posgrado,7
+por_categoria,Variable,3
+por_modalidad,Presencial,3
+por_modalidad,Presencial únicamente,1
+por_modalidad,Presencial en el extranjero,1
+por_modalidad,Nacional e Internacional,1
+por_modalidad,Préstamo con condiciones preferenciales,1
+por_modalidad,Presencial/Virtual,2
+por_modalidad,Nacional/Internacional,1
+por_modalidad,Variable,6
+por_modalidad,Presencial en Reino Unido,1
+por_modalidad,Presencial en Estados Unidos,1
+por_modalidad,Presencial en Europa,1
+por_modalidad,Presencial en Alemania,1
+por_modalidad,Presencial en Francia,1
+por_modalidad,Presencial en Japón,1
+por_modalidad,Presencial en Corea del Sur,1
+por_modalidad,Presencial en China,1
+becas_activas,Total,20
+becas_internacionales,Total,8
+becas_nacionales,Total,16

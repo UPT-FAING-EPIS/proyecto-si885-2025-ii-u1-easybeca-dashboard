@@ -1,0 +1,29 @@
+{
+  "año": 2024,
+  "total_departamentos": 26,
+  "total_becarios": 727,
+  "tipos_becas": 3,
+  "instituciones": 4,
+  "top_5_departamentos": [
+    {
+      "Departamento": "Lima",
+      "CantidadBecarios": 151
+    },
+    {
+      "Departamento": "Ica",
+      "CantidadBecarios": 93
+    },
+    {
+      "Departamento": "Callao",
+      "CantidadBecarios": 49
+    },
+    {
+      "Departamento": "Cusco",
+      "CantidadBecarios": 43
+    },
+    {
+      "Departamento": "Piura",
+      "CantidadBecarios": 42
+    }
+  ]
+}

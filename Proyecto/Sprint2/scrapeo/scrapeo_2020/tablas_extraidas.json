@@ -1,0 +1,4234 @@
+[
+  {
+    "page": 10,
+    "table_number": 1,
+    "data": [
+      [
+        "Mes",
+        "Hito o Evento Importante",
+        "Tipo de Hito"
+      ],
+      [
+        "Enero",
+        "Aprobación del plan de supervisión de ejecución de subvenciones para el\n2020.",
+        "Operativo"
+      ],
+      [
+        "Febrero",
+        "Lanzamiento de la convocatoria del Crédito Talento 2020.",
+        "Operativo"
+      ],
+      [
+        null,
+        "Desarrollo y ejecución de ferias informativas sobre la oferta educativa de\nlas Instituciones Educativas Superiores para jóvenes preseleccionados de\nBeca 18, convocatoria 2020.",
+        "Estratégico"
+      ],
+      [
+        "Marzo",
+        "Lanzamiento de la convocatoria del concurso Beca de Excelencia\nAcadémica para Hijos de Docentes, con mejoras en las bases del\nconcurso y lanzamiento de plataforma de postulación electrónica.",
+        "Operativo"
+      ],
+      [
+        null,
+        "Aprobación de la creación de la beca especial denominada Beca Deporte\nEscolar” y de las bases del concurso para la convocatoria 2020.",
+        "Operativo"
+      ],
+      [
+        null,
+        "Aprobación de la creación de la beca especial denominada Beca Mujeres\nen Ciencia Pregrado y de las bases del concurso para la convocatoria\n2021.",
+        "Operativo"
+      ],
+      [
+        "Abril",
+        "Refuerzo de las notificaciones electrónicas a través de la casilla\nelectrónica del becario y a través del correo electrónico, en el caso de los\nusuarios.",
+        "Operativo"
+      ],
+      [
+        "Mayo",
+        "Aprobación de la creación de la beca especial denominada Beca Talento\nEscolar y de las bases del concurso para la convocatoria 2020.",
+        "Operativo"
+      ],
+      [
+        null,
+        "Aprobación de las bases del concurso Beca de Permanencia de Estudios\nNacional, convocatoria 2020, mediante RDE N.° 47-2020-MINEDU/VMGI-\nPRONABEC.",
+        "Operativo"
+      ],
+      [
+        null,
+        "Aprobación de la creación de la beca especial denominada Beca\nContinuidad de Estudios de Educación Superior.",
+        "Operativo"
+      ],
+      [
+        null,
+        "Lanzamiento del piloto de la plataforma de aprendizaje e-learning\n“Aprende+” a través de la implementación del Curso Empléate.",
+        "Operativo"
+      ],
+      [
+        null,
+        "Diseño y aplicación del Plan de Difusión para la Beca Presidente de la\nRepública, convocatoria 2020.",
+        "Estratégico"
+      ],
+      [
+        "Junio",
+        "Lanzamiento de la convocatoria de Beca Continuidad de Estudios de\nEducación convocatoria 2020. Con el lanzamiento de la plataforma de\npostulación electrónica de esta beca, se tiene como objetivo apoyar a los\nestudiantes talentosos afectados por la declaratoria de la emergencia\nsanitaria a causa del COVID-19.",
+        "Operativo"
+      ],
+      [
+        null,
+        "Aprobación de la creación del crédito especial denominado Crédito\nContinuidad de Estudios y de las bases de la convocatoria 2020. Este\ncrédito tiene como objetivo financiar por un año los estudios de educación\nsuperior de estudiantes de alto rendimiento afectados por la pandemia del\nCOVID-19.",
+        "Operativo"
+      ],
+      [
+        null,
+        "Lanzamiento de los cursos virtuales de inducción para nuevos\nbeneficiarios a través de la plataforma “Aprende+”.",
+        "Operativo"
+      ]
+    ]
+  },
+  {
+    "page": 11,
+    "table_number": 1,
+    "data": [
+      [
+        "Junio",
+        "Inicio de la intervención de riesgo de deserción con beneficiarios\nidentificados según el Sistema de Identificación de Riesgo y Alerta\nTemprana (Sirat).",
+        "Operativo"
+      ],
+      [
+        null,
+        "Aprobación de la modificación de las “Normas para la ejecución de\nsubvenciones para estudios en el Perú” y “Mejoramiento del proceso de\notorgamiento de la subvención por alojamiento a becarios” - Resolución\nDirectoral Ejecutiva n.° 058-2020-MINEDU-VMGI-PRONABEC",
+        "Estratégico"
+      ],
+      [
+        null,
+        "Mediante RDE N.° 072-2020-MINEDU/VMGI-PRONABEC, del 26 de junio\ndel 2020, se modificaron las bases del concurso Beca Permanencia\nde Estudios Nacional, convocatoria 2020, para que establezcan como\nbeneficio la entrega de subvención por concepto de laptop como medida\nextraordinaria y temporal por la aparición del COVID-19.",
+        "Operativo"
+      ],
+      [
+        "Julio",
+        "Lanzamiento de la Mesa de Partes Virtual del Pronabec.",
+        "Operativo"
+      ],
+      [
+        null,
+        "Suscripción del Memorándum de Entendimiento con el Banco\nInteramericano de Desarrollo (BID) y su Primera Enmienda para establecer\nlas bases sobre las que se viene realizando el intercambio de información\nentre ambas instituciones en relación al estudio “Efecto de la crisis del\nCOVID-19 sobre la transición hacia la educación superior de los jóvenes\nvulnerables en Perú”.",
+        "Estratégico"
+      ],
+      [
+        null,
+        "Mediante Resolución Directoral Ejecutiva n.° 077-2020-MINEDU/VMGI-\nPRONABEC, del 3 de julio del 2020, se modificaron las bases del concurso\nde la Beca Vocación de Maestro, convocatorias 2016 y 2017, para que\nestablezcan como beneficio, entre otros, el concepto de laptop o equipo\nde similar naturaleza como medida extraordinaria y temporal por la\naparición del COVID-19.",
+        "Operativo"
+      ],
+      [
+        "Agosto",
+        "Modificación de las normas del Compromiso de Servicio al Perú.",
+        "Estratégico"
+      ],
+      [
+        null,
+        "Aprobación del Plan de Prevención y Reducción del Riesgo ante COVID-19\ndel Pronabec.",
+        "Operativo"
+      ],
+      [
+        "Setiembre",
+        "Suscripción de convenios con instituciones financieras para facilitar el\npago a usuarios de Crédito Educativo y para que tengan mayor acceso a\ntravés de otros bancos.",
+        "Operativo"
+      ],
+      [
+        null,
+        "Inicio de la implementación del piloto para el reconocimiento de los\ncalendarios académicos de la convocatoria 2020 de las becas: Beca\nExcelencia Académica para Hijos de Docentes, Beca Deporte Escolar y\nBeca Talento Escolar.",
+        "Estratégico"
+      ],
+      [
+        "Octubre",
+        "Lanzamiento de la segunda convocatoria del Crédito Continuidad de\nEstudios 2020",
+        "Operativo"
+      ],
+      [
+        null,
+        "Lanzamiento de la convocatoria de Beca de Continuidad de Estudios de\nEducación Superior, convocatoria 2020 II, con lanzamiento de plataforma\nde postulación electrónica.",
+        "Operativo"
+      ],
+      [
+        null,
+        "Lanzamiento de la campaña de expectativa para la convocatoria del\nPrograma Piloto “Mentoría entre pares - Talentos en Acción”.",
+        "Operativo"
+      ],
+      [
+        "Noviembre",
+        "Aprobación de las bases del concurso Beca 18, convocatoria 2021",
+        "Operativo"
+      ],
+      [
+        null,
+        "Inicio de la difusión del concurso Beca 18, convocatoria 2021.",
+        "Estratégico"
+      ],
+      [
+        null,
+        "Aprobación del Documento Técnico “Expediente marco del modelo de\nacompañamiento del Programa Nacional de Becas y Crédito Educativo”\nmediante Resolución Directoral Ejecutiva n.° 180-2020-MINEDU-VMGI-\nPRONABEC.",
+        "Estratégico"
+      ]
+    ]
+  },
+  {
+    "page": 12,
+    "table_number": 1,
+    "data": [
+      [
+        "Noviembre",
+        "Aprobación del cambio de denominación de la Beca Presidente de la\nRepública por Beca Generación del Bicentenario, mediante Decreto\nSupremo n.° 014-2020-MINEDU",
+        "Operativo"
+      ],
+      [
+        null,
+        "Premio de Buenas Prácticas en Gestión Pública 2020, en la categoría\nComunicación Pública Efectiva",
+        "Estratégico"
+      ],
+      [
+        null,
+        "Culminación del diseño de la estrategia de Mentoría entre pares",
+        "Estratégico"
+      ],
+      [
+        "Diciembre",
+        "Inscripción de 80 272 estudiantes del 5.° año y egresados al concurso\nBeca 18 - Convocatoria 2021",
+        "Estratégico"
+      ],
+      [
+        null,
+        "Aprobación y creación de la Beca Especial denominada “Beca Inclusión”",
+        "Operativo"
+      ],
+      [
+        null,
+        "Aprobación del nuevo reglamento de la Ley n.° 29837 que crea\nel Programa Nacional de Becas y Crédito Educativo (DS N.°\n018-2020-MINEDU)",
+        "Estratégico"
+      ],
+      [
+        null,
+        "Lanzamiento de la convocatoria 2021 al concurso de Beca Inclusión\nTécnico Productiva",
+        "Operativo"
+      ],
+      [
+        null,
+        "Lanzamiento del asistente virtual y/o Chatbot “Sami” en la página web del\nPrograma y en la Intranet del Beneficiario, para la gestión y absolución de\nconsultas de los usuarios",
+        "Estratégico"
+      ],
+      [
+        null,
+        "Aprobación del procedimiento para el registro de finalización de estudios\ndel becario",
+        "Estratégico"
+      ],
+      [
+        null,
+        "Suscripción de la Adenda n.° 002 al Convenio 227-2016 entre el Pronabec\ny la Sunedu, cuyo objetivo es establecer mecanismos de coordinación\ny cooperación interinstitucional para compartir información bajo sus\ncompetencias a través de un mecanismo en línea, entre otros aspectos",
+        "Operativo"
+      ],
+      [
+        null,
+        "Mediante Resolución Directoral Ejecutiva n.° 195-2020-MINEDU/VMGI-\nPRONABEC, del 3 de diciembre del 2020, se modificaron las bases del\nconcurso de la Beca Permanencia de Estudios Nacional, convocatoria\n2016-III; Beca Permanencia de Estudios Nacional, convocatoria 2017,\n2018 y 2019; Beca Permanencia de Pregrado para Estudiantes de\nEscuelas de Arte, convocatoria 2017; Beca Continuidad de Estudios de\nEducación Superior, convocatoria 2020; y Beca Continuidad de Estudios\nde Educación Superior, convocatoria 2020-II, para que establezcan como\nbeneficio, entre otros, el concepto de laptop o equipo de similar naturaleza\ncomo medida extraordinaria y temporal por la aparición del COVID-19.",
+        "Operativo"
+      ]
+    ]
+  },
+  {
+    "page": 28,
+    "table_number": 1,
+    "data": [
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 29,
+    "table_number": 1,
+    "data": [
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 30,
+    "table_number": 1,
+    "data": [
+      [
+        "Reino Unido",
+        "25"
+      ],
+      [
+        "Argentina",
+        "19"
+      ],
+      [
+        "Estados Unidos",
+        "16"
+      ],
+      [
+        "Australia",
+        "15"
+      ],
+      [
+        "Chile",
+        "8"
+      ],
+      [
+        "Brasil",
+        "5"
+      ],
+      [
+        "Alemania",
+        "4"
+      ],
+      [
+        "Canadá",
+        "4"
+      ],
+      [
+        "Francia",
+        "4"
+      ],
+      [
+        "Holanda",
+        "3"
+      ],
+      [
+        "Bélgica",
+        "1"
+      ],
+      [
+        "Portugal",
+        "1"
+      ],
+      [
+        "Total",
+        "152"
+      ]
+    ]
+  },
+  {
+    "page": 42,
+    "table_number": 1,
+    "data": [
+      [
+        "MOMENTO 0",
+        "MOMENTO 1",
+        "MOMENTO 2",
+        "MOMENTO 3"
+      ],
+      [
+        "Beneficios de\nmi beca",
+        "Adaptación",
+        "Siempre puedo aprender más\n(mentalidad de crecimiento)",
+        "Herramientas básicas\npara la empleabilidad"
+      ],
+      [
+        "Mis deberes\ncomo becario",
+        "Estilos y\nestrategias de\naprendizaje",
+        "Comunicación asertiva",
+        "Orientación\nsobre prácticas\npreprofesionales y\npreparación para\nculminación exitosa"
+      ],
+      [
+        "Trámites y\nprocedimientos\nde la beca",
+        "Reconocimiento\ny regulación\nemocional",
+        "Búsqueda de información\nautorregulada",
+        "Habilidades de\ncomunicación efectiva"
+      ]
+    ]
+  },
+  {
+    "page": 43,
+    "table_number": 1,
+    "data": [
+      [
+        "Construyendo\nmi bienestar",
+        "Proyecto de\nvida",
+        "Motivación",
+        "Soluciones innovadoras"
+      ],
+      [
+        null,
+        null,
+        "Técnicas para afrontar la\nansiedad y el estrés",
+        "Compromiso de Servicio\nal Perú"
+      ],
+      [
+        null,
+        null,
+        "Empatía",
+        "Trabajo multidisciplinario"
+      ],
+      [
+        null,
+        null,
+        "Resolución de problemas y\ntoma de decisiones",
+        "Liderazgo"
+      ],
+      [
+        null,
+        null,
+        "Trabajo en equipo",
+        "Herramientas para la\nbúsqueda efectiva de\nempleo"
+      ],
+      [
+        null,
+        null,
+        "Perseverancia",
+        null
+      ],
+      [
+        null,
+        null,
+        "Perseverancia\nSentido de comunidad y\nsentido ético",
+        null
+      ]
+    ]
+  },
+  {
+    "page": 43,
+    "table_number": 2,
+    "data": [
+      [
+        "Beca",
+        "N.° de\nbecarios",
+        "N.° de becarios\nque culminaron\ninducción",
+        "% de culminación\nde inducción"
+      ],
+      [
+        "Beca 18",
+        "407",
+        "407",
+        "100 %"
+      ],
+      [
+        "Beca Excelencia Académica para Hijos\nde Docentes",
+        "77",
+        "77",
+        "100 %"
+      ],
+      [
+        "Total",
+        "484",
+        "484",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 44,
+    "table_number": 1,
+    "data": [
+      [
+        "Beca",
+        "N.° de becarios\nadjudicados",
+        "N.° de becarios\nque culminaron\ninducción",
+        "% de culminación\nde inducción"
+      ],
+      [
+        "Beca 18",
+        "4740",
+        "4504",
+        "95.0 %"
+      ],
+      [
+        "Beca Continuidad de Estudios",
+        "24 042",
+        "23 704",
+        "98.6 %"
+      ],
+      [
+        "Beca de Traslado",
+        "1640",
+        "1609",
+        "98.1 %"
+      ],
+      [
+        "Beca Deportes",
+        "100",
+        "90",
+        "90.0 %"
+      ],
+      [
+        "Beca Excelencia Académica para\nHijos de Docentes",
+        "427",
+        "381",
+        "89.2 %"
+      ],
+      [
+        "Beca Mi Vocación Técnica",
+        "1000",
+        "774",
+        "77.4 %"
+      ],
+      [
+        "Beca Permanencia",
+        "8559",
+        "8416",
+        "98.3 %"
+      ],
+      [
+        "Beca Talento Escolar",
+        "55",
+        "53",
+        "96.4 %"
+      ],
+      [
+        "Total",
+        "40 563",
+        "39 531",
+        "97.5 %"
+      ]
+    ]
+  },
+  {
+    "page": 44,
+    "table_number": 2,
+    "data": [
+      [
+        "Curso",
+        "N.° de becarios que culminaron el curso⁶¹"
+      ],
+      [
+        "Potenciando mi Aprendizaje",
+        "660"
+      ],
+      [
+        "Negociación 4.0",
+        "2996"
+      ],
+      [
+        "Introducción al Liderazgo y Management",
+        "2643"
+      ]
+    ]
+  },
+  {
+    "page": 48,
+    "table_number": 1,
+    "data": [
+      [
+        "Beca/Modalidad",
+        "Población objetivo",
+        "N.° de becarios que\nculminaron el taller",
+        "% de Participación"
+      ],
+      [
+        "Beca 18 EIB",
+        "17",
+        "16",
+        "94 %"
+      ],
+      [
+        "Beca 18 Albergue",
+        "23",
+        "16",
+        "70 %"
+      ]
+    ]
+  },
+  {
+    "page": 53,
+    "table_number": 1,
+    "data": [
+      [
+        "Meta",
+        "Modalidad",
+        "Becarios"
+      ],
+      [
+        "0025",
+        "Beca Vocación de Maestro, convocatorias 2016 y 2017",
+        "414"
+      ],
+      [
+        null,
+        "Beca Permanencia de Estudios Nacional, convocatoria 2020",
+        "6919"
+      ],
+      [
+        null,
+        "Beca Permanencia de Estudios Nacional, convocatorias 2016 III,\n2017, 2018 y 2019⁶⁹",
+        "3924"
+      ],
+      [
+        null,
+        "Beca Continuidad de Estudios Superiores, convocatoria 2020 I",
+        "8383"
+      ],
+      [
+        null,
+        "Beca Continuidad de Estudios Superiores, convocatoria 2020 II",
+        "3927"
+      ],
+      [
+        null,
+        "TOTAL",
+        "23 567"
+      ]
+    ]
+  },
+  {
+    "page": 54,
+    "table_number": 1,
+    "data": [
+      [
+        "70 217\n60 917 61 994 62 925\n527 97\n29 500\n22 262\n41 312\n44 654\n50 083\n30 791\n48 263\n10 558 29 350\n38 655 40 717\n12 471\n5224 5009 20 233 17 340\n12 842 11 962\n5224 7462 4534"
+      ],
+      [
+        "2012 2013 2014 2015 2016 2017 2018 2019 2020\nNuevos Continuadores"
+      ]
+    ]
+  },
+  {
+    "page": 54,
+    "table_number": 2,
+    "data": [
+      [
+        "29 50"
+      ],
+      [
+        "40 717"
+      ]
+    ]
+  },
+  {
+    "page": 54,
+    "table_number": 3,
+    "data": [
+      [
+        "22 26"
+      ],
+      [
+        "38 65"
+      ]
+    ]
+  },
+  {
+    "page": 54,
+    "table_number": 4,
+    "data": [
+      [
+        "44 65"
+      ],
+      [
+        "7 340"
+      ]
+    ]
+  },
+  {
+    "page": 54,
+    "table_number": 5,
+    "data": [
+      [
+        "50 08"
+      ],
+      [
+        "2 84"
+      ]
+    ]
+  },
+  {
+    "page": 54,
+    "table_number": 6,
+    "data": [
+      [
+        "48 26"
+      ],
+      [
+        "4534"
+      ]
+    ]
+  },
+  {
+    "page": 54,
+    "table_number": 7,
+    "data": [
+      [
+        "29 35"
+      ],
+      [
+        "1 962"
+      ]
+    ]
+  },
+  {
+    "page": 54,
+    "table_number": 8,
+    "data": [
+      [
+        "0 558"
+      ],
+      [
+        "0 233"
+      ]
+    ]
+  },
+  {
+    "page": 54,
+    "table_number": 9,
+    "data": [
+      [
+        "5009"
+      ],
+      [
+        "7462"
+      ]
+    ]
+  },
+  {
+    "page": 55,
+    "table_number": 1,
+    "data": [
+      [
+        "54.8"
+      ],
+      [
+        "41.6"
+      ],
+      [
+        "715.8"
+      ]
+    ]
+  },
+  {
+    "page": 55,
+    "table_number": 2,
+    "data": [
+      [
+        "31.8"
+      ],
+      [
+        "123.8"
+      ],
+      [
+        "636.6"
+      ]
+    ]
+  },
+  {
+    "page": 55,
+    "table_number": 3,
+    "data": [
+      [
+        "47.7"
+      ],
+      [
+        "27.8"
+      ],
+      [
+        "722.9"
+      ]
+    ]
+  },
+  {
+    "page": 55,
+    "table_number": 4,
+    "data": [
+      [
+        "134.4"
+      ],
+      [
+        "30.8"
+      ],
+      [
+        "594.0"
+      ]
+    ]
+  },
+  {
+    "page": 55,
+    "table_number": 5,
+    "data": [
+      [
+        "26.6"
+      ],
+      [
+        "32.0"
+      ],
+      [
+        "541.0"
+      ]
+    ]
+  },
+  {
+    "page": 55,
+    "table_number": 6,
+    "data": [
+      [
+        "39.1"
+      ],
+      [
+        "529.0"
+      ]
+    ]
+  },
+  {
+    "page": 55,
+    "table_number": 7,
+    "data": [
+      [
+        "5.3\n74.4"
+      ],
+      [
+        "340.2"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 1,
+    "data": [
+      [
+        "40 256"
+      ],
+      [
+        "9802"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 2,
+    "data": [
+      [
+        "40 843"
+      ],
+      [
+        "8170"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 3,
+    "data": [
+      [
+        "19 392"
+      ],
+      [
+        "26481"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 4,
+    "data": [
+      [
+        "28 926"
+      ],
+      [
+        "15 522"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 5,
+    "data": [
+      [
+        "38 884"
+      ],
+      [
+        "4027"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 6,
+    "data": [
+      [
+        "27 716"
+      ],
+      [
+        "11 600"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 7,
+    "data": [
+      [
+        "9879"
+      ],
+      [
+        "12538"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 8,
+    "data": [
+      [
+        "4976"
+      ],
+      [
+        "6464"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 9,
+    "data": [
+      [
+        "1322"
+      ],
+      [
+        "275"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 10,
+    "data": [
+      [
+        "675"
+      ],
+      [
+        "876"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 11,
+    "data": [
+      [
+        "722"
+      ],
+      [
+        "85"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 12,
+    "data": [
+      [
+        "311"
+      ],
+      [
+        "440"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 13,
+    "data": [
+      [
+        ""
+      ],
+      [
+        "673"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 14,
+    "data": [
+      [
+        "517"
+      ],
+      [
+        "129"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 15,
+    "data": [
+      [
+        "470"
+      ],
+      [
+        "151"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "table_number": 16,
+    "data": [
+      [
+        "349"
+      ],
+      [
+        "152"
+      ]
+    ]
+  },
+  {
+    "page": 57,
+    "table_number": 1,
+    "data": [
+      [
+        "8885"
+      ],
+      [
+        "3957"
+      ]
+    ]
+  },
+  {
+    "page": 57,
+    "table_number": 2,
+    "data": [
+      [
+        "3541"
+      ],
+      [
+        "6825"
+      ]
+    ]
+  },
+  {
+    "page": 57,
+    "table_number": 3,
+    "data": [
+      [
+        "1212"
+      ],
+      [
+        "6521"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "table_number": 1,
+    "data": [
+      [
+        "39 332"
+      ],
+      [
+        "7049"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "table_number": 2,
+    "data": [
+      [
+        "19 292"
+      ],
+      [
+        "25 551"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "table_number": 3,
+    "data": [
+      [
+        "37 467"
+      ],
+      [
+        "5092"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "table_number": 4,
+    "data": [
+      [
+        "32 883"
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "table_number": 5,
+    "data": [
+      [
+        "20 709"
+      ],
+      [
+        "3194"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "table_number": 6,
+    "data": [
+      [
+        "9867"
+      ],
+      [
+        "12 448"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "table_number": 7,
+    "data": [
+      [
+        "16 105"
+      ],
+      [
+        "4741"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "table_number": 8,
+    "data": [
+      [
+        "4976"
+      ],
+      [
+        "6452"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "table_number": 9,
+    "data": [
+      [
+        "10 731"
+      ],
+      [
+        "3477"
+      ]
+    ]
+  },
+  {
+    "page": 60,
+    "table_number": 1,
+    "data": [
+      [
+        "10 423"
+      ],
+      [
+        "8559"
+      ]
+    ]
+  },
+  {
+    "page": 60,
+    "table_number": 2,
+    "data": [
+      [
+        "4237"
+      ],
+      [
+        "8005"
+      ]
+    ]
+  },
+  {
+    "page": 60,
+    "table_number": 3,
+    "data": [
+      [
+        "3149"
+      ],
+      [
+        "2000"
+      ]
+    ]
+  },
+  {
+    "page": 60,
+    "table_number": 4,
+    "data": [
+      [
+        "1505"
+      ],
+      [
+        "2015"
+      ]
+    ]
+  },
+  {
+    "page": 62,
+    "table_number": 1,
+    "data": [
+      [
+        "1034"
+      ],
+      [
+        "427"
+      ]
+    ]
+  },
+  {
+    "page": 62,
+    "table_number": 2,
+    "data": [
+      [
+        "736"
+      ],
+      [
+        "401"
+      ]
+    ]
+  },
+  {
+    "page": 62,
+    "table_number": 3,
+    "data": [
+      [
+        "673"
+      ],
+      [
+        "168"
+      ]
+    ]
+  },
+  {
+    "page": 62,
+    "table_number": 4,
+    "data": [
+      [
+        "385"
+      ],
+      [
+        "304"
+      ]
+    ]
+  },
+  {
+    "page": 64,
+    "table_number": 1,
+    "data": [
+      [
+        "Beca",
+        "Continuadores"
+      ],
+      [
+        "Beca Complementaria de la Amistad Peruano Ecuatoriana",
+        "10"
+      ],
+      [
+        "Beca de Permanencia de Estudios Nacional Arte",
+        "106"
+      ],
+      [
+        "Beca de Permanencia de Estudios Nacional Para\nEstudiantes del CNM⁷⁵",
+        "1"
+      ],
+      [
+        "Beca Excelencia Académica",
+        "85"
+      ],
+      [
+        "Beca Excelencia Internacional Francia",
+        "162"
+      ],
+      [
+        "Vocación de Maestro",
+        "1 000"
+      ],
+      [
+        "Total",
+        "1 364"
+      ]
+    ]
+  },
+  {
+    "page": 65,
+    "table_number": 1,
+    "data": [
+      [
+        "2245\n2179\n2034\n1698\n1486 1364\n924\n1030\n2179\n100 2034\n1364\n930\n774 759\n102\n12 12\n90"
+      ],
+      [
+        "2013 2014 2015 2016 2017 2018 2019 2020\nNuevos Continuadores"
+      ]
+    ]
+  },
+  {
+    "page": 65,
+    "table_number": 2,
+    "data": [
+      [
+        "1486"
+      ],
+      [
+        "759"
+      ]
+    ]
+  },
+  {
+    "page": 65,
+    "table_number": 3,
+    "data": [
+      [
+        "924"
+      ],
+      [
+        "774"
+      ]
+    ]
+  },
+  {
+    "page": 65,
+    "table_number": 4,
+    "data": [
+      [
+        "100"
+      ],
+      [
+        "930"
+      ]
+    ]
+  },
+  {
+    "page": 67,
+    "table_number": 1,
+    "data": [
+      [
+        "758"
+      ],
+      [
+        "264"
+      ]
+    ]
+  },
+  {
+    "page": 67,
+    "table_number": 2,
+    "data": [
+      [
+        "675"
+      ],
+      [
+        "299"
+      ]
+    ]
+  },
+  {
+    "page": 67,
+    "table_number": 3,
+    "data": [
+      [
+        "33"
+      ],
+      [
+        "673"
+      ]
+    ]
+  },
+  {
+    "page": 67,
+    "table_number": 4,
+    "data": [
+      [
+        "644"
+      ],
+      [
+        "47"
+      ]
+    ]
+  },
+  {
+    "page": 67,
+    "table_number": 5,
+    "data": [
+      [
+        "264"
+      ],
+      [
+        "316"
+      ]
+    ]
+  },
+  {
+    "page": 67,
+    "table_number": 6,
+    "data": [
+      [
+        "366"
+      ],
+      [
+        "120"
+      ]
+    ]
+  },
+  {
+    "page": 67,
+    "table_number": 7,
+    "data": [
+      [
+        "325"
+      ],
+      [
+        "151"
+      ]
+    ]
+  },
+  {
+    "page": 67,
+    "table_number": 8,
+    "data": [
+      [
+        "305"
+      ],
+      [
+        "152"
+      ]
+    ]
+  },
+  {
+    "page": 69,
+    "table_number": 1,
+    "data": [
+      [
+        "Beca",
+        "Continuadores"
+      ],
+      [
+        "Beca Aleprona",
+        "7"
+      ],
+      [
+        "Beca de Reciprocidad Beca Perú-Colombia para\nciudadanos colombianos",
+        "6"
+      ],
+      [
+        "Beca Docente Universitario",
+        "31"
+      ],
+      [
+        "Total",
+        "44"
+      ]
+    ]
+  },
+  {
+    "page": 71,
+    "table_number": 1,
+    "data": [
+      [
+        "900"
+      ],
+      [
+        "5389"
+      ]
+    ]
+  },
+  {
+    "page": 71,
+    "table_number": 2,
+    "data": [
+      [
+        "213"
+      ],
+      [
+        "666"
+      ]
+    ]
+  },
+  {
+    "page": 73,
+    "table_number": 1,
+    "data": [
+      [
+        null,
+        null,
+        "1\n100",
+        null,
+        "103",
+        null,
+        null
+      ],
+      [
+        "100\n100",
+        "",
+        "200",
+        "",
+        "100\n99",
+        "",
+        "103"
+      ]
+    ]
+  },
+  {
+    "page": 76,
+    "table_number": 1,
+    "data": [
+      [
+        "Beca",
+        "Continuadores"
+      ],
+      [
+        "Beca de Reciprocidad Beca Perú - China para Ciudadanos Peruanos",
+        "9"
+      ],
+      [
+        "Beca Doble Oportunidad",
+        "54"
+      ],
+      [
+        "Beca Idioma Inglés",
+        "45"
+      ],
+      [
+        "Beca Inglés Docente Investigador de Universidades Públicas",
+        "6"
+      ],
+      [
+        "Beca Técnico Productiva",
+        "6"
+      ],
+      [
+        "Total",
+        "120"
+      ]
+    ]
+  },
+  {
+    "page": 76,
+    "table_number": 2,
+    "data": [
+      [
+        "8885"
+      ],
+      [
+        "2868"
+      ]
+    ]
+  },
+  {
+    "page": 76,
+    "table_number": 3,
+    "data": [
+      [
+        "3540"
+      ],
+      [
+        "6725"
+      ]
+    ]
+  },
+  {
+    "page": 76,
+    "table_number": 4,
+    "data": [
+      [
+        "1212"
+      ],
+      [
+        "6432"
+      ]
+    ]
+  },
+  {
+    "page": 79,
+    "table_number": 1,
+    "data": [
+      [
+        "Modalidad de Crédito\nEducativo",
+        "Cantidad de\ncréditos",
+        "Monto\ndesembolsado (S/)",
+        "Participación\n(%)"
+      ],
+      [
+        "Crédito Continuidad",
+        "2479",
+        "3 725 179",
+        "62 %"
+      ],
+      [
+        "Crédito 18",
+        "196",
+        "1 940 142",
+        "32 %"
+      ],
+      [
+        "Crédito Talento",
+        "47",
+        "329 788",
+        "6 %"
+      ],
+      [
+        "Total",
+        "2722",
+        "5 995 109",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 80,
+    "table_number": 1,
+    "data": [
+      [
+        "Tipo Beneficiario",
+        "Cantidad de\nCréditos",
+        "Monto\nDesembolsado (S/)",
+        "Participación\n(%)"
+      ],
+      [
+        "Nuevo",
+        "40",
+        "266 393",
+        "81 %"
+      ],
+      [
+        "Continuador",
+        "7",
+        "63 395",
+        "19 %"
+      ],
+      [
+        "Total",
+        "47",
+        "329 788",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 80,
+    "table_number": 2,
+    "data": [
+      [
+        "Institución Educativa",
+        "Cantidad de\ncréditos",
+        "Montodesembolsado\n(S/)",
+        "Participación %"
+      ],
+      [
+        "Pontificia Universidad Católica\ndel Perú",
+        "131",
+        "1 207 561",
+        "62 %"
+      ],
+      [
+        "Universidad de Ingeniería y\nTecnología",
+        "30",
+        "439 708",
+        "23 %"
+      ],
+      [
+        "Universidad Peruana\nCayetano Heredia",
+        "30",
+        "256 878",
+        "13 %"
+      ],
+      [
+        "Universidad del Pacífico",
+        "5",
+        "35 996",
+        "2 %"
+      ],
+      [
+        "Total",
+        "196",
+        "1 940 142",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 81,
+    "table_number": 1,
+    "data": [
+      [
+        "Tipo de crédito\neducativo",
+        "Cantidad de\ncréditos",
+        "Monto otorgado\n(S/)",
+        "Participación\n(%)"
+      ],
+      [
+        "Pregrado",
+        "2479",
+        "3 725 179",
+        "100 %"
+      ],
+      [
+        "Total",
+        "2479",
+        "3 725 179",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 88,
+    "table_number": 1,
+    "data": [
+      [
+        "Genérica",
+        "Descripción",
+        "Fte.\nFto",
+        "PIM (a)",
+        "Ejecución (b)",
+        "Saldo\n(a-b)",
+        "%\nEjecución"
+      ],
+      [
+        "2.3",
+        "Bienes y\nservicios",
+        "R.O",
+        "56 419\n937.00",
+        "55 388\n815.88",
+        "1 031\n121.12",
+        "98.17 %"
+      ],
+      [
+        "2.3",
+        "Bienes y\nservicios",
+        "R.O.O.C",
+        "1 841 500.00",
+        "713\n419.72",
+        "1 128\n080.28",
+        "38.74 %"
+      ],
+      [
+        "2.5",
+        "Subvenciones",
+        "R.O",
+        "708 567\n171.00",
+        "706 817\n824.53",
+        "1 749\n346.47",
+        "99.75 %"
+      ],
+      [
+        "2.5",
+        "Subvenciones",
+        "R.O.O.C",
+        "91 053\n450.00",
+        "50 268\n936.10",
+        "40 784\n513.90",
+        "55.21 %"
+      ],
+      [
+        "2.6",
+        "Adquisición\nde activos no\nfinancieros",
+        "R.O",
+        "705\n960.00",
+        "189\n474.64",
+        "516\n485.36",
+        "26.84 %"
+      ],
+      [
+        "2.7",
+        "Crédito\neducativo",
+        "R.O",
+        "2 016\n403.00",
+        "1 001 551.37",
+        "1 014\n851.63",
+        "49.67 %"
+      ],
+      [
+        "2.7",
+        "Crédito\neducativo",
+        "R.D.R",
+        "10 283\n436.00",
+        "2 180\n394.56",
+        "8 103\n041.44",
+        "21.20 %"
+      ],
+      [
+        "2.7",
+        "Crédito\neducativo",
+        "R.O.O.C",
+        "16 745\n950.00",
+        "3 265\n965.22",
+        "13 479\n984.78",
+        "19.50 %"
+      ],
+      [
+        "Total",
+        "",
+        "",
+        "887 633 807.00",
+        "819 826 382.02",
+        "",
+        "92.36 %"
+      ]
+    ]
+  },
+  {
+    "page": 91,
+    "table_number": 1,
+    "data": [
+      [
+        "Beca",
+        "Cumplió",
+        "Observado",
+        "Total\nacreditado",
+        "%"
+      ],
+      [
+        "Beca Docente",
+        "3523",
+        "895",
+        "4418",
+        "53 %"
+      ],
+      [
+        "Beca 18",
+        "1365",
+        "271",
+        "1636",
+        "20 %"
+      ],
+      [
+        "Beca Idiomas",
+        "687",
+        "368",
+        "1055",
+        "13 %"
+      ],
+      [
+        "Beca Presidente de la República",
+        "350",
+        "233",
+        "583",
+        "7 %"
+      ],
+      [
+        "Beca Permanencia",
+        "227",
+        "32",
+        "259",
+        "3 %"
+      ],
+      [
+        "Beca Mi Vocación Técnica",
+        "160",
+        "38",
+        "198",
+        "2 %"
+      ],
+      [
+        "Beca Técnico Productiva",
+        "87",
+        "6",
+        "93",
+        "1 %"
+      ],
+      [
+        "Beca Doble Oportunidad",
+        "40",
+        "5",
+        "45",
+        "1 %"
+      ],
+      [
+        "Beca Especial para Graduados Universitarios",
+        "0",
+        "1",
+        "1",
+        "0 %"
+      ],
+      [
+        "Total",
+        "6439",
+        "1849",
+        "8288",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 91,
+    "table_number": 2,
+    "data": [
+      [
+        "Beca",
+        "Público objetivo",
+        "Asistieron",
+        "% asistencia"
+      ],
+      [
+        "Beca Presidente",
+        "164",
+        "133",
+        "81.1 %"
+      ],
+      [
+        "Beca de Traslado",
+        "36",
+        "36",
+        "80.6 %"
+      ],
+      [
+        "Beca Especial para Situaciones Especiales",
+        "749",
+        "503",
+        "67.2 %"
+      ],
+      [
+        "Beca Especial para Graduados Universitarios",
+        "6",
+        "4",
+        "66.7 %"
+      ],
+      [
+        "Beca 18",
+        "6728",
+        "3637",
+        "54.1 %"
+      ],
+      [
+        "Beca Permanencia",
+        "1583",
+        "824",
+        "52.1 %"
+      ],
+      [
+        "Beca Docente",
+        "3",
+        "0",
+        "0.0 %"
+      ],
+      [
+        "Total",
+        "9269",
+        "5137",
+        "55.4 %"
+      ]
+    ]
+  },
+  {
+    "page": 94,
+    "table_number": 1,
+    "data": [
+      [
+        "Modalidad",
+        "Total de becas\natendidas",
+        "Total de becas\npérdidas",
+        "% de pérdida"
+      ],
+      [
+        "Albergue",
+        "346",
+        "30",
+        "8.67 %"
+      ],
+      [
+        "Comunidades nativas",
+        "1211",
+        "111",
+        "9.17 %"
+      ],
+      [
+        "Educación Intercultural bilingüe",
+        "938",
+        "31",
+        "3.30 %"
+      ],
+      [
+        "Huallaga",
+        "503",
+        "17",
+        "3.38 %"
+      ],
+      [
+        "Licenciados FF. AA.",
+        "750",
+        "43",
+        "5.73 %"
+      ],
+      [
+        "Modalidad Ordinaria",
+        "14 208",
+        "511",
+        "3.60 %"
+      ],
+      [
+        "Modalidad Pregrado Internacional",
+        "164",
+        "13",
+        "7.93 %"
+      ],
+      [
+        "Repared",
+        "1634",
+        "72",
+        "4.41 %"
+      ],
+      [
+        "Vraem",
+        "1092",
+        "55",
+        "5.04 %"
+      ],
+      [
+        "Total",
+        "20 846",
+        "883",
+        "4.24 %"
+      ]
+    ]
+  },
+  {
+    "page": 95,
+    "table_number": 1,
+    "data": [
+      [
+        "Año",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      [
+        "PIA",
+        "0",
+        "323.7",
+        "512",
+        "858.3",
+        "903",
+        "936.8",
+        "734.4",
+        "712.3",
+        "806.9"
+      ],
+      [
+        "PIM",
+        "129.5",
+        "227.2",
+        "512.5",
+        "824.2",
+        "904.6",
+        "921.7",
+        "677.5",
+        "641.9",
+        "887.7"
+      ],
+      [
+        "Ejecutado",
+        "121.1",
+        "216.8",
+        "481.6",
+        "812.1",
+        "896.7",
+        "865",
+        "656.1",
+        "630.5",
+        "819.9"
+      ],
+      [
+        "% Ejecución\n/ PIM",
+        "93.50 %",
+        "95.40 %",
+        "94.00 %",
+        "98.50 %",
+        "99.10 %",
+        "93.80 %",
+        "96.80 %",
+        "98.20 %",
+        "92.36 %"
+      ]
+    ]
+  },
+  {
+    "page": 96,
+    "table_number": 1,
+    "data": [
+      [
+        "Fuente de Financiamiento",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      [
+        "Recursos Ordinarios (RO)",
+        "123.1",
+        "220.2",
+        "504.5",
+        "806.1",
+        "897.8",
+        "908.4",
+        "664.8",
+        "631.6",
+        "767.8"
+      ],
+      [
+        "Recursos Directamente\nRecaudados (RDR)",
+        "6.3",
+        "7",
+        "8.1",
+        "18.1",
+        "6.8",
+        "13.3",
+        "12.7",
+        "10.3",
+        "10.2"
+      ],
+      [
+        "Donaciones y Transferencias (DyT)",
+        "0.1",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "Recursos Por Operaciones\nOficiales de Crédito(ROOC)",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "109.6"
+      ],
+      [
+        "Total, PIM",
+        "129.5",
+        "227.2",
+        "512.5",
+        "824.2",
+        "904.6",
+        "921.7",
+        "677.5",
+        "641.9",
+        "887.6"
+      ],
+      [
+        "% RO / total PIM",
+        "95.10 %",
+        "96.90 %",
+        "98.40 %",
+        "97.80 %",
+        "99.30 %",
+        "98.60 %",
+        "98.10 %",
+        "98.40 %",
+        "86.50 %"
+      ],
+      [
+        "% RDR / total PIM",
+        "4.80 %",
+        "3.10 %",
+        "1.60 %",
+        "2.20 %",
+        "0.70 %",
+        "1.40 %",
+        "1.90 %",
+        "1.60 %",
+        "1.15 %"
+      ],
+      [
+        "% ROOC / total PIM",
+        "0 %",
+        "0 %",
+        "0 %",
+        "0 %",
+        "0 %",
+        "0 %",
+        "0 %",
+        "0 %",
+        "12.35 %"
+      ]
+    ]
+  },
+  {
+    "page": 97,
+    "table_number": 1,
+    "data": [
+      [
+        "Fuente de financiamiento",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      [
+        null,
+        "S/",
+        "S/",
+        "S/",
+        "S/",
+        "S/",
+        "S/",
+        "S/",
+        "S/",
+        "S/"
+      ],
+      [
+        null,
+        "(% Part.)",
+        "(% Part.)",
+        "(% Part.)",
+        "(% Part.)",
+        "(% Part.)",
+        "(% Part.)",
+        "(% Part.)",
+        "(% Part.)",
+        "(% Part.)"
+      ],
+      [
+        "5-23: Bienes y servicios",
+        "29.6",
+        "40.6",
+        "45",
+        "50.6",
+        "48.7",
+        "45.2",
+        "43.6",
+        "54.13",
+        "58.26"
+      ],
+      [
+        null,
+        "22.80 %",
+        "17.90 %",
+        "8.80 %",
+        "6.10 %",
+        "5.40 %",
+        "4.90 %",
+        "6.40 %",
+        "8.43 %",
+        "6.56 %"
+      ],
+      [
+        "5-24: Donaciones y\ntransferencias",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "4.2",
+        "0",
+        "0.05"
+      ],
+      [
+        null,
+        "0.00 %",
+        "0.00 %",
+        "0.00 %",
+        "0.00 %",
+        "0.00 %",
+        "0.00 %",
+        "0.60 %",
+        "0.00 %",
+        "0.06 %"
+      ],
+      [
+        "5-25: Otros gastos",
+        "90.4",
+        "177.1",
+        "456.3",
+        "754.5",
+        "845.9",
+        "862",
+        "616.1",
+        "576.03",
+        "799.62"
+      ],
+      [
+        null,
+        "69.80 %",
+        "78.00 %",
+        "89.00 %",
+        "91.50 %",
+        "93.50 %",
+        "93.50 %",
+        "91.00 %",
+        "89.74 %",
+        "90.03 %"
+      ],
+      [
+        "6-26: Adquisición de activos no\nfinancieros",
+        "2.7",
+        "2.5",
+        "3.2",
+        "1.4",
+        "0.8",
+        "1.2",
+        "0.8",
+        "1.42",
+        "0.71"
+      ],
+      [
+        null,
+        "2.10 %",
+        "1.10 %",
+        "0.60 %",
+        "0.20 %",
+        "0.10 %",
+        "0.10 %",
+        "0.10 %",
+        "0.22 %",
+        "0.08 %"
+      ],
+      [
+        "6-27: Adquisición de activos\nfinancieros",
+        "6.9",
+        "7",
+        "8",
+        "17.7",
+        "9.2",
+        "13.3",
+        "12.7",
+        "10.3",
+        "29.04"
+      ],
+      [
+        null,
+        "5.30 %",
+        "3.10 %",
+        "1.60 %",
+        "2.10 %",
+        "1.00 %",
+        "1.40 %",
+        "1.90 %",
+        "1.60 %",
+        "3.27 %"
+      ],
+      [
+        "Total PIM",
+        "129.5",
+        "227.2",
+        "512.5",
+        "824.2",
+        "904.6",
+        "921.7",
+        "677.5",
+        "641.88",
+        "887.68"
+      ],
+      [
+        null,
+        "100 %",
+        "100 %",
+        "100 %",
+        "100 %",
+        "100 %",
+        "100 %",
+        "100 %",
+        "100 %",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 104,
+    "table_number": 1,
+    "data": [
+      [
+        "Región",
+        "Nuevos",
+        "Continuadores",
+        "Total"
+      ],
+      [
+        "Amazonas",
+        "74",
+        "562",
+        "636"
+      ],
+      [
+        "Áncash",
+        "108",
+        "440",
+        "548"
+      ],
+      [
+        "Apurímac",
+        "126",
+        "737",
+        "863"
+      ],
+      [
+        "Arequipa",
+        "129",
+        "308",
+        "437"
+      ],
+      [
+        "Ayacucho",
+        "209",
+        "690",
+        "899"
+      ],
+      [
+        "Cajamarca",
+        "87",
+        "748",
+        "835"
+      ],
+      [
+        "Callao",
+        "245",
+        "463",
+        "708"
+      ],
+      [
+        "Cusco",
+        "189",
+        "904",
+        "1093"
+      ],
+      [
+        "Huancavelica",
+        "113",
+        "943",
+        "1056"
+      ],
+      [
+        "Huánuco",
+        "131",
+        "587",
+        "718"
+      ],
+      [
+        "Ica",
+        "112",
+        "220",
+        "332"
+      ],
+      [
+        "Junín",
+        "402",
+        "1250",
+        "1652"
+      ],
+      [
+        "La Libertad",
+        "124",
+        "374",
+        "498"
+      ],
+      [
+        "Lambayeque",
+        "158",
+        "504",
+        "662"
+      ],
+      [
+        "Lima",
+        "1793",
+        "3406",
+        "5199"
+      ],
+      [
+        "Loreto",
+        "87",
+        "869",
+        "956"
+      ],
+      [
+        "Madre de Dios",
+        "5",
+        "98",
+        "103"
+      ],
+      [
+        "Moquegua",
+        "10",
+        "63",
+        "73"
+      ],
+      [
+        "Pasco",
+        "43",
+        "337",
+        "380"
+      ],
+      [
+        "Piura",
+        "286",
+        "953",
+        "1239"
+      ],
+      [
+        "Puno",
+        "78",
+        "546",
+        "624"
+      ],
+      [
+        "San Martín",
+        "118",
+        "585",
+        "703"
+      ],
+      [
+        "Tacna",
+        "40",
+        "196",
+        "236"
+      ],
+      [
+        "Tumbes",
+        "27",
+        "91",
+        "118"
+      ],
+      [
+        "Ucayali",
+        "47",
+        "231",
+        "278"
+      ],
+      [
+        "Total",
+        "4741",
+        "16 105",
+        "20 846"
+      ]
+    ]
+  },
+  {
+    "page": 105,
+    "table_number": 1,
+    "data": [
+      [
+        "Áreas de estudio",
+        "Nuevos",
+        "Continuadores",
+        "Total"
+      ],
+      [
+        "Educación",
+        "119",
+        "866",
+        "985"
+      ],
+      [
+        "Humanidades y Arte",
+        "51",
+        "184",
+        "235"
+      ],
+      [
+        "Ciencias Sociales, Comerciales y Derecho",
+        "1223",
+        "4261",
+        "5484"
+      ],
+      [
+        "Ciencias Naturales, Exactas y de la\nComputación",
+        "147",
+        "797",
+        "944"
+      ],
+      [
+        "Ingeniería, Industria y Construcción",
+        "2593",
+        "8533",
+        "11 126"
+      ],
+      [
+        "Agropecuaria y Veterinaria",
+        "38",
+        "495",
+        "533"
+      ],
+      [
+        "Ciencias de la Salud",
+        "564",
+        "923",
+        "1487"
+      ],
+      [
+        "Servicios",
+        "6",
+        "46",
+        "52"
+      ],
+      [
+        "Total",
+        "4741",
+        "16 105",
+        "20 846"
+      ]
+    ]
+  },
+  {
+    "page": 105,
+    "table_number": 2,
+    "data": [
+      [
+        "Tipo de Institución",
+        "Nuevos",
+        "Continuadores",
+        "Total"
+      ],
+      [
+        "Instituto superior pedagógico",
+        "13",
+        "562",
+        "575"
+      ],
+      [
+        "Instituto superior tecnológico",
+        "313",
+        "3492",
+        "3805"
+      ],
+      [
+        "Universidad",
+        "4415",
+        "12 051",
+        "16 466"
+      ],
+      [
+        "Total",
+        "4741",
+        "16 105",
+        "20 846"
+      ]
+    ]
+  },
+  {
+    "page": 106,
+    "table_number": 1,
+    "data": [
+      [
+        "País de estudio",
+        "Nuevos",
+        "Continuadores",
+        "Total"
+      ],
+      [
+        "Alemania",
+        "4",
+        "2",
+        "6"
+      ],
+      [
+        "Argentina",
+        "19",
+        "27",
+        "46"
+      ],
+      [
+        "Australia",
+        "15",
+        "34",
+        "49"
+      ],
+      [
+        "Bélgica",
+        "1",
+        "2",
+        "3"
+      ],
+      [
+        "Brasil",
+        "5",
+        "9",
+        "14"
+      ],
+      [
+        "Canadá",
+        "4",
+        "3",
+        "7"
+      ],
+      [
+        "Chile",
+        "8",
+        "34",
+        "42"
+      ],
+      [
+        "Colombia",
+        "0",
+        "2",
+        "2"
+      ],
+      [
+        "España",
+        "47",
+        "114",
+        "161"
+      ],
+      [
+        "Estados Unidos",
+        "16",
+        "30",
+        "46"
+      ],
+      [
+        "Finlandia",
+        "0",
+        "1",
+        "1"
+      ],
+      [
+        "Francia",
+        "4",
+        "6",
+        "10"
+      ],
+      [
+        "Holanda",
+        "3",
+        "8",
+        "11"
+      ],
+      [
+        "Hong Kong",
+        "0",
+        "1",
+        "1"
+      ],
+      [
+        "Italia",
+        "0",
+        "1",
+        "1"
+      ],
+      [
+        "Portugal",
+        "1",
+        "1",
+        "2"
+      ],
+      [
+        "Reino Unido",
+        "25",
+        "29",
+        "54"
+      ],
+      [
+        "Suiza",
+        "0",
+        "1",
+        "1"
+      ],
+      [
+        "Total",
+        "152",
+        "305",
+        "457"
+      ]
+    ]
+  },
+  {
+    "page": 106,
+    "table_number": 2,
+    "data": [
+      [
+        "Tipo de programa",
+        "Nuevos",
+        "Continuadores",
+        "Total"
+      ],
+      [
+        "Doctorado",
+        "22",
+        "61",
+        "83"
+      ],
+      [
+        "Maestría",
+        "130",
+        "244",
+        "374"
+      ],
+      [
+        "Total",
+        "152",
+        "305",
+        "457"
+      ]
+    ]
+  },
+  {
+    "page": 107,
+    "table_number": 1,
+    "data": [
+      [
+        "Género",
+        "Cantidad de créditos",
+        "Participación %"
+      ],
+      [
+        "Mujeres",
+        "1537",
+        "56 %"
+      ],
+      [
+        "Hombres",
+        "1185",
+        "44 %"
+      ],
+      [
+        "Total",
+        "2722",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 107,
+    "table_number": 2,
+    "data": [
+      [
+        "Región Procedencia",
+        "Cantidad de Créditos",
+        "Monto desembolsado (S/)",
+        "Participación %"
+      ],
+      [
+        "Lima",
+        "1531",
+        "3 886 717",
+        "65 %"
+      ],
+      [
+        "Arequipa",
+        "152",
+        "177 276",
+        "3 %"
+      ],
+      [
+        "Cusco",
+        "141",
+        "258 652",
+        "4 %"
+      ],
+      [
+        "Junín",
+        "109",
+        "224 100",
+        "4 %"
+      ],
+      [
+        "Callao",
+        "101",
+        "320 054",
+        "5 %"
+      ],
+      [
+        "La Libertad",
+        "76",
+        "125 818",
+        "2 %"
+      ],
+      [
+        "Puno",
+        "66",
+        "138 063",
+        "2 %"
+      ],
+      [
+        "Lambayeque",
+        "63",
+        "105 743",
+        "2 %"
+      ],
+      [
+        "Piura",
+        "58",
+        "78 934",
+        "1 %"
+      ],
+      [
+        "Áncash",
+        "58",
+        "96 166",
+        "2 %"
+      ],
+      [
+        "Cajamarca",
+        "54",
+        "100 179",
+        "2 %"
+      ],
+      [
+        "Tacna",
+        "49",
+        "90 273",
+        "2 %"
+      ],
+      [
+        "Ayacucho",
+        "41",
+        "38 577",
+        "1 %"
+      ],
+      [
+        "San Martín",
+        "38",
+        "35 974",
+        "1 %"
+      ],
+      [
+        "Apurímac",
+        "31",
+        "46 198",
+        "1 %"
+      ],
+      [
+        "Ica",
+        "28",
+        "58 216",
+        "1 %"
+      ],
+      [
+        "Huánuco",
+        "26",
+        "38 903",
+        "1 %"
+      ],
+      [
+        "Amazonas",
+        "20",
+        "37 977",
+        "1 %"
+      ],
+      [
+        "Tumbes",
+        "20",
+        "27 292",
+        "0.5 %"
+      ],
+      [
+        "Ucayali",
+        "15",
+        "23 019",
+        "0.4 %"
+      ],
+      [
+        "Loreto",
+        "13",
+        "19 693",
+        "0.3 %"
+      ],
+      [
+        "Madre de Dios",
+        "11",
+        "22 170",
+        "0.4 %"
+      ],
+      [
+        "Huancavelica",
+        "10",
+        "23 654",
+        "0.4 %"
+      ],
+      [
+        "Moquegua",
+        "8",
+        "15 497",
+        "0.3 %"
+      ],
+      [
+        "Pasco",
+        "3",
+        "5964",
+        "0.1 %"
+      ],
+      [
+        "Total",
+        "2722",
+        "5 995 109",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 108,
+    "table_number": 1,
+    "data": [
+      [
+        "Género",
+        "Cantidad de créditos",
+        "Participación %"
+      ],
+      [
+        "Mujeres",
+        "28",
+        "60 %"
+      ],
+      [
+        "Hombres",
+        "19",
+        "40 %"
+      ],
+      [
+        "Total",
+        "47",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 108,
+    "table_number": 2,
+    "data": [
+      [
+        "Región Procedencia",
+        "Número de créditos",
+        "Monto Desembolsado (S/)",
+        "Participación %"
+      ],
+      [
+        "Lima",
+        "27",
+        "187 596",
+        "57 %"
+      ],
+      [
+        "Callao",
+        "5",
+        "45 913",
+        "14 %"
+      ],
+      [
+        "Junín",
+        "2",
+        "24 295",
+        "7 %"
+      ],
+      [
+        "Cusco",
+        "3",
+        "22 237",
+        "7 %"
+      ],
+      [
+        "Huánuco",
+        "1",
+        "11 457",
+        "3 %"
+      ],
+      [
+        "Tacna",
+        "2",
+        "10 769",
+        "3 %"
+      ],
+      [
+        "Cajamarca",
+        "2",
+        "6829",
+        "2 %"
+      ],
+      [
+        "Ica",
+        "1",
+        "6521",
+        "2 %"
+      ],
+      [
+        "Piura",
+        "1",
+        "6092",
+        "2 %"
+      ],
+      [
+        "Arequipa",
+        "2",
+        "4142",
+        "1 %"
+      ],
+      [
+        "Lambayeque",
+        "1",
+        "3937",
+        "1 %"
+      ],
+      [
+        "Total",
+        "47",
+        "329 788",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 108,
+    "table_number": 3,
+    "data": [
+      [
+        "Género",
+        "Cantidad de créditos",
+        "Participación %"
+      ],
+      [
+        "Hombres",
+        "104",
+        "53 %"
+      ],
+      [
+        "Mujeres",
+        "92",
+        "47 %"
+      ],
+      [
+        "Total",
+        "196",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 109,
+    "table_number": 1,
+    "data": [
+      [
+        "Región Procedencia",
+        "Cantidad de créditos",
+        "Monto Desembolsado (S/)",
+        "Participación %"
+      ],
+      [
+        "Lima",
+        "162",
+        "1 626 940",
+        "83.9 %"
+      ],
+      [
+        "Callao",
+        "19",
+        "173 187",
+        "8.9 %"
+      ],
+      [
+        "Junín",
+        "3",
+        "54 359",
+        "2.8 %"
+      ],
+      [
+        "Áncash",
+        "2",
+        "20 756",
+        "1.1 %"
+      ],
+      [
+        "Cajamarca",
+        "2",
+        "14 579",
+        "0.8 %"
+      ],
+      [
+        "Puno",
+        "2",
+        "12 539",
+        "0.6 %"
+      ],
+      [
+        "Lambayeque",
+        "2",
+        "12 283",
+        "0.6 %"
+      ],
+      [
+        "Ica",
+        "1",
+        "11 842",
+        "0.6 %"
+      ],
+      [
+        "Cusco",
+        "2",
+        "8958",
+        "0.5 %"
+      ],
+      [
+        "Piura",
+        "1",
+        "4700",
+        "0.2 %"
+      ],
+      [
+        "Total",
+        "196",
+        "1 940 142",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 109,
+    "table_number": 2,
+    "data": [
+      [
+        "Género",
+        "Cantidad de créditos",
+        "Participación (%)"
+      ],
+      [
+        "Mujeres",
+        "1417",
+        "57 %"
+      ],
+      [
+        "Hombres",
+        "1062",
+        "43 %"
+      ],
+      [
+        "Total",
+        "2479",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 110,
+    "table_number": 1,
+    "data": [
+      [
+        "Región procedencia",
+        "Cantidad de créditos",
+        "Monto desembolsado (S/)",
+        "Participación %"
+      ],
+      [
+        "Lima",
+        "1342",
+        "2 072 181",
+        "55.6 %"
+      ],
+      [
+        "Cusco",
+        "136",
+        "227 457",
+        "6.1 %"
+      ],
+      [
+        "Arequipa",
+        "150",
+        "173 134",
+        "4.6 %"
+      ],
+      [
+        "Junín",
+        "104",
+        "145 446",
+        "3.9 %"
+      ],
+      [
+        "La Libertad",
+        "76",
+        "125 818",
+        "3.4 %"
+      ],
+      [
+        "Puno",
+        "64",
+        "125 524",
+        "3.4 %"
+      ],
+      [
+        "Callao",
+        "77",
+        "100 954",
+        "2.7 %"
+      ],
+      [
+        "Lambayeque",
+        "60",
+        "89 524",
+        "2.4 %"
+      ],
+      [
+        "Tacna",
+        "47",
+        "79 503",
+        "2.1 %"
+      ],
+      [
+        "Cajamarca",
+        "50",
+        "78 771",
+        "2.1 %"
+      ],
+      [
+        "Áncash",
+        "56",
+        "75 411",
+        "2.0 %"
+      ],
+      [
+        "Piura",
+        "56",
+        "68 143",
+        "1.8 %"
+      ],
+      [
+        "Apurímac",
+        "31",
+        "46 198",
+        "1.2 %"
+      ],
+      [
+        "Ica",
+        "26",
+        "39 854",
+        "1.1 %"
+      ],
+      [
+        "Ayacucho",
+        "41",
+        "38 577",
+        "1.0 %"
+      ],
+      [
+        "Amazonas",
+        "20",
+        "37 977",
+        "1.0 %"
+      ],
+      [
+        "San Martín",
+        "38",
+        "35 974",
+        "1.0 %"
+      ],
+      [
+        "Huánuco",
+        "25",
+        "27 446",
+        "0.7 %"
+      ],
+      [
+        "Tumbes",
+        "20",
+        "27 292",
+        "0.7 %"
+      ],
+      [
+        "Huancavelica",
+        "10",
+        "23 654",
+        "0.6 %"
+      ],
+      [
+        "Ucayali",
+        "15",
+        "23 019",
+        "0.6 %"
+      ],
+      [
+        "Madre de Dios",
+        "11",
+        "22 170",
+        "0.6 %"
+      ],
+      [
+        "Loreto",
+        "13",
+        "19 693",
+        "0.5 %"
+      ],
+      [
+        "Moquegua",
+        "8",
+        "15 497",
+        "0.4 %"
+      ],
+      [
+        "Pasco",
+        "3",
+        "5964",
+        "0.2 %"
+      ],
+      [
+        "Total",
+        "2 479",
+        "3 725 179",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 111,
+    "table_number": 1,
+    "data": [
+      [
+        "Órganos",
+        "Hombres",
+        null,
+        "Mujeres",
+        null,
+        "Total",
+        null
+      ],
+      [
+        null,
+        "Personal",
+        "Porcentaje",
+        "Personal",
+        "Porcentaje",
+        "Personal",
+        "Porcentaje"
+      ],
+      [
+        "Dirección Ejecutiva",
+        "3",
+        "1 %",
+        "6",
+        "2 %",
+        "9",
+        "2 %"
+      ],
+      [
+        "Órganos de Asesoramiento",
+        "38",
+        "15 %",
+        "24",
+        "9 %",
+        "62",
+        "12 %"
+      ],
+      [
+        "Órganos de Apoyo",
+        "75",
+        "30 %",
+        "77",
+        "28 %",
+        "152",
+        "29 %"
+      ],
+      [
+        "Órganos de Línea",
+        "131",
+        "53 %",
+        "170",
+        "61 %",
+        "301",
+        "57 %"
+      ],
+      [
+        "Total general",
+        "247",
+        "100 %",
+        "277",
+        "100 %",
+        "524",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 111,
+    "table_number": 2,
+    "data": [
+      [
+        "Regiones",
+        "Hombres",
+        null,
+        "Mujeres",
+        null,
+        "Total",
+        null
+      ],
+      [
+        null,
+        "Personal",
+        "Porcentaje",
+        "Personal",
+        "Porcentaje",
+        "Personal",
+        "Porcentaje"
+      ],
+      [
+        "Amazonas",
+        "4",
+        "5 %",
+        "2",
+        "2 %",
+        "6",
+        "3 %"
+      ],
+      [
+        "Áncash",
+        "2",
+        "2 %",
+        "2",
+        "2 %",
+        "4",
+        "2 %"
+      ],
+      [
+        "Apurímac",
+        "2",
+        "2 %",
+        "3",
+        "3 %",
+        "5",
+        "3 %"
+      ],
+      [
+        "Arequipa",
+        "4",
+        "5 %",
+        "3",
+        "3 %",
+        "7",
+        "4 %"
+      ],
+      [
+        "Ayacucho",
+        "1",
+        "1 %",
+        "4",
+        "4 %",
+        "5",
+        "3 %"
+      ],
+      [
+        "Cajamarca",
+        "5",
+        "6 %",
+        "1",
+        "1 %",
+        "6",
+        "3 %"
+      ],
+      [
+        "Cusco",
+        "4",
+        "5 %",
+        "5",
+        "5 %",
+        "9",
+        "5 %"
+      ],
+      [
+        "Huancavelica",
+        "2",
+        "2 %",
+        "2",
+        "2 %",
+        "4",
+        "2 %"
+      ],
+      [
+        "Huánuco",
+        "4",
+        "5 %",
+        "2",
+        "2 %",
+        "6",
+        "3 %"
+      ],
+      [
+        "Ica",
+        "4",
+        "5 %",
+        "2",
+        "2 %",
+        "6",
+        "3 %"
+      ]
+    ]
+  },
+  {
+    "page": 112,
+    "table_number": 1,
+    "data": [
+      [
+        "Junín",
+        "4",
+        "5 %",
+        "3",
+        "3 %",
+        "7",
+        "4 %"
+      ],
+      [
+        "La Libertad",
+        "3",
+        "4 %",
+        "6",
+        "6 %",
+        "9",
+        "5 %"
+      ],
+      [
+        "Lambayeque",
+        "1",
+        "1 %",
+        "5",
+        "5 %",
+        "6",
+        "3 %"
+      ],
+      [
+        "Lima",
+        "11",
+        "13 %",
+        "32",
+        "33 %",
+        "43",
+        "23 %"
+      ],
+      [
+        "Loreto",
+        "2",
+        "2 %",
+        "9",
+        "9 %",
+        "11",
+        "6 %"
+      ],
+      [
+        "Madre De Dios",
+        "2",
+        "2 %",
+        "2",
+        "2 %",
+        "4",
+        "2 %"
+      ],
+      [
+        "Moquegua",
+        "3",
+        "4 %",
+        "1",
+        "1 %",
+        "4",
+        "2 %"
+      ],
+      [
+        "Pasco",
+        "4",
+        "5 %",
+        "1",
+        "1 %",
+        "5",
+        "3 %"
+      ],
+      [
+        "Piura",
+        "5",
+        "6%",
+        "3",
+        "3 %",
+        "8",
+        "4 %"
+      ],
+      [
+        "Puno",
+        "4",
+        "5 %",
+        "2",
+        "2 %",
+        "6",
+        "3 %"
+      ],
+      [
+        "San Martín",
+        "7",
+        "8 %",
+        "3",
+        "3 %",
+        "10",
+        "5 %"
+      ],
+      [
+        "Tacna",
+        "3",
+        "4 %",
+        "1",
+        "1 %",
+        "4",
+        "2 %"
+      ],
+      [
+        "Tumbes",
+        "3",
+        "4 %",
+        "1",
+        "1 %",
+        "4",
+        "2 %"
+      ],
+      [
+        "Ucayali",
+        "1",
+        "1 %",
+        "3",
+        "3 %",
+        "4",
+        "2 %"
+      ],
+      [
+        "Total general",
+        "85",
+        "100 %",
+        "98",
+        "100 %",
+        "183",
+        "100 %"
+      ]
+    ]
+  },
+  {
+    "page": 112,
+    "table_number": 2,
+    "data": [
+      [
+        "Capacitaciones",
+        "N.° de capacitaciones",
+        null,
+        "Porcentaje de logro",
+        "Participantes¹⁰²"
+      ],
+      [
+        null,
+        "Planificadas",
+        "Ejecutadas",
+        null,
+        null
+      ],
+      [
+        "Acciones de capacitación\naprobadas en PDP¹⁰³- 2020",
+        "15",
+        "15",
+        "100 %",
+        "624"
+      ],
+      [
+        "Acciones de capacitación\nincluidas en PDP 2020, en el\nmarco del D.L. n.° 1505¹⁰⁴",
+        "3",
+        "3",
+        "100 %",
+        "86"
+      ],
+      [
+        "Total",
+        "18",
+        "18",
+        "100 %",
+        "710"
+      ]
+    ]
+  },
+  {
+    "page": 112,
+    "table_number": 3,
+    "data": [
+      [
+        "Inducciones",
+        "N.° de Inducciones",
+        "Participantes"
+      ],
+      [
+        "Reinducción",
+        "0",
+        "0"
+      ],
+      [
+        "Talleres de inducción",
+        "7",
+        "134"
+      ],
+      [
+        "Total",
+        "7",
+        "134"
+      ]
+    ]
+  },
+  {
+    "page": 113,
+    "table_number": 1,
+    "data": [
+      [
+        "Concepto de gasto",
+        "FF",
+        "PIA",
+        "PIM",
+        "EJECUCIÓN",
+        null,
+        null,
+        null,
+        "TOTAL",
+        null,
+        "% Ejec / PIM"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "I TRIM",
+        "II TRIM",
+        "III TRIM",
+        "IV TRIM",
+        "S/",
+        "% part./ Ejec",
+        null
+      ],
+      [
+        "2.3 Bienes y servicios",
+        "RO",
+        "49.7",
+        "56.42",
+        "15.39",
+        "10.88",
+        "11.76",
+        "17.36",
+        "55.39",
+        "6.76 %",
+        "98.17 %"
+      ],
+      [
+        "2.3 Bienes y servicios",
+        "ROOC",
+        "0",
+        "1.84",
+        "0",
+        "0",
+        "0",
+        "0.71",
+        "0.71",
+        "0.09 %",
+        "38.59 %"
+      ],
+      [
+        "Total 2.3 Bienes y servicios",
+        "",
+        "49.7",
+        "58.26",
+        "15.39",
+        "10.88",
+        "11.76",
+        "18.07",
+        "56.1",
+        "6.84 %",
+        "96.29 %"
+      ],
+      [
+        "2.4.Donaciones",
+        "RO",
+        "0",
+        "0.05",
+        "0",
+        "0",
+        "0",
+        "0.05",
+        "0.05",
+        "0.0 1%",
+        "100.00 %"
+      ],
+      [
+        "2.5 Otros gastos",
+        "RO",
+        "746.4",
+        "708.6",
+        "103.7",
+        "146.1",
+        "183.53",
+        "273.48",
+        "706.8",
+        "86.21 %",
+        "99.75 %"
+      ],
+      [
+        "2.5 Otros gastos",
+        "ROOC",
+        "0",
+        "91.05",
+        "0",
+        "0",
+        "0",
+        "50.27",
+        "50.27",
+        "6.13 %",
+        "55.21 %"
+      ],
+      [
+        "Total 2.5 Otros gastos",
+        "",
+        "746.4",
+        "799.6",
+        "103.7",
+        "146.1",
+        "183.53",
+        "323.75",
+        "757.1",
+        "92.34 %",
+        "94.68 %"
+      ],
+      [
+        "2.6 Adquisición de activos no\nfinancieros",
+        "RO",
+        "0.56",
+        "0.71",
+        "0.08",
+        "0",
+        "0.02",
+        "0.09",
+        "0.19",
+        "0.02 %",
+        "26.76 %"
+      ],
+      [
+        "2.7 Adquisición de activos financieros",
+        "RO",
+        "0",
+        "2.02",
+        "0",
+        "0",
+        "0",
+        "1",
+        "1",
+        "0.12 %",
+        "49.50 %"
+      ],
+      [
+        "2.7 Adquisición de activos financieros",
+        "RDR",
+        "10.28",
+        "10.28",
+        "0.01",
+        "0.02",
+        "0.25",
+        "1.9",
+        "2.18",
+        "0.27 %",
+        "21.21 %"
+      ],
+      [
+        "2.7 Adquisición de activos financieros",
+        "ROOC",
+        "0",
+        "16.75",
+        "0",
+        "0",
+        "0",
+        "3.26",
+        "3.26",
+        "0.40 %",
+        "19.46 %"
+      ],
+      [
+        "Total 2.7 Adquisición de activos\nfinancieros",
+        "",
+        "10.28",
+        "29.05",
+        "0.01",
+        "0.02",
+        "0.25",
+        "6.16",
+        "6.44",
+        "0.79 %",
+        "22.17 %"
+      ],
+      [
+        "Total",
+        null,
+        "806.9",
+        "887.7",
+        "119.2",
+        "157",
+        "195.56",
+        "348.12",
+        "819.9",
+        "100.00 %",
+        "92.36 %"
+      ]
+    ]
+  },
+  {
+    "page": 114,
+    "table_number": 1,
+    "data": [
+      [
+        "Categoría Presupuestal/Meta",
+        "PIM",
+        "Ejecución",
+        null,
+        "% Ejec/PIM"
+      ],
+      [
+        null,
+        null,
+        "S/",
+        "% Part/Ejec",
+        null
+      ],
+      [
+        "Programa Presupuestal 0122: Acceso y Permanencia de Población con Alto Rendimiento\nAcadémico a una Educación Superior de Calidad",
+        "393.1",
+        "388.4",
+        "47.37 %",
+        "98.80 %"
+      ],
+      [
+        "Meta 001: Gestión del programa - UCCOR",
+        "17.06",
+        "16.83",
+        "2.05 %",
+        "98.65 %"
+      ],
+      [
+        "Meta 002: Gestión del programa",
+        "3.87",
+        "3.86",
+        "0.47 %",
+        "99.74 %"
+      ],
+      [
+        "Meta 003: Seguimiento y evaluación del programa",
+        "0.05",
+        "0.05",
+        "0.01 %",
+        "100.00 %"
+      ],
+      [
+        "Meta 004: Entrega de beca integral en la modalidad Ordinaria",
+        "250.2",
+        "250.2",
+        "30.52 %",
+        "99.98 %"
+      ],
+      [
+        "Meta 005: Entrega de beca integral en la modalidad Especial",
+        "108.4",
+        "108.3",
+        "13.21 %",
+        "99.94 %"
+      ],
+      [
+        "Meta 006: Seguimiento académico y socioafectivo a becarios",
+        "2",
+        "1.98",
+        "0.24 %",
+        "99.00 %"
+      ],
+      [
+        "Meta 007: Entrega de servicios del ciclo de nivelación académica a becarios",
+        "0",
+        "0",
+        "0.00 %",
+        "0.00 %"
+      ],
+      [
+        "Meta 008: Aplicación del Examen Nacional de Pronabec y adjudicación de la beca integral en\neducación superior",
+        "5.21",
+        "5.2",
+        "0.63 %",
+        "99.81 %"
+      ],
+      [
+        "Meta 009: Evaluación y adjudicación del crédito educativo",
+        "4.58",
+        "0.33",
+        "0.04 %",
+        "7.21 %"
+      ],
+      [
+        "Meta 010: Seguimiento del crédito educativo",
+        "1.75",
+        "1.65",
+        "0.20 %",
+        "94.29 %"
+      ],
+      [
+        "Acciones centrales",
+        "24.35",
+        "23.35",
+        "2.85 %",
+        "95.89 %"
+      ],
+      [
+        "Meta 011: Planificación y Presupuesto",
+        "3.24",
+        "3.14",
+        "0.38 %",
+        "96.91 %"
+      ],
+      [
+        "Meta 012: Dirección Ejecutiva",
+        "0.77",
+        "0.76",
+        "0.09 %",
+        "98.70 %"
+      ],
+      [
+        "Meta 013: Coordinación Nacional y Cooperación Internacional",
+        "0.12",
+        "0.12",
+        "0.01 %",
+        "100.00 %"
+      ],
+      [
+        "Meta 014: Comunicaciones y Relaciones Institucionales",
+        "1.21",
+        "1.2",
+        "0.15 %",
+        "99.17 %"
+      ],
+      [
+        "Meta 015: Gestión Administrativa",
+        "10.34",
+        "10.16",
+        "1.24 %",
+        "98.26 %"
+      ],
+      [
+        "Meta 016: Innovación y Tecnología",
+        "2.92",
+        "2.47",
+        "0.30 %",
+        "84.59 %"
+      ],
+      [
+        "Meta 017: Atención al Ciudadano y Gestión Documentaria",
+        "2.3",
+        "2.08",
+        "0.25 %",
+        "90.43 %"
+      ],
+      [
+        "Meta 018: Asesoría Jurídica",
+        "1.08",
+        "1.06",
+        "0.13 %",
+        "98.15 %"
+      ],
+      [
+        "Meta 019: Gestión del Talento",
+        "2.37",
+        "2.36",
+        "0.29 %",
+        "99.58 %"
+      ],
+      [
+        "Meta 020: Control Institucional",
+        "0",
+        "0",
+        "0.00 %",
+        "0.00 %"
+      ]
+    ]
+  },
+  {
+    "page": 115,
+    "table_number": 1,
+    "data": [
+      [
+        "Asignaciones Presupuestales que no Resultan en Productos (Apnop)",
+        "470.2",
+        "408.1",
+        "49.78 %",
+        "86.80 %"
+      ],
+      [
+        "Meta 021: Concesión de crédito educativo",
+        "5.7",
+        "1.85",
+        "0.23 %",
+        "32.46 %"
+      ],
+      [
+        "Meta 022: Otorgamiento de becas posgrado",
+        "31.95",
+        "31.06",
+        "3.79 %",
+        "97.21 %"
+      ],
+      [
+        "Meta 023: Otorgamiento de becas especiales",
+        "155.7",
+        "155.2",
+        "18.93 %",
+        "99.68 %"
+      ],
+      [
+        "Meta 024: Otorgamiento de becas pregrado",
+        "65.29",
+        "65.07",
+        "7.94 %",
+        "99.66 %"
+      ],
+      [
+        "Meta 025: Otorgamiento de becas pregrado - continuidad",
+        "191.2",
+        "149.5",
+        "18.23 %",
+        "78.20 %"
+      ],
+      [
+        "Meta 026: Prevención, contención y mitigación del COVID-19",
+        "0.27",
+        "0.25",
+        "0.03 %",
+        "92.59 %"
+      ],
+      [
+        "Meta 027: Concesión de crédito para continuidad de estudios",
+        "19.93",
+        "5.02",
+        "0.61 %",
+        "25.19 %"
+      ],
+      [
+        "Meta 028: Otorgamiento de bono-reactivación económica a favor de personal CAS",
+        "0.16",
+        "0.16",
+        "0.02 %",
+        "100.00 %"
+      ],
+      [
+        "Total",
+        "887.7",
+        "819.9",
+        "100.00 %",
+        "92.36 %"
+      ]
+    ]
+  }
+]

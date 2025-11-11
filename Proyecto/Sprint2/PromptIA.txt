@@ -1,0 +1,18 @@
+Quiero que realices web scraping de esta pagina web
+
+https://cdn.www.gob.pe/uploads/document/file/8154351/6826853-memoria-anual-2024%282%29.pdf?v=1752678425
+
+mi data contiene los siguientes campos
+NombreBeca Nombre del programa
+Institucion Institucion donde el becario estudiaráo estudió
+AnioBecariosConfirmados Año de becarios confirmados
+Departamento Departamento donde está ubicado la institución educativa
+Carrera Carrera financiada por la beca
+Modalidad Categoría específica de la beca
+Estrato socieconomico	Es una clasificación que ubica a uno o más individuos en una estructura social (pobre, pobre extrema, no pobre)
+Becas segun migración (migró o no migró)	"Becarios que se trasladaron a otro departamento para estudiar.
+Becarios que estudian en su mismo departamento de origen."
+
+
+extrae esos datos, o similares, que puedan ser utiles para realizar un dashboard, si o si tienen que ser del año 2024, caso contrario, ignorar los datos.
+

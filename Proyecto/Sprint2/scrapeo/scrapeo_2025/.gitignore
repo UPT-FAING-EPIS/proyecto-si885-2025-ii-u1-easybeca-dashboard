@@ -1,0 +1,13 @@
+# Ignorar binarios pesados y artefactos locales
+On-premises data gateway (personal mode).exe
+on-premises data gateway (personal mode)/
+on-premises data gateway (personal mode) installer/
+
+# Datos grandes y caches locales
+*.pbix
+*.log
+__pycache__/
+*.pyc
+
+# Entorno
+.env

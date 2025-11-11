@@ -1,0 +1,62 @@
+
+RESUMEN EJECUTIVO DE BECAS - AÑO 2025
+Fecha de generación: 2025-11-11 10:12:07
+
+1. DATOS GENERALES
+   • Total de registros procesados: 962
+   • Programas de becas diferentes: 20
+   • Instituciones educativas participantes: 137
+   • Departamentos con cobertura: 39
+
+2. PROGRAMAS DE BECAS MÁS IMPORTANTES
+   • Beca 18: 864 registros (89.8%)
+   • Beca Tec: 62 registros (6.4%)
+   • Beca Perú: 13 registros (1.4%)
+   • Becas Chevening: 4 registros (0.4%)
+   • Becas Fulbright: 4 registros (0.4%)
+
+3. COBERTURA GEOGRÁFICA (Top 10 Departamentos)
+   • Lima: 301 becas (31.3%)
+   • No especificado: 296 becas (30.8%)
+   • Nacional: 49 becas (5.1%)
+   • Arequipa: 44 becas (4.6%)
+   • Huancayo: 27 becas (2.8%)
+   • Lambayeque: 21 becas (2.2%)
+   • Chiclayo: 18 becas (1.9%)
+   • Trujillo: 18 becas (1.9%)
+   • Ayacucho: 11 becas (1.1%)
+   • Puno: 11 becas (1.1%)
+
+4. MODALIDADES PRINCIPALES
+   • Ordinaria: 190 (19.8%)
+   • EIB: 98 (10.2%)
+   • Protección: 98 (10.2%)
+   • Vraem: 97 (10.1%)
+   • Huallaga: 95 (9.9%)
+
+5. ENFOQUE SOCIOECONÓMICO
+   • Variable: 381 (39.6%)
+   • Pobre o Pobre Extrema: 286 (29.7%)
+   • Variable según modalidad: 103 (10.7%)
+   • Víctimas de violencia: 95 (9.9%)
+   • Estudiantes de institutos técnicos: 61 (6.3%)
+
+6. ANÁLISIS DE MIGRACIÓN
+   • Nacional - Sin especificar: 345 (35.9%)
+   • Lima - Sin migración: 301 (31.3%)
+   • Posible migración: 236 (24.5%)
+   • Internacional: 80 (8.3%)
+
+7. OBSERVACIONES
+   • Los datos corresponden al año 2025
+   • Incluyen becas nacionales e internacionales
+   • Se han consolidado múltiples fuentes de información
+   • Los datos están listos para su uso en dashboards y análisis
+
+8. ARCHIVOS GENERADOS
+   • dashboard_becas_2025_consolidado.csv (Dataset principal)
+   • dashboard_becas_2025_consolidado.json (Formato JSON)
+   • estadisticas_dashboard_2025.json (Estadísticas generales)
+   • reporte_detallado_por_beca.json (Análisis por beca)
+   • reporte_por_departamento.json (Análisis por departamento)
+   • resumen_ejecutivo_2025.txt (Este documento)

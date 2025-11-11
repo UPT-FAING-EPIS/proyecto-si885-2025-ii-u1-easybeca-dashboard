@@ -1,0 +1,13 @@
+{
+  "total_datasets": 7,
+  "datasets": {
+    "resumen_general": 1,
+    "becarios_por_departamento": 25,
+    "modalidades": 8,
+    "migracion": 2,
+    "carreras_principales": 9,
+    "instituciones_principales": 7,
+    "estrato_socioeconomico": 2
+  },
+  "total_becarios": 4998
+}

@@ -1,0 +1,2179 @@
+{
+  "metadatos": {
+    "descripcion": "Instituciones educativas por beca - Formato expandido",
+    "fecha_generacion": "2025-10-23 15:51:29",
+    "version": "1.0",
+    "total_registros": 182
+  },
+  "estadisticas": {
+    "fecha_generacion": "2025-10-23 15:51:29",
+    "total_registros": 182,
+    "resumen_por_beca": {
+      "beca_tec": {
+        "nombre_beca": "Beca Tec",
+        "total_registros": 61,
+        "instituciones_unicas": 9,
+        "programas_unicos": 31
+      },
+      "beca_18": {
+        "nombre_beca": "Beca 18",
+        "total_registros": 103,
+        "instituciones_unicas": 95,
+        "programas_unicos": 4
+      },
+      "beca_peru": {
+        "nombre_beca": "Beca Perú",
+        "total_registros": 12,
+        "instituciones_unicas": 12,
+        "programas_unicos": 1
+      },
+      "chevening": {
+        "nombre_beca": "Becas Chevening",
+        "total_registros": 3,
+        "instituciones_unicas": 3,
+        "programas_unicos": 1
+      },
+      "fulbright": {
+        "nombre_beca": "Becas Fulbright",
+        "total_registros": 3,
+        "instituciones_unicas": 3,
+        "programas_unicos": 1
+      }
+    },
+    "resumen_por_region": {
+      "Lima": {
+        "total_registros": 61,
+        "instituciones_unicas": 37
+      },
+      "Arequipa": {
+        "total_registros": 20,
+        "instituciones_unicas": 6
+      },
+      "Cusco": {
+        "total_registros": 10,
+        "instituciones_unicas": 3
+      },
+      "Lambayeque": {
+        "total_registros": 13,
+        "instituciones_unicas": 4
+      },
+      "Nacional": {
+        "total_registros": 37,
+        "instituciones_unicas": 37
+      },
+      "Puno": {
+        "total_registros": 3,
+        "instituciones_unicas": 2
+      },
+      "Ayacucho": {
+        "total_registros": 3,
+        "instituciones_unicas": 1
+      },
+      "Tacna": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Huacho": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Tarapoto": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Huancayo": {
+        "total_registros": 3,
+        "instituciones_unicas": 3
+      },
+      "Andahuaylas": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Pasco": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Huaraz": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Iquitos": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Chimbote": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Tingo María": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Sullana": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Ucayali": {
+        "total_registros": 2,
+        "instituciones_unicas": 1
+      },
+      "La Cantuta": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Chiclayo": {
+        "total_registros": 2,
+        "instituciones_unicas": 2
+      },
+      "Abancay": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Trujillo": {
+        "total_registros": 2,
+        "instituciones_unicas": 2
+      },
+      "Trujillo/Lima": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Huancavelica": {
+        "total_registros": 2,
+        "instituciones_unicas": 1
+      },
+      "La Libertad": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Piura": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "San Martín": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Junín": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Huánuco": {
+        "total_registros": 1,
+        "instituciones_unicas": 1
+      },
+      "Reino Unido": {
+        "total_registros": 3,
+        "instituciones_unicas": 3
+      },
+      "Estados Unidos": {
+        "total_registros": 3,
+        "instituciones_unicas": 3
+      }
+    },
+    "resumen_por_tipo_institucion": {}
+  },
+  "datos": [
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada ADEX",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Borja, Lima",
+      "region": "Lima",
+      "programa": "Administración de Negocios Internacionales",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada ADEX",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Borja, Lima",
+      "region": "Lima",
+      "programa": "Gestión Administrativa",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada ADEX",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Borja, Lima",
+      "region": "Lima",
+      "programa": "Gestión Logística",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada ADEX",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Borja, Lima",
+      "region": "Lima",
+      "programa": "Marketing",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Corriente Alterna",
+      "tipo_institucion": "Privada",
+      "ubicacion": "La Victoria, Lima",
+      "region": "Lima",
+      "programa": "Diseño de Interiores",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Corriente Alterna",
+      "tipo_institucion": "Privada",
+      "ubicacion": "La Victoria, Lima",
+      "region": "Lima",
+      "programa": "Diseño Gráfico",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Corriente Alterna",
+      "tipo_institucion": "Privada",
+      "ubicacion": "La Victoria, Lima",
+      "region": "Lima",
+      "programa": "Marketing",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada IDAT",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Juan de Miraflores, Lima",
+      "region": "Lima",
+      "programa": "Administración de Negocios Bancarios y Financieros",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada IDAT",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Juan de Miraflores, Lima",
+      "region": "Lima",
+      "programa": "Administración de Negocios Internacionales",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada IDAT",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Juan de Miraflores, Lima",
+      "region": "Lima",
+      "programa": "Contabilidad",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada IDAT",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Juan de Miraflores, Lima",
+      "region": "Lima",
+      "programa": "Desarrollo de Sistemas de Información",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada IDAT",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Juan de Miraflores, Lima",
+      "region": "Lima",
+      "programa": "Diseño de Interiores",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada IDAT",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Juan de Miraflores, Lima",
+      "region": "Lima",
+      "programa": "Diseño Gráfico Visual",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada IDAT",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Juan de Miraflores, Lima",
+      "region": "Lima",
+      "programa": "Gestión Administrativa",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada IDAT",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Juan de Miraflores, Lima",
+      "region": "Lima",
+      "programa": "Gestión de Recursos Humanos",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada IDAT",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Juan de Miraflores, Lima",
+      "region": "Lima",
+      "programa": "Marketing",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Magdalena del Mar y Santiago de Surco, Lima",
+      "region": "Lima",
+      "programa": "Animación Digital",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Magdalena del Mar y Santiago de Surco, Lima",
+      "region": "Lima",
+      "programa": "Cinematografía",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Magdalena del Mar y Santiago de Surco, Lima",
+      "region": "Lima",
+      "programa": "Comunicación Audiovisual",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Magdalena del Mar y Santiago de Surco, Lima",
+      "region": "Lima",
+      "programa": "Diseño de Interiores",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Magdalena del Mar y Santiago de Surco, Lima",
+      "region": "Lima",
+      "programa": "Diseño de Videojuegos y Entretenimiento Digital",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Magdalena del Mar y Santiago de Surco, Lima",
+      "region": "Lima",
+      "programa": "Diseño Gráfico",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Magdalena del Mar y Santiago de Surco, Lima",
+      "region": "Lima",
+      "programa": "Fotografía e Imagen Digital",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Magdalena del Mar y Santiago de Surco, Lima",
+      "region": "Lima",
+      "programa": "Marketing",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Magdalena del Mar y Santiago de Surco, Lima",
+      "region": "Lima",
+      "programa": "Publicidad y Medios Digitales",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Animación Digital",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Diseño de Interiores",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Diseño Gráfico",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Marketing",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Toulouse Lautrec",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Publicidad y Medios Digitales",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado del Sur",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Administración de Negocios Bancarios y Financieros",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado del Sur",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Administración de Negocios Internacionales",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado del Sur",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Administración de Servicios de Hostelería y Restaurantes",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado del Sur",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Desarrollo de Sistemas de Información",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado del Sur",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Diseño de Modas",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado del Sur",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Diseño Gráfico y Multimedia",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado del Sur",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Diseño y Decoración de Interiores",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado del Sur",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Gastronomía",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado del Sur",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Gestión Administrativa",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado del Sur",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Guía Oficial de Turismo",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado del Sur",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Marketing",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Khipu",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Cusco",
+      "region": "Cusco",
+      "programa": "Administración de Empresas",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "EEST Privada Khipu",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Cusco",
+      "region": "Cusco",
+      "programa": "Administración de Hoteles y Restaurantes",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado Khipu",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Cusco y San Sebastián",
+      "region": "Cusco",
+      "programa": "Desarrollo de Sistemas de Información",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado Khipu",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Cusco y San Sebastián",
+      "region": "Cusco",
+      "programa": "Gastronomía",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado Khipu",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Cusco y San Sebastián",
+      "region": "Cusco",
+      "programa": "Guía Oficial de Turismo",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado Khipu",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Cusco y San Sebastián",
+      "region": "Cusco",
+      "programa": "Administración de Negocios Bancarios y Financieros",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado Khipu",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Cusco y San Sebastián",
+      "region": "Cusco",
+      "programa": "Administración de Negocios Internacionales",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado Khipu",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Cusco y San Sebastián",
+      "region": "Cusco",
+      "programa": "Contabilidad",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado Khipu",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Cusco y San Sebastián",
+      "region": "Cusco",
+      "programa": "Marketing",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado Cumbre",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo",
+      "region": "Lambayeque",
+      "programa": "Gastronomía",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado de Emprendedores ISAG",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo y La Victoria",
+      "region": "Lambayeque",
+      "programa": "Administración de Empresas",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado de Emprendedores ISAG",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo y La Victoria",
+      "region": "Lambayeque",
+      "programa": "Administración de Servicios de Hostelería y Restaurantes",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado de Emprendedores ISAG",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo y La Victoria",
+      "region": "Lambayeque",
+      "programa": "Contabilidad",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado de Emprendedores ISAG",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo y La Victoria",
+      "region": "Lambayeque",
+      "programa": "Enfermería Técnica",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado de Emprendedores ISAG",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo y La Victoria",
+      "region": "Lambayeque",
+      "programa": "Farmacia Técnica",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado de Emprendedores ISAG",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo y La Victoria",
+      "region": "Lambayeque",
+      "programa": "Fisioterapia y Rehabilitación",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado de Emprendedores ISAG",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo y La Victoria",
+      "region": "Lambayeque",
+      "programa": "Gastronomía",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado de Emprendedores ISAG",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo y La Victoria",
+      "region": "Lambayeque",
+      "programa": "Desarrollo de Sistemas de la Información",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado de Emprendedores ISAG",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo y La Victoria",
+      "region": "Lambayeque",
+      "programa": "Diseño Publicitario",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_tec",
+      "nombre_beca": "Beca Tec",
+      "tipo_instituciones": "Institutos Técnicos",
+      "nombre_institucion": "IES Privado de Emprendedores ISAG",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo y La Victoria",
+      "region": "Lambayeque",
+      "programa": "Traducción e Interpretación de Idiomas",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Barranca",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Hermilio Valdizán",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de San Agustín",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional del Altiplano",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Puno",
+      "region": "Puno",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional del Altiplano",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Puno",
+      "region": "Puno",
+      "programa": "Modalidad EIB",
+      "modalidad_programa": "EIB"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de San Cristóbal de Huamanga",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Ayacucho",
+      "region": "Ayacucho",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de San Cristóbal de Huamanga",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Ayacucho",
+      "region": "Ayacucho",
+      "programa": "Modalidad EIB",
+      "modalidad_programa": "EIB"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de San Cristóbal de Huamanga",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Ayacucho",
+      "region": "Ayacucho",
+      "programa": "Modalidad Vraem",
+      "modalidad_programa": "Vraem"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Jaén",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Juliaca",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de San Antonio Abad del Cusco",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Trujillo",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Ucayali",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Ingeniería",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Ingeniería",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Protección",
+      "modalidad_programa": "Protección"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Mayor de San Marcos",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Mayor de San Marcos",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Protección",
+      "modalidad_programa": "Protección"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Jorge Basadre Grohmann",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Tacna",
+      "region": "Tacna",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Piura",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional José Faustino Sánchez Carrión",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Huacho",
+      "region": "Huacho",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Intercultural de la Selva Central Juan Santos Atahualpa",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de San Martín",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Tarapoto",
+      "region": "Tarapoto",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Huancavelica",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional del Centro del Perú",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Huancayo",
+      "region": "Huancayo",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional José María Arguedas",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Andahuaylas",
+      "region": "Andahuaylas",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Micaela Bastidas de Apurímac",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Autónoma de Chota",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Intercultural de Quillabamba",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional San Luis Gonzaga de Ica",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Amazónica de Madre de Dios",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Cajamarca",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Agraria La Molina",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Intercultural Fabiola Salazar Leguía de Bagua",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Tumbes",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Daniel Alcides Carrión",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Pasco",
+      "region": "Pasco",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Santiago Antúnez de Mayolo",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Huaraz",
+      "region": "Huaraz",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Moquegua",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de la Amazonía Peruana",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Iquitos",
+      "region": "Iquitos",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Cañete",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Pedro Ruíz Gallo",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Lambayeque",
+      "region": "Lambayeque",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional del Santa",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Chimbote",
+      "region": "Chimbote",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Autónoma Altoandina de Tarma",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Agraria de la Selva",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Tingo María",
+      "region": "Tingo María",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Federico Villarreal",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Tecnológica de Lima Sur",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Frontera",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Sullana",
+      "region": "Sullana",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Autónoma de Huanta",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Intercultural de la Amazonía",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Ucayali",
+      "region": "Ucayali",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Intercultural de la Amazonía",
+      "tipo_institucion": "Pública",
+      "ubicacion": "Ucayali",
+      "region": "Ucayali",
+      "programa": "Modalidad EIB",
+      "modalidad_programa": "EIB"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional del Callao",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Autónoma de Alto Amazonas",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+      "tipo_institucion": "Pública",
+      "ubicacion": "La Cantuta",
+      "region": "La Cantuta",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Nacional Ciro Alegría",
+      "tipo_institucion": "Pública",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Católica Santo Toribio de Mogrovejo",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo",
+      "region": "Chiclayo",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Pontificia Universidad Católica del Perú",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad de Piura",
+      "tipo_institucion": "Privada",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad del Pacífico",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Católica de Santa María",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Tecnológica de los Andes",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Abancay",
+      "region": "Abancay",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Privada de Tacna",
+      "tipo_institucion": "Privada",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Ricardo Palma",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Peruana de Ciencias Aplicadas - UPC",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Señor de Sipán",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Chiclayo",
+      "region": "Chiclayo",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad de San Martín de Porres",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Andina del Cusco",
+      "tipo_institucion": "Privada",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Científica del Sur",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Peruana Unión",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Peruana Cayetano Heredia",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad San Ignacio de Loyola",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Privada Antenor Orrego",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Trujillo",
+      "region": "Trujillo",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad César Vallejo",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Trujillo",
+      "region": "Trujillo",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Marcelino Champagnat",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Privada San Juan Bautista",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad de Lima",
+      "tipo_institucion": "Privada",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Le Cordon Bleu",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad de Huánuco",
+      "tipo_institucion": "Privada",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Continental",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Huancayo",
+      "region": "Huancayo",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Privada de Huancayo Franklin Roosevelt",
+      "tipo_institucion": "Privada",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Norbert Wiener",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Antonio Ruiz de Montoya",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad de Ingeniería y Tecnología - UTEC",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad de Ingeniería y Tecnología - UTEC",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Protección",
+      "modalidad_programa": "Protección"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad María Auxiliadora",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Católica San Pablo",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Autónoma de Ica",
+      "tipo_institucion": "Privada",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Peruana Los Andes",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Huancayo",
+      "region": "Huancayo",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Católica Sedes Sapientiae",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad de Ciencias y Humanidades",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad La Salle",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Facultad de Teología Pontificia y Civil de Lima",
+      "tipo_institucion": "Privada",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Jaime Bausate y Meza",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Autónoma del Perú",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Privada Peruano Alemana",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Tecnológica del Perú",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Femenina del Sagrado Corazón",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad ESAN",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad de Ciencias y Artes de América Latina",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Privada del Norte",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Trujillo/Lima",
+      "region": "Trujillo/Lima",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Católica de Trujillo Benedicto XVI",
+      "tipo_institucion": "Privada",
+      "ubicacion": "No especificada",
+      "region": "Nacional",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Para el Desarrollo Andino",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Huancavelica",
+      "region": "Huancavelica",
+      "programa": "Modalidad Ordinaria",
+      "modalidad_programa": "Ordinaria"
+    },
+    {
+      "codigo_beca": "beca_18",
+      "nombre_beca": "Beca 18",
+      "tipo_instituciones": "Universidades",
+      "nombre_institucion": "Universidad Para el Desarrollo Andino",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Huancavelica",
+      "region": "Huancavelica",
+      "programa": "Modalidad Vraem",
+      "modalidad_programa": "Vraem"
+    },
+    {
+      "codigo_beca": "beca_peru",
+      "nombre_beca": "Beca Perú",
+      "tipo_instituciones": "Universidades Privadas Participantes",
+      "nombre_institucion": "Pontificia Universidad Católica del Perú (PUCP)",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Pregrado",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_peru",
+      "nombre_beca": "Beca Perú",
+      "tipo_instituciones": "Universidades Privadas Participantes",
+      "nombre_institucion": "Universidad Peruana de Ciencias Aplicadas (UPC)",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Pregrado",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_peru",
+      "nombre_beca": "Beca Perú",
+      "tipo_instituciones": "Universidades Privadas Participantes",
+      "nombre_institucion": "Universidad Antonio Ruiz de Montoya (UARM)",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lima",
+      "region": "Lima",
+      "programa": "Pregrado",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_peru",
+      "nombre_beca": "Beca Perú",
+      "tipo_instituciones": "Universidades Privadas Participantes",
+      "nombre_institucion": "Universidad Privada en Arequipa",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Arequipa",
+      "region": "Arequipa",
+      "programa": "Pregrado",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_peru",
+      "nombre_beca": "Beca Perú",
+      "tipo_instituciones": "Universidades Privadas Participantes",
+      "nombre_institucion": "Universidad Andina del Cusco (UAC)",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Cusco",
+      "region": "Cusco",
+      "programa": "Pregrado",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_peru",
+      "nombre_beca": "Beca Perú",
+      "tipo_instituciones": "Universidades Privadas Participantes",
+      "nombre_institucion": "Universidad Privada en Lambayeque",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Lambayeque",
+      "region": "Lambayeque",
+      "programa": "Pregrado",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_peru",
+      "nombre_beca": "Beca Perú",
+      "tipo_instituciones": "Universidades Privadas Participantes",
+      "nombre_institucion": "Universidad Privada en La Libertad",
+      "tipo_institucion": "Privada",
+      "ubicacion": "La Libertad",
+      "region": "La Libertad",
+      "programa": "Pregrado",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_peru",
+      "nombre_beca": "Beca Perú",
+      "tipo_instituciones": "Universidades Privadas Participantes",
+      "nombre_institucion": "Universidad Privada en Piura",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Piura",
+      "region": "Piura",
+      "programa": "Pregrado",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_peru",
+      "nombre_beca": "Beca Perú",
+      "tipo_instituciones": "Universidades Privadas Participantes",
+      "nombre_institucion": "Universidad Privada en San Martín",
+      "tipo_institucion": "Privada",
+      "ubicacion": "San Martín",
+      "region": "San Martín",
+      "programa": "Pregrado",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_peru",
+      "nombre_beca": "Beca Perú",
+      "tipo_instituciones": "Universidades Privadas Participantes",
+      "nombre_institucion": "Universidad Privada en Junín",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Junín",
+      "region": "Junín",
+      "programa": "Pregrado",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_peru",
+      "nombre_beca": "Beca Perú",
+      "tipo_instituciones": "Universidades Privadas Participantes",
+      "nombre_institucion": "Universidad Privada en Puno",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Puno",
+      "region": "Puno",
+      "programa": "Pregrado",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "beca_peru",
+      "nombre_beca": "Beca Perú",
+      "tipo_instituciones": "Universidades Privadas Participantes",
+      "nombre_institucion": "Universidad Privada en Huánuco",
+      "tipo_institucion": "Privada",
+      "ubicacion": "Huánuco",
+      "region": "Huánuco",
+      "programa": "Pregrado",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "chevening",
+      "nombre_beca": "Becas Chevening",
+      "tipo_instituciones": "Universidades de Reino Unido",
+      "nombre_institucion": "University of Oxford",
+      "tipo_institucion": "Internacional",
+      "ubicacion": "Reino Unido",
+      "region": "Reino Unido",
+      "programa": "Maestrías y Doctorados",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "chevening",
+      "nombre_beca": "Becas Chevening",
+      "tipo_instituciones": "Universidades de Reino Unido",
+      "nombre_institucion": "University of Cambridge",
+      "tipo_institucion": "Internacional",
+      "ubicacion": "Reino Unido",
+      "region": "Reino Unido",
+      "programa": "Maestrías y Doctorados",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "chevening",
+      "nombre_beca": "Becas Chevening",
+      "tipo_instituciones": "Universidades de Reino Unido",
+      "nombre_institucion": "Imperial College London",
+      "tipo_institucion": "Internacional",
+      "ubicacion": "Reino Unido",
+      "region": "Reino Unido",
+      "programa": "Maestrías y Doctorados",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "fulbright",
+      "nombre_beca": "Becas Fulbright",
+      "tipo_instituciones": "Universidades de Estados Unidos",
+      "nombre_institucion": "Harvard University",
+      "tipo_institucion": "Internacional",
+      "ubicacion": "Estados Unidos",
+      "region": "Estados Unidos",
+      "programa": "Maestrías y Doctorados",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "fulbright",
+      "nombre_beca": "Becas Fulbright",
+      "tipo_instituciones": "Universidades de Estados Unidos",
+      "nombre_institucion": "Stanford University",
+      "tipo_institucion": "Internacional",
+      "ubicacion": "Estados Unidos",
+      "region": "Estados Unidos",
+      "programa": "Maestrías y Doctorados",
+      "modalidad_programa": "Presencial"
+    },
+    {
+      "codigo_beca": "fulbright",
+      "nombre_beca": "Becas Fulbright",
+      "tipo_instituciones": "Universidades de Estados Unidos",
+      "nombre_institucion": "MIT",
+      "tipo_institucion": "Internacional",
+      "ubicacion": "Estados Unidos",
+      "region": "Estados Unidos",
+      "programa": "Maestrías y Doctorados",
+      "modalidad_programa": "Presencial"
+    }
+  ]
+}

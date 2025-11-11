@@ -1,0 +1,195 @@
+{
+  "Lima": {
+    "total_becas": 301,
+    "becas_tipos": {
+      "Beca 18": 273,
+      "Beca Tec": 25,
+      "Beca Perú": 3
+    },
+    "instituciones_unicas": 37,
+    "modalidades": {
+      "Ordinaria": 60,
+      "Protección": 33,
+      "Huallaga": 30,
+      "Vraem": 30,
+      "EIB": 30,
+      "CNA y PA": 30,
+      "FF.AA.": 30,
+      "Repared": 30,
+      "Presencial": 28
+    }
+  },
+  "No especificado": {
+    "total_becas": 296,
+    "becas_tipos": {
+      "Beca 18": 296
+    },
+    "instituciones_unicas": 37,
+    "modalidades": {
+      "Ordinaria": 37,
+      "Huallaga": 37,
+      "Vraem": 37,
+      "EIB": 37,
+      "Protección": 37,
+      "CNA y PA": 37,
+      "FF.AA.": 37,
+      "Repared": 37
+    }
+  },
+  "Nacional": {
+    "total_becas": 49,
+    "becas_tipos": {
+      "Beca 18": 38,
+      "Beca Fundación Romero": 1,
+      "Beca Generación Bicentenario": 1,
+      "Beca Perú": 1,
+      "Beca Presidente de la República": 1,
+      "Beca Tec": 1,
+      "Beca Vocación de Maestro": 1,
+      "Beca de Formación en Servicio": 1,
+      "Becas CONCYTEC": 1,
+      "Becas Fundación Telefónica": 1,
+      "Becas SERNANP": 1,
+      "Crédito Educativo": 1
+    },
+    "instituciones_unicas": 44,
+    "modalidades": {
+      "Ordinaria": 37,
+      "Presencial": 3,
+      "Variable": 2,
+      "Presencial/Virtual": 2,
+      "Presencial en el extranjero": 1,
+      "Nacional e Internacional": 1,
+      "Presencial únicamente": 1,
+      "Nacional/Internacional": 1,
+      "Préstamo con condiciones preferenciales": 1
+    }
+  },
+  "Arequipa": {
+    "total_becas": 44,
+    "becas_tipos": {
+      "Beca 18": 27,
+      "Beca Tec": 16,
+      "Beca Perú": 1
+    },
+    "instituciones_unicas": 6,
+    "modalidades": {
+      "Presencial": 17,
+      "Ordinaria": 6,
+      "Huallaga": 3,
+      "EIB": 3,
+      "Vraem": 3,
+      "Protección": 3,
+      "CNA y PA": 3,
+      "FF.AA.": 3,
+      "Repared": 3
+    }
+  },
+  "Huancayo": {
+    "total_becas": 27,
+    "becas_tipos": {
+      "Beca 18": 27
+    },
+    "instituciones_unicas": 3,
+    "modalidades": {
+      "Ordinaria": 6,
+      "Huallaga": 3,
+      "Vraem": 3,
+      "EIB": 3,
+      "Protección": 3,
+      "CNA y PA": 3,
+      "FF.AA.": 3,
+      "Repared": 3
+    }
+  },
+  "Lambayeque": {
+    "total_becas": 21,
+    "becas_tipos": {
+      "Beca Tec": 11,
+      "Beca 18": 9,
+      "Beca Perú": 1
+    },
+    "instituciones_unicas": 4,
+    "modalidades": {
+      "Presencial": 12,
+      "Ordinaria": 2,
+      "Huallaga": 1,
+      "EIB": 1,
+      "Vraem": 1,
+      "Protección": 1,
+      "CNA y PA": 1,
+      "FF.AA.": 1,
+      "Repared": 1
+    }
+  },
+  "Chiclayo": {
+    "total_becas": 18,
+    "becas_tipos": {
+      "Beca 18": 18
+    },
+    "instituciones_unicas": 2,
+    "modalidades": {
+      "Ordinaria": 4,
+      "Huallaga": 2,
+      "Vraem": 2,
+      "EIB": 2,
+      "Protección": 2,
+      "CNA y PA": 2,
+      "FF.AA.": 2,
+      "Repared": 2
+    }
+  },
+  "Trujillo": {
+    "total_becas": 18,
+    "becas_tipos": {
+      "Beca 18": 18
+    },
+    "instituciones_unicas": 2,
+    "modalidades": {
+      "Ordinaria": 4,
+      "Huallaga": 2,
+      "Vraem": 2,
+      "EIB": 2,
+      "Protección": 2,
+      "CNA y PA": 2,
+      "FF.AA.": 2,
+      "Repared": 2
+    }
+  },
+  "Ayacucho": {
+    "total_becas": 11,
+    "becas_tipos": {
+      "Beca 18": 11
+    },
+    "instituciones_unicas": 1,
+    "modalidades": {
+      "Ordinaria": 2,
+      "Vraem": 2,
+      "EIB": 2,
+      "Huallaga": 1,
+      "Protección": 1,
+      "CNA y PA": 1,
+      "FF.AA.": 1,
+      "Repared": 1
+    }
+  },
+  "Puno": {
+    "total_becas": 11,
+    "becas_tipos": {
+      "Beca 18": 10,
+      "Beca Perú": 1
+    },
+    "instituciones_unicas": 2,
+    "modalidades": {
+      "Ordinaria": 2,
+      "EIB": 2,
+      "Huallaga": 1,
+      "Vraem": 1,
+      "Protección": 1,
+      "CNA y PA": 1,
+      "FF.AA.": 1,
+      "Repared": 1,
+      "Presencial": 1
+    }
+  }
+}

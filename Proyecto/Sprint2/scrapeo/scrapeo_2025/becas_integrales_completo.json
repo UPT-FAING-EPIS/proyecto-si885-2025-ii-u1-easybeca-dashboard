@@ -1,0 +1,477 @@
+{
+  "fecha_extraccion": "2025-10-27T10:59:55.052559",
+  "version": "1.0",
+  "descripcion": "Base de datos integral de becas en Perú",
+  "estadisticas": {
+    "total_becas": 24,
+    "por_institucion": {
+      "PRONABEC": 5,
+      "PRONABEC (coordinación)": 1,
+      "MINEDU": 2,
+      "CONCYTEC": 1,
+      "SERNANP": 1,
+      "Gobierno del Reino Unido": 1,
+      "Gobierno de Estados Unidos": 1,
+      "Unión Europea": 1,
+      "Gobierno de Alemania": 1,
+      "Gobierno de Francia": 1,
+      "Gobierno de Japón": 1,
+      "Gobierno de Corea del Sur": 1,
+      "Gobierno de China": 1,
+      "Gobiernos Regionales": 1,
+      "Municipalidades": 1,
+      "Fundación Romero": 1,
+      "Fundación Telefónica": 1,
+      "Universidades Privadas": 1,
+      "Empresas Privadas": 1
+    },
+    "por_categoria": {
+      "Pregrado": 4,
+      "Técnico": 1,
+      "Posgrado": 5,
+      "Financiamiento": 1,
+      "Capacitación": 2,
+      "Especialización": 1,
+      "Pregrado/Posgrado": 7,
+      "Variable": 3
+    },
+    "por_modalidad": {
+      "Presencial": 3,
+      "Presencial únicamente": 1,
+      "Presencial en el extranjero": 1,
+      "Nacional e Internacional": 1,
+      "Préstamo con condiciones preferenciales": 1,
+      "Presencial/Virtual": 2,
+      "Nacional/Internacional": 1,
+      "Variable": 6,
+      "Presencial en Reino Unido": 1,
+      "Presencial en Estados Unidos": 1,
+      "Presencial en Europa": 1,
+      "Presencial en Alemania": 1,
+      "Presencial en Francia": 1,
+      "Presencial en Japón": 1,
+      "Presencial en Corea del Sur": 1,
+      "Presencial en China": 1
+    },
+    "becas_activas": 20,
+    "becas_internacionales": 8,
+    "becas_nacionales": 16
+  },
+  "categorias": {
+    "pregrado": [
+      "beca_18",
+      "beca_peru",
+      "beca_vocacion_maestro",
+      "fundacion_romero"
+    ],
+    "posgrado": [
+      "beca_generacion_bicentenario",
+      "beca_presidente_republica",
+      "becas_concytec",
+      "chevening",
+      "fulbright"
+    ],
+    "tecnico": [
+      "beca_tec"
+    ],
+    "capacitacion": [
+      "beca_formacion_servicio",
+      "fundacion_telefonica"
+    ],
+    "financiamiento": [
+      "credito_educativo"
+    ],
+    "variable": [
+      "becas_sernanp",
+      "erasmus_plus",
+      "daad",
+      "gobierno_frances",
+      "mext_japon",
+      "gks_corea",
+      "csc_china",
+      "becas_regionales",
+      "becas_municipales",
+      "universidades_privadas",
+      "becas_empresariales"
+    ]
+  },
+  "becas": {
+    "beca_18": {
+      "nombre": "Beca 18",
+      "institucion": "PRONABEC",
+      "categoria": "Pregrado",
+      "tipo_estudio": "Universitario",
+      "modalidad": "Presencial",
+      "cobertura": "Completa",
+      "cantidad_becas": "Variable por convocatoria",
+      "modalidades_especificas": [
+        "Ordinaria",
+        "Huallaga",
+        "Vraem",
+        "EIB",
+        "Protección",
+        "CNA y PA",
+        "FF.AA.",
+        "Repared"
+      ],
+      "requisitos_generales": "Tercio superior o medio superior según modalidad",
+      "edad_limite": "22 años (algunas modalidades)",
+      "postulacion_2025": "Por confirmar",
+      "url_oficial": "https://www.pronabec.gob.pe/beca-18/",
+      "estado": "Activa"
+    },
+    "beca_tec": {
+      "nombre": "Beca Tec",
+      "institucion": "PRONABEC",
+      "categoria": "Técnico",
+      "tipo_estudio": "Técnico Superior y Técnico-Productivo",
+      "modalidad": "Presencial únicamente",
+      "cobertura": "Costo de estudios técnicos",
+      "cantidad_becas": "300 becas (30 auxiliar técnico, 90 técnico, 180 profesionales técnicos)",
+      "modalidades_especificas": [
+        "Auxiliar Técnico",
+        "Técnico",
+        "Profesional Técnico"
+      ],
+      "requisitos_generales": "Estudios técnicos superiores",
+      "edad_limite": "Variable",
+      "postulacion_2025": "Por confirmar",
+      "url_oficial": "https://www.pronabec.gob.pe/beca-tec/",
+      "estado": "Activa"
+    },
+    "beca_peru": {
+      "nombre": "Beca Perú",
+      "institucion": "PRONABEC (coordinación)",
+      "categoria": "Pregrado",
+      "tipo_estudio": "Universitario Privado",
+      "modalidad": "Presencial",
+      "cobertura": "Variable según universidad",
+      "cantidad_becas": "Variable",
+      "modalidades_especificas": [
+        "Universidades Privadas Participantes"
+      ],
+      "requisitos_generales": "Según cada universidad participante",
+      "caracteristica_especial": "No subvencionada por PRONABEC, sino por las propias universidades",
+      "oportunidades": "Dos momentos de postulación",
+      "postulacion_2025": "Del 14/04/2025 al 14/05/2025",
+      "url_oficial": "https://www.pronabec.gob.pe/beca-peru/",
+      "estado": "Activa"
+    },
+    "beca_generacion_bicentenario": {
+      "nombre": "Beca Generación Bicentenario",
+      "institucion": "PRONABEC",
+      "categoria": "Posgrado",
+      "tipo_estudio": "Maestrías y Doctorados",
+      "modalidad": "Presencial en el extranjero",
+      "cobertura": "Completa",
+      "cantidad_becas": "Variable",
+      "requisitos_generales": "Profesionales peruanos con alto rendimiento académico",
+      "edad_limite": "Sin límite de edad",
+      "universidades_elegibles": "Top 400 mejores universidades del mundo",
+      "inicio_estudios": "Entre 06/03/2025 y 31/12/2026",
+      "postulacion_2025": "Del 14 de abril (fecha exacta por confirmar)",
+      "url_oficial": "https://www.pronabec.gob.pe/beca-generacion-bicentenario/",
+      "estado": "Activa"
+    },
+    "beca_presidente_republica": {
+      "nombre": "Beca Presidente de la República",
+      "institucion": "PRONABEC",
+      "categoria": "Posgrado",
+      "tipo_estudio": "Maestrías y Doctorados",
+      "modalidad": "Nacional e Internacional",
+      "cobertura": "Estudios de posgrado completos",
+      "cantidad_becas": "Variable",
+      "requisitos_generales": "Profesionales destacados",
+      "caracteristicas": "Para profesionales destacados",
+      "url_oficial": "https://www.pronabec.gob.pe/beca-presidente-republica/",
+      "estado": "Activa"
+    },
+    "credito_educativo": {
+      "nombre": "Crédito Educativo",
+      "institucion": "PRONABEC",
+      "categoria": "Financiamiento",
+      "tipo_estudio": "Estudios Superiores",
+      "modalidad": "Préstamo con condiciones preferenciales",
+      "cobertura": "Financiamiento de estudios superiores",
+      "devolucion": "Después de culminar los estudios",
+      "url_oficial": "https://www.pronabec.gob.pe/credito-educativo/",
+      "estado": "Activa"
+    },
+    "beca_vocacion_maestro": {
+      "nombre": "Beca Vocación de Maestro",
+      "institucion": "MINEDU",
+      "categoria": "Pregrado",
+      "tipo_estudio": "Estudios de Educación",
+      "modalidad": "Presencial",
+      "cobertura": "Completa",
+      "enfoque": "Formación docente",
+      "url_oficial": "https://www.gob.pe/minedu",
+      "estado": "Activa"
+    },
+    "beca_formacion_servicio": {
+      "nombre": "Beca de Formación en Servicio",
+      "institucion": "MINEDU",
+      "categoria": "Capacitación",
+      "tipo_estudio": "Formación Continua",
+      "modalidad": "Presencial/Virtual",
+      "cobertura": "Variable",
+      "dirigido_a": "Docentes en ejercicio",
+      "url_oficial": "https://www.gob.pe/minedu",
+      "estado": "Activa"
+    },
+    "becas_concytec": {
+      "nombre": "Becas CONCYTEC",
+      "institucion": "CONCYTEC",
+      "categoria": "Posgrado",
+      "tipo_estudio": "Estudios de posgrado en ciencia y tecnología",
+      "modalidad": "Nacional/Internacional",
+      "cobertura": "Variable",
+      "enfoque": "Investigación científica y desarrollo tecnológico",
+      "url_oficial": "https://portal.concytec.gob.pe/",
+      "estado": "Activa"
+    },
+    "becas_sernanp": {
+      "nombre": "Becas SERNANP",
+      "institucion": "SERNANP",
+      "categoria": "Especialización",
+      "tipo_estudio": "Estudios relacionados con áreas naturales protegidas",
+      "modalidad": "Variable",
+      "cobertura": "Variable",
+      "enfoque": "Conservación y medio ambiente",
+      "url_oficial": "https://www.gob.pe/sernanp",
+      "estado": "Activa"
+    },
+    "chevening": {
+      "nombre": "Becas Chevening",
+      "institucion": "Gobierno del Reino Unido",
+      "categoria": "Posgrado",
+      "tipo_estudio": "Maestrías de un año en Reino Unido",
+      "modalidad": "Presencial en Reino Unido",
+      "cobertura": "Completa",
+      "requisitos_generales": "Liderazgo y potencial profesional",
+      "pais_destino": "Reino Unido",
+      "url_oficial": "https://www.chevening.org/scholarships/who-can-apply/peru/",
+      "estado": "Activa"
+    },
+    "fulbright": {
+      "nombre": "Becas Fulbright",
+      "institucion": "Gobierno de Estados Unidos",
+      "categoria": "Posgrado",
+      "tipo_estudio": "Maestrías y doctorados en EE.UU.",
+      "modalidad": "Presencial en Estados Unidos",
+      "cobertura": "Completa",
+      "modalidades_especificas": "Diversas según programa",
+      "pais_destino": "Estados Unidos",
+      "url_oficial": "https://pe.usembassy.gov/education-culture/educational-exchanges/fulbright-program/",
+      "estado": "Activa"
+    },
+    "erasmus_plus": {
+      "nombre": "Becas Erasmus+",
+      "institucion": "Unión Europea",
+      "categoria": "Pregrado/Posgrado",
+      "tipo_estudio": "Estudios e intercambios en Europa",
+      "modalidad": "Presencial en Europa",
+      "cobertura": "Variable",
+      "modalidades_especificas": "Pregrado, posgrado, movilidad académica",
+      "pais_destino": "Países de la Unión Europea",
+      "url_oficial": "https://erasmus-plus.ec.europa.eu/",
+      "estado": "Activa"
+    },
+    "daad": {
+      "nombre": "Becas DAAD",
+      "institucion": "Gobierno de Alemania",
+      "categoria": "Pregrado/Posgrado",
+      "tipo_estudio": "Estudios en Alemania",
+      "modalidad": "Presencial en Alemania",
+      "cobertura": "Variable",
+      "niveles": "Pregrado, posgrado, investigación",
+      "pais_destino": "Alemania",
+      "url_oficial": "https://www.daad.de/en/",
+      "estado": "Activa"
+    },
+    "gobierno_frances": {
+      "nombre": "Becas del Gobierno Francés",
+      "institucion": "Gobierno de Francia",
+      "categoria": "Pregrado/Posgrado",
+      "tipo_estudio": "Estudios en Francia",
+      "modalidad": "Presencial en Francia",
+      "cobertura": "Variable",
+      "programa": "Campus France",
+      "pais_destino": "Francia",
+      "url_oficial": "https://www.campusfrance.org/en",
+      "estado": "Activa"
+    },
+    "mext_japon": {
+      "nombre": "Becas del Gobierno Japonés (MEXT)",
+      "institucion": "Gobierno de Japón",
+      "categoria": "Pregrado/Posgrado",
+      "tipo_estudio": "Pregrado, posgrado e investigación en Japón",
+      "modalidad": "Presencial en Japón",
+      "cobertura": "Completa",
+      "pais_destino": "Japón",
+      "url_oficial": "https://www.studyinjapan.go.jp/en/",
+      "estado": "Activa"
+    },
+    "gks_corea": {
+      "nombre": "Becas Corea del Sur (GKS)",
+      "institucion": "Gobierno de Corea del Sur",
+      "categoria": "Pregrado/Posgrado",
+      "tipo_estudio": "Pregrado y posgrado en Corea del Sur",
+      "modalidad": "Presencial en Corea del Sur",
+      "cobertura": "Completa",
+      "pais_destino": "Corea del Sur",
+      "url_oficial": "https://www.studyinkorea.go.kr/en/",
+      "estado": "Activa"
+    },
+    "csc_china": {
+      "nombre": "Becas China (CSC)",
+      "institucion": "Gobierno de China",
+      "categoria": "Pregrado/Posgrado",
+      "tipo_estudio": "Estudios en universidades chinas",
+      "modalidad": "Presencial en China",
+      "cobertura": "Variable",
+      "pais_destino": "China",
+      "url_oficial": "https://www.campuschina.org/",
+      "estado": "Activa"
+    },
+    "becas_regionales": {
+      "nombre": "Becas de Gobiernos Regionales",
+      "institucion": "Gobiernos Regionales",
+      "categoria": "Variable",
+      "tipo_estudio": "Variable",
+      "modalidad": "Variable",
+      "cobertura": "Variable",
+      "ejemplos": "Beca Región Lima, becas regionales del Cusco, etc.",
+      "caracteristica": "Cada región puede tener programas específicos",
+      "estado": "Variable por región"
+    },
+    "becas_municipales": {
+      "nombre": "Becas Municipales",
+      "institucion": "Municipalidades",
+      "categoria": "Variable",
+      "tipo_estudio": "Variable",
+      "modalidad": "Variable",
+      "cobertura": "Variable",
+      "dirigido_a": "Estudiantes destacados de la localidad",
+      "alcance": "Municipalidades provinciales y distritales",
+      "estado": "Variable por municipio"
+    },
+    "fundacion_romero": {
+      "nombre": "Beca Fundación Romero",
+      "institucion": "Fundación Romero",
+      "categoria": "Pregrado",
+      "tipo_estudio": "Estudios superiores",
+      "modalidad": "Variable",
+      "cobertura": "Variable",
+      "enfoque": "Estudiantes de alto rendimiento",
+      "url_oficial": "https://www.fundacionromero.org.pe/",
+      "estado": "Activa"
+    },
+    "fundacion_telefonica": {
+      "nombre": "Becas Fundación Telefónica",
+      "institucion": "Fundación Telefónica",
+      "categoria": "Capacitación",
+      "tipo_estudio": "Capacitación y estudios tecnológicos",
+      "modalidad": "Presencial/Virtual",
+      "cobertura": "Variable",
+      "enfoque": "Tecnología y capacitación",
+      "url_oficial": "https://www.fundaciontelefonica.com.pe/",
+      "estado": "Activa"
+    },
+    "universidades_privadas": {
+      "nombre": "Becas de Universidades Privadas",
+      "institucion": "Universidades Privadas",
+      "categoria": "Pregrado/Posgrado",
+      "tipo_estudio": "Variable",
+      "modalidad": "Variable",
+      "cobertura": "Variable",
+      "criterios": [
+        "Excelencia académica",
+        "Situación socioeconómica",
+        "Deportes",
+        "Arte y cultura",
+        "Liderazgo"
+      ],
+      "caracteristica": "Cada universidad puede ofrecer sus propias becas",
+      "estado": "Variable por universidad"
+    },
+    "becas_empresariales": {
+      "nombre": "Becas Empresariales",
+      "institucion": "Empresas Privadas",
+      "categoria": "Variable",
+      "tipo_estudio": "Variable",
+      "modalidad": "Variable",
+      "cobertura": "Variable",
+      "ejemplos": [
+        "Mineras (Antamina, Southern, etc.)",
+        "Bancos (BCP, Interbank, etc.)",
+        "Empresas diversas con programas de responsabilidad social"
+      ],
+      "enfoque": "Responsabilidad social empresarial",
+      "estado": "Variable por empresa"
+    }
+  },
+  "informacion_web": {
+    "pronabec": {
+      "beca_18_url": "https://www.pronabec.gob.pe/institucion/pronabec/campa%C3%B1as/77570-beca-18-vraem-2025"
+    },
+    "internacional": {
+      "chevening": {
+        "estado_conexion": "Error",
+        "error": "HTTPSConnectionPool(host='www.chevening.org', port=443): Read timed out. (read timeout=30)"
+      },
+      "fulbright": {
+        "estado_conexion": "Error",
+        "error": "404 Client Error: Not Found for url: https://pe.usembassy.gov/education-culture/educational-exchanges/fulbright-program/"
+      },
+      "erasmus": {
+        "titulo_pagina": "Home - Erasmus+",
+        "descripcion": "The EU's programme to support education, training, youth and sport in Europe.",
+        "url_verificada": "https://erasmus-plus.ec.europa.eu/",
+        "estado_conexion": "Activa"
+      },
+      "daad": {
+        "titulo_pagina": "German Academic Exchange Service - DAAD",
+        "descripcion": "The DAAD is the world’s largest funding organisation for the international exchange of students and researchers. Get to know who we are and what we stand for.",
+        "url_verificada": "https://www.daad.de/en/",
+        "estado_conexion": "Activa"
+      },
+      "campus_france": {
+        "titulo_pagina": "Étudiant | Campus France Studying in France",
+        "descripcion": "Find out how to come and study in France. What are the best universities in France.",
+        "url_verificada": "https://www.campusfrance.org/en",
+        "estado_conexion": "Activa"
+      },
+      "mext_japan": {
+        "titulo_pagina": "Study in Japan Official Website",
+        "descripcion": "Government-approved website with useful information on studying in Japan, such as the education system, exams, scholarships, and Japan's attractions.",
+        "url_verificada": "https://www.studyinjapan.go.jp/en/",
+        "estado_conexion": "Activa"
+      },
+      "gks_korea": {
+        "titulo_pagina": "한국유학종합시스템 서비스 일시 중단 안내",
+        "descripcion": "",
+        "url_verificada": "https://www.studyinkorea.go.kr/en/",
+        "estado_conexion": "Activa"
+      },
+      "csc_china": {
+        "estado_conexion": "Error",
+        "error": "412 Client Error: Precondition Failed for url: https://www.campuschina.org/"
+      }
+    }
+  },
+  "fuentes_oficiales": {
+    "pronabec": "https://www.pronabec.gob.pe/",
+    "minedu": "https://www.gob.pe/minedu",
+    "concytec": "https://portal.concytec.gob.pe/",
+    "sernanp": "https://www.gob.pe/sernanp",
+    "chevening": "https://www.chevening.org/scholarships/who-can-apply/peru/",
+    "fulbright": "https://pe.usembassy.gov/education-culture/educational-exchanges/fulbright-program/",
+    "erasmus": "https://erasmus-plus.ec.europa.eu/",
+    "daad": "https://www.daad.de/en/",
+    "campus_france": "https://www.campusfrance.org/en",
+    "mext_japan": "https://www.studyinjapan.go.jp/en/",
+    "gks_korea": "https://www.studyinkorea.go.kr/en/",
+    "csc_china": "https://www.campuschina.org/"
+  }
+}

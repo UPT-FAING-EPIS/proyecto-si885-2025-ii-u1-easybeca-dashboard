@@ -1,0 +1,498 @@
+{
+  "Beca 18": {
+    "nombre": "Beca 18",
+    "total_registros": 864,
+    "instituciones_unicas": 96,
+    "departamentos": 25,
+    "modalidades": 9,
+    "instituciones_top_5": {
+      "Universidad Nacional de San Cristóbal de Huamanga": 11,
+      "Universidad Para el Desarrollo Andino": 10,
+      "Universidad Nacional de Ingeniería": 10,
+      "Universidad Nacional Mayor de San Marcos": 10,
+      "Universidad Nacional Intercultural de la Amazonía": 10
+    },
+    "departamentos_top_5": {
+      "No especificado": 296,
+      "Lima": 273,
+      "Nacional": 38,
+      "Huancayo": 27,
+      "Arequipa": 27
+    },
+    "modalidades_distribucion": {
+      "Ordinaria": 190,
+      "Protección": 98,
+      "EIB": 98,
+      "Vraem": 97,
+      "Huallaga": 95,
+      "CNA y PA": 95,
+      "FF.AA.": 95,
+      "Repared": 95,
+      "Presencial": 1
+    },
+    "estrato_distribucion": {
+      "Variable": 380,
+      "Pobre o Pobre Extrema": 286,
+      "Variable según modalidad": 103,
+      "Víctimas de violencia": 95
+    },
+    "migracion_distribucion": {
+      "Nacional - Sin especificar": 334,
+      "Lima - Sin migración": 273,
+      "Posible migración": 194,
+      "Internacional": 63
+    }
+  },
+  "Beca Fundación Romero": {
+    "nombre": "Beca Fundación Romero",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "Fundación Romero": 1
+    },
+    "departamentos_top_5": {
+      "Nacional": 1
+    },
+    "modalidades_distribucion": {
+      "Variable": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Nacional - Sin especificar": 1
+    }
+  },
+  "Beca Generación Bicentenario": {
+    "nombre": "Beca Generación Bicentenario",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "PRONABEC": 1
+    },
+    "departamentos_top_5": {
+      "Nacional": 1
+    },
+    "modalidades_distribucion": {
+      "Presencial en el extranjero": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Nacional - Sin especificar": 1
+    }
+  },
+  "Beca Perú": {
+    "nombre": "Beca Perú",
+    "total_registros": 13,
+    "instituciones_unicas": 13,
+    "departamentos": 11,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "Universidad Privada en Arequipa": 1,
+      "Universidad Andina del Cusco (UAC)": 1,
+      "Universidad Privada en Huánuco": 1,
+      "Universidad Privada en Junín": 1,
+      "Universidad Privada en La Libertad": 1
+    },
+    "departamentos_top_5": {
+      "Lima": 3,
+      "Cusco": 1,
+      "Arequipa": 1,
+      "Huánuco": 1,
+      "Junín": 1
+    },
+    "modalidades_distribucion": {
+      "Presencial": 13
+    },
+    "estrato_distribucion": {
+      "Variable según universidad": 12,
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Posible migración": 6,
+      "Internacional": 3,
+      "Lima - Sin migración": 3,
+      "Nacional - Sin especificar": 1
+    }
+  },
+  "Beca Presidente de la República": {
+    "nombre": "Beca Presidente de la República",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "PRONABEC": 1
+    },
+    "departamentos_top_5": {
+      "Nacional": 1
+    },
+    "modalidades_distribucion": {
+      "Nacional e Internacional": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Nacional - Sin especificar": 1
+    }
+  },
+  "Beca Tec": {
+    "nombre": "Beca Tec",
+    "total_registros": 62,
+    "instituciones_unicas": 10,
+    "departamentos": 5,
+    "modalidades": 2,
+    "instituciones_top_5": {
+      "EEST Privada Toulouse Lautrec": 14,
+      "IES Privado del Sur": 11,
+      "IES Privado de Emprendedores ISAG": 10,
+      "EEST Privada IDAT": 9,
+      "IES Privado Khipu": 7
+    },
+    "departamentos_top_5": {
+      "Lima": 25,
+      "Arequipa": 16,
+      "Lambayeque": 11,
+      "Cusco": 9,
+      "Nacional": 1
+    },
+    "modalidades_distribucion": {
+      "Presencial": 61,
+      "Presencial únicamente": 1
+    },
+    "estrato_distribucion": {
+      "Estudiantes de institutos técnicos": 61,
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Posible migración": 36,
+      "Lima - Sin migración": 25,
+      "Nacional - Sin especificar": 1
+    }
+  },
+  "Beca Vocación de Maestro": {
+    "nombre": "Beca Vocación de Maestro",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "MINEDU": 1
+    },
+    "departamentos_top_5": {
+      "Nacional": 1
+    },
+    "modalidades_distribucion": {
+      "Presencial": 1
+    },
+    "estrato_distribucion": {
+      "Variable": 1
+    },
+    "migracion_distribucion": {
+      "Nacional - Sin especificar": 1
+    }
+  },
+  "Beca de Formación en Servicio": {
+    "nombre": "Beca de Formación en Servicio",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "MINEDU": 1
+    },
+    "departamentos_top_5": {
+      "Nacional": 1
+    },
+    "modalidades_distribucion": {
+      "Presencial/Virtual": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Nacional - Sin especificar": 1
+    }
+  },
+  "Becas CONCYTEC": {
+    "nombre": "Becas CONCYTEC",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "CONCYTEC": 1
+    },
+    "departamentos_top_5": {
+      "Nacional": 1
+    },
+    "modalidades_distribucion": {
+      "Nacional/Internacional": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Nacional - Sin especificar": 1
+    }
+  },
+  "Becas Chevening": {
+    "nombre": "Becas Chevening",
+    "total_registros": 4,
+    "instituciones_unicas": 4,
+    "departamentos": 1,
+    "modalidades": 2,
+    "instituciones_top_5": {
+      "University of Oxford": 1,
+      "University of Cambridge": 1,
+      "Imperial College London": 1,
+      "Gobierno del Reino Unido": 1
+    },
+    "departamentos_top_5": {
+      "Reino Unido": 4
+    },
+    "modalidades_distribucion": {
+      "Internacional - Maestría": 3,
+      "Presencial en Reino Unido": 1
+    },
+    "estrato_distribucion": {
+      "Profesionales con liderazgo": 3,
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Internacional": 4
+    }
+  },
+  "Becas China (CSC)": {
+    "nombre": "Becas China (CSC)",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "Gobierno de China": 1
+    },
+    "departamentos_top_5": {
+      "China": 1
+    },
+    "modalidades_distribucion": {
+      "Presencial en China": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Internacional": 1
+    }
+  },
+  "Becas Corea del Sur (GKS)": {
+    "nombre": "Becas Corea del Sur (GKS)",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "Gobierno de Corea del Sur": 1
+    },
+    "departamentos_top_5": {
+      "Corea del Sur": 1
+    },
+    "modalidades_distribucion": {
+      "Presencial en Corea del Sur": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Internacional": 1
+    }
+  },
+  "Becas DAAD": {
+    "nombre": "Becas DAAD",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "Gobierno de Alemania": 1
+    },
+    "departamentos_top_5": {
+      "Alemania": 1
+    },
+    "modalidades_distribucion": {
+      "Presencial en Alemania": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Internacional": 1
+    }
+  },
+  "Becas Erasmus+": {
+    "nombre": "Becas Erasmus+",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "Unión Europea": 1
+    },
+    "departamentos_top_5": {
+      "Países de la Unión Europea": 1
+    },
+    "modalidades_distribucion": {
+      "Presencial en Europa": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Internacional": 1
+    }
+  },
+  "Becas Fulbright": {
+    "nombre": "Becas Fulbright",
+    "total_registros": 4,
+    "instituciones_unicas": 4,
+    "departamentos": 1,
+    "modalidades": 2,
+    "instituciones_top_5": {
+      "Harvard University": 1,
+      "Stanford University": 1,
+      "MIT": 1,
+      "Gobierno de Estados Unidos": 1
+    },
+    "departamentos_top_5": {
+      "Estados Unidos": 4
+    },
+    "modalidades_distribucion": {
+      "Internacional - Posgrado": 3,
+      "Presencial en Estados Unidos": 1
+    },
+    "estrato_distribucion": {
+      "Profesionales destacados": 3,
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Internacional": 4
+    }
+  },
+  "Becas Fundación Telefónica": {
+    "nombre": "Becas Fundación Telefónica",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "Fundación Telefónica": 1
+    },
+    "departamentos_top_5": {
+      "Nacional": 1
+    },
+    "modalidades_distribucion": {
+      "Presencial/Virtual": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Nacional - Sin especificar": 1
+    }
+  },
+  "Becas SERNANP": {
+    "nombre": "Becas SERNANP",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "SERNANP": 1
+    },
+    "departamentos_top_5": {
+      "Nacional": 1
+    },
+    "modalidades_distribucion": {
+      "Variable": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Nacional - Sin especificar": 1
+    }
+  },
+  "Becas del Gobierno Francés": {
+    "nombre": "Becas del Gobierno Francés",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "Gobierno de Francia": 1
+    },
+    "departamentos_top_5": {
+      "Francia": 1
+    },
+    "modalidades_distribucion": {
+      "Presencial en Francia": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Internacional": 1
+    }
+  },
+  "Becas del Gobierno Japonés (MEXT)": {
+    "nombre": "Becas del Gobierno Japonés (MEXT)",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "Gobierno de Japón": 1
+    },
+    "departamentos_top_5": {
+      "Japón": 1
+    },
+    "modalidades_distribucion": {
+      "Presencial en Japón": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Internacional": 1
+    }
+  },
+  "Crédito Educativo": {
+    "nombre": "Crédito Educativo",
+    "total_registros": 1,
+    "instituciones_unicas": 1,
+    "departamentos": 1,
+    "modalidades": 1,
+    "instituciones_top_5": {
+      "PRONABEC": 1
+    },
+    "departamentos_top_5": {
+      "Nacional": 1
+    },
+    "modalidades_distribucion": {
+      "Préstamo con condiciones preferenciales": 1
+    },
+    "estrato_distribucion": {
+      "No especificado": 1
+    },
+    "migracion_distribucion": {
+      "Nacional - Sin especificar": 1
+    }
+  }
+}

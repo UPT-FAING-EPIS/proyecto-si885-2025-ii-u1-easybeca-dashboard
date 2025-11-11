@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Observatorio de Becas – Scrapeo Completo</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <h1>Observatorio de Becas</h1>
+      <p class="subtitle">Visualización del scrapeo completo (PRONABEC, MINEDU e internacionales)</p>
+    </header>
+
+    <nav class="tabs">
+      <button data-tab="tab-beca18" class="tab active">Beca 18</button>
+      <button data-tab="tab-beca-tec" class="tab">Beca Tec</button>
+      <button data-tab="tab-beca-peru" class="tab">Beca Perú</button>
+      <button data-tab="tab-instituciones" class="tab">Instituciones por Beca</button>
+      <button data-tab="tab-becas" class="tab">Becas Integrales</button>
+      <button data-tab="tab-estadisticas" class="tab">Estadísticas</button>
+    </nav>
+
+    <main>
+      <!-- BECA 18 -->
+      <section id="tab-beca18" class="tab-panel active">
+        <h2>Beca 18</h2>
+        <div class="panel-actions">
+          <input type="text" id="search-beca18" placeholder="Buscar universidad..." />
+          <select id="filter-tipo-beca18">
+            <option value="">Todos los tipos</option>
+            <option value="Pública">Pública</option>
+            <option value="Privada">Privada</option>
+          </select>
+        </div>
+        <div id="beca18-stats" class="stats"></div>
+        <div class="grid">
+          <div class="grid-item">
+            <h3>Universidades elegibles</h3>
+            <div class="table-wrapper">
+              <table id="beca18-universidades">
+                <thead>
+                  <tr>
+                    <th>Nombre</th>
+                    <th>Tipo</th>
+                    <th>Quintil</th>
+                    <th>Ubicación</th>
+                    <th>Estado</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+          <div class="grid-item">
+            <h3>Promedios mínimos por modalidad</h3>
+            <ul id="beca18-promedios" class="list"></ul>
+          </div>
+        </div>
+        <!-- Detalle de universidad seleccionada -->
+        <div id="beca18-detalle" class="info-box hidden"></div>
+        <div id="beca18-error" class="error hidden"></div>
+      </section>
+
+      <!-- INSTITUCIONES POR BECA -->
+      <section id="tab-instituciones" class="tab-panel">
+        <h2>Instituciones por Beca</h2>
+        <div class="quick-filters" aria-label="Filtros rápidos por beca">
+          <button class="chip" data-beca-code="beca_18">Beca 18</button>
+          <button class="chip" data-beca-code="beca_tec">Beca Tec</button>
+          <button class="chip" data-beca-code="beca_peru">Beca Perú</button>
+          <button class="chip" data-beca-code="chevening">Chevening</button>
+          <button class="chip" data-beca-code="fulbright">Fulbright</button>
+        </div>
+        <div id="instituciones-info-beca" class="info-box hidden"></div>
+        <div class="panel-actions">
+          <input type="text" id="search-instituciones" placeholder="Buscar institución o programa..." />
+          <select id="filter-beca">
+            <option value="">Todas las becas</option>
+            <option value="beca_18">Beca 18</option>
+            <option value="beca_tec">Beca Tec</option>
+            <option value="beca_peru">Beca Perú</option>
+            <option value="chevening">Chevening</option>
+            <option value="fulbright">Fulbright</option>
+          </select>
+        </div>
+        <div id="instituciones-stats" class="stats"></div>
+        <div class="table-wrapper">
+          <table id="tabla-instituciones">
+            <thead>
+              <tr>
+                <th>Beca</th>
+                <th>Institución</th>
+                <th>Región</th>
+                <th>Ubicación</th>
+                <th>Programa</th>
+                <th>Modalidad</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div id="instituciones-error" class="error hidden"></div>
+      </section>
+
+      <!-- BECA TEC -->
+      <section id="tab-beca-tec" class="tab-panel">
+        <h2>Beca Tec</h2>
+        <div id="beca-tec-info" class="info-box"></div>
+        <div class="panel-actions">
+          <input type="text" id="search-beca-tec" placeholder="Buscar instituto o programa..." />
+          <select id="filter-tipo-beca-tec">
+            <option value="">Todos los tipos</option>
+            <option value="Institutos Técnicos">Institutos Técnicos</option>
+          </select>
+        </div>
+        <div id="beca-tec-stats" class="stats"></div>
+        <div class="table-wrapper">
+          <table id="beca-tec-instituciones">
+            <thead>
+              <tr>
+                <th>Institución</th>
+                <th>Región</th>
+                <th>Ubicación</th>
+                <th>Programa</th>
+                <th>Modalidad</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div id="beca-tec-error" class="error hidden"></div>
+      </section>
+
+      <!-- BECA PERÚ -->
+      <section id="tab-beca-peru" class="tab-panel">
+        <h2>Beca Perú</h2>
+        <div id="beca-peru-info" class="info-box"></div>
+        <div class="panel-actions">
+          <input type="text" id="search-beca-peru" placeholder="Buscar institución o programa..." />
+          <select id="filter-tipo-beca-peru">
+            <option value="">Todos los tipos</option>
+            <option value="Universidades">Universidades</option>
+            <option value="Institutos Técnicos">Institutos Técnicos</option>
+          </select>
+        </div>
+        <div id="beca-peru-stats" class="stats"></div>
+        <div class="table-wrapper">
+          <table id="beca-peru-instituciones">
+            <thead>
+              <tr>
+                <th>Institución</th>
+                <th>Región</th>
+                <th>Ubicación</th>
+                <th>Programa</th>
+                <th>Modalidad</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div id="beca-peru-error" class="error hidden"></div>
+      </section>
+
+      <!-- BECAS INTEGRALES -->
+      <section id="tab-becas" class="tab-panel">
+        <h2>Becas Integrales</h2>
+        <div class="panel-actions">
+          <input type="text" id="search-becas" placeholder="Buscar beca..." />
+          <select id="filter-categoria">
+            <option value="">Todas las categorías</option>
+            <option value="pregrado">Pregrado</option>
+            <option value="posgrado">Posgrado</option>
+            <option value="capacitacion">Capacitación</option>
+            <option value="financiamiento">Financiamiento</option>
+          </select>
+        </div>
+        <div id="becas-stats" class="stats"></div>
+        <div class="table-wrapper">
+          <table id="tabla-becas">
+            <thead>
+              <tr>
+                <th>Código</th>
+                <th>Nombre</th>
+                <th>Institución</th>
+                <th>Categoría</th>
+                <th>Tipo de estudio</th>
+                <th>Modalidad</th>
+                <th>Cobertura</th>
+                <th>URL</th>
+                <th>Estado</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div id="becas-error" class="error hidden"></div>
+      </section>
+
+      <!-- ESTADÍSTICAS -->
+      <section id="tab-estadisticas" class="tab-panel">
+        <h2>Estadísticas</h2>
+        <div id="estadisticas-globales" class="cards"></div>
+        <div class="table-wrapper">
+          <table id="tabla-estadisticas-beca">
+            <thead>
+              <tr>
+                <th>Beca</th>
+                <th>Registros</th>
+                <th>Instituciones únicas</th>
+                <th>Regiones</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div id="estadisticas-error" class="error hidden"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Fuentes: PRONABEC, MINEDU, CONCYTEC y programas internacionales. Datos locales generados por los scrapers del proyecto.</p>
+    </footer>
+
+    <script src="assets/app.js"></script>
+  </body>
+  </html>

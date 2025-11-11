@@ -1,0 +1,25 @@
+﻿categoria_nivel,codigo_beca,nombre,institucion,tipo_estudio,modalidad,cobertura,url_oficial,estado
+pregrado,beca_18,Beca 18,PRONABEC,Universitario,Presencial,Completa,https://www.pronabec.gob.pe/beca-18/,Activa
+pregrado,beca_peru,Beca Perú,PRONABEC (coordinación),Universitario Privado,Presencial,Variable según universidad,https://www.pronabec.gob.pe/beca-peru/,Activa
+pregrado,beca_vocacion_maestro,Beca Vocación de Maestro,MINEDU,Estudios de Educación,Presencial,Completa,https://www.gob.pe/minedu,Activa
+pregrado,fundacion_romero,Beca Fundación Romero,Fundación Romero,Estudios superiores,Variable,Variable,https://www.fundacionromero.org.pe/,Activa
+posgrado,beca_generacion_bicentenario,Beca Generación Bicentenario,PRONABEC,Maestrías y Doctorados,Presencial en el extranjero,Completa,https://www.pronabec.gob.pe/beca-generacion-bicentenario/,Activa
+posgrado,beca_presidente_republica,Beca Presidente de la República,PRONABEC,Maestrías y Doctorados,Nacional e Internacional,Estudios de posgrado completos,https://www.pronabec.gob.pe/beca-presidente-republica/,Activa
+posgrado,becas_concytec,Becas CONCYTEC,CONCYTEC,Estudios de posgrado en ciencia y tecnología,Nacional/Internacional,Variable,https://portal.concytec.gob.pe/,Activa
+posgrado,chevening,Becas Chevening,Gobierno del Reino Unido,Maestrías de un año en Reino Unido,Presencial en Reino Unido,Completa,https://www.chevening.org/scholarships/who-can-apply/peru/,Activa
+posgrado,fulbright,Becas Fulbright,Gobierno de Estados Unidos,Maestrías y doctorados en EE.UU.,Presencial en Estados Unidos,Completa,https://pe.usembassy.gov/education-culture/educational-exchanges/fulbright-program/,Activa
+tecnico,beca_tec,Beca Tec,PRONABEC,Técnico Superior y Técnico-Productivo,Presencial únicamente,Costo de estudios técnicos,https://www.pronabec.gob.pe/beca-tec/,Activa
+capacitacion,beca_formacion_servicio,Beca de Formación en Servicio,MINEDU,Formación Continua,Presencial/Virtual,Variable,https://www.gob.pe/minedu,Activa
+capacitacion,fundacion_telefonica,Becas Fundación Telefónica,Fundación Telefónica,Capacitación y estudios tecnológicos,Presencial/Virtual,Variable,https://www.fundaciontelefonica.com.pe/,Activa
+financiamiento,credito_educativo,Crédito Educativo,PRONABEC,Estudios Superiores,Préstamo con condiciones preferenciales,Financiamiento de estudios superiores,https://www.pronabec.gob.pe/credito-educativo/,Activa
+variable,becas_sernanp,Becas SERNANP,SERNANP,Estudios relacionados con áreas naturales protegidas,Variable,Variable,https://www.gob.pe/sernanp,Activa
+variable,erasmus_plus,Becas Erasmus+,Unión Europea,Estudios e intercambios en Europa,Presencial en Europa,Variable,https://erasmus-plus.ec.europa.eu/,Activa
+variable,daad,Becas DAAD,Gobierno de Alemania,Estudios en Alemania,Presencial en Alemania,Variable,https://www.daad.de/en/,Activa
+variable,gobierno_frances,Becas del Gobierno Francés,Gobierno de Francia,Estudios en Francia,Presencial en Francia,Variable,https://www.campusfrance.org/en,Activa
+variable,mext_japon,Becas del Gobierno Japonés (MEXT),Gobierno de Japón,"Pregrado, posgrado e investigación en Japón",Presencial en Japón,Completa,https://www.studyinjapan.go.jp/en/,Activa
+variable,gks_corea,Becas Corea del Sur (GKS),Gobierno de Corea del Sur,Pregrado y posgrado en Corea del Sur,Presencial en Corea del Sur,Completa,https://www.studyinkorea.go.kr/en/,Activa
+variable,csc_china,Becas China (CSC),Gobierno de China,Estudios en universidades chinas,Presencial en China,Variable,https://www.campuschina.org/,Activa
+variable,becas_regionales,Becas de Gobiernos Regionales,Gobiernos Regionales,Variable,Variable,Variable,,Variable por región
+variable,becas_municipales,Becas Municipales,Municipalidades,Variable,Variable,Variable,,Variable por municipio
+variable,universidades_privadas,Becas de Universidades Privadas,Universidades Privadas,Variable,Variable,Variable,,Variable por universidad
+variable,becas_empresariales,Becas Empresariales,Empresas Privadas,Variable,Variable,Variable,,Variable por empresa

@@ -1,0 +1,461 @@
+{
+  "becas_por_tipo": [
+    {
+      "NombreBeca": "",
+      "Cantidad": 12,
+      "Pagina": 12
+    },
+    {
+      "NombreBeca": "",
+      "Cantidad": 13,
+      "Pagina": 13
+    },
+    {
+      "NombreBeca": "Pregrado",
+      "Cantidad": 10,
+      "Pagina": 27
+    },
+    {
+      "NombreBeca": "",
+      "Cantidad": 70,
+      "Pagina": 70
+    },
+    {
+      "NombreBeca": "",
+      "Cantidad": 71,
+      "Pagina": 71
+    },
+    {
+      "NombreBeca": "",
+      "Cantidad": 78,
+      "Pagina": 78
+    },
+    {
+      "NombreBeca": "",
+      "Cantidad": 79,
+      "Pagina": 79
+    },
+    {
+      "NombreBeca": "",
+      "Cantidad": 88,
+      "Pagina": 88
+    },
+    {
+      "NombreBeca": "",
+      "Cantidad": 89,
+      "Pagina": 89
+    },
+    {
+      "NombreBeca": "",
+      "Cantidad": 92,
+      "Pagina": 92
+    },
+    {
+      "NombreBeca": "",
+      "Cantidad": 93,
+      "Pagina": 93
+    },
+    {
+      "NombreBeca": "",
+      "Cantidad": 102,
+      "Pagina": 102
+    },
+    {
+      "NombreBeca": "",
+      "Cantidad": 103,
+      "Pagina": 103
+    }
+  ],
+  "becas_por_departamento": [
+    {
+      "Departamento": "Ica",
+      "Cantidad": 14,
+      "Pagina": 8
+    },
+    {
+      "Departamento": "Ica",
+      "Cantidad": 1,
+      "Pagina": 44
+    },
+    {
+      "Departamento": "Amazonas",
+      "Cantidad": 13,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Áncash",
+      "Cantidad": 9,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Apurímac",
+      "Cantidad": 4,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Arequipa",
+      "Cantidad": 20,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Ayacucho",
+      "Cantidad": 10,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Cajamarca",
+      "Cantidad": 17,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Callao",
+      "Cantidad": 26,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Cusco",
+      "Cantidad": 37,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Huancavelica",
+      "Cantidad": 3,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Huánuco",
+      "Cantidad": 7,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Ica",
+      "Cantidad": 11,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Ica",
+      "Cantidad": 3,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Junín",
+      "Cantidad": 27,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "La Libertad",
+      "Cantidad": 25,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Lambayeque",
+      "Cantidad": 32,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Lima",
+      "Cantidad": 1,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Loreto",
+      "Cantidad": 8,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Madre De Dios",
+      "Cantidad": 2,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Moquegua",
+      "Cantidad": 1,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Pasco",
+      "Cantidad": 4,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Piura",
+      "Cantidad": 36,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Puno",
+      "Cantidad": 17,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "San Martín",
+      "Cantidad": 16,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Tacna",
+      "Cantidad": 2,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Tumbes",
+      "Cantidad": 4,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Ucayali",
+      "Cantidad": 4,
+      "Pagina": 52
+    },
+    {
+      "Departamento": "Amazonas",
+      "Cantidad": 1,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Áncash",
+      "Cantidad": 2,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Apurímac",
+      "Cantidad": 1,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Apurímac",
+      "Cantidad": 4,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Arequipa",
+      "Cantidad": 1,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Cajamarca",
+      "Cantidad": 1,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Callao",
+      "Cantidad": 9,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Cusco",
+      "Cantidad": 2,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Huancavelica",
+      "Cantidad": 2,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Huancavelica",
+      "Cantidad": 3,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Huánuco",
+      "Cantidad": 2,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Huánuco",
+      "Cantidad": 7,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Ica",
+      "Cantidad": 3,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Ica",
+      "Cantidad": 2,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Ica",
+      "Cantidad": 3,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Junín",
+      "Cantidad": 3,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Lambayeque",
+      "Cantidad": 1,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Lima",
+      "Cantidad": 55,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Madre De Dios",
+      "Cantidad": 2,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Moquegua",
+      "Cantidad": 1,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Pasco",
+      "Cantidad": 4,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Puno",
+      "Cantidad": 1,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Tacna",
+      "Cantidad": 1,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Tacna",
+      "Cantidad": 2,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Tumbes",
+      "Cantidad": 4,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Ucayali",
+      "Cantidad": 1,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Ucayali",
+      "Cantidad": 4,
+      "Pagina": 55
+    },
+    {
+      "Departamento": "Amazonas",
+      "Cantidad": 2,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Ancash",
+      "Cantidad": 3,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Apurimac",
+      "Cantidad": 2,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Arequipa",
+      "Cantidad": 1,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Ayacucho",
+      "Cantidad": 2,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Cajamarca",
+      "Cantidad": 2,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Callao",
+      "Cantidad": 11,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Cusco",
+      "Cantidad": 1,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Ica",
+      "Cantidad": 4,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Junin",
+      "Cantidad": 3,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "La Libertad",
+      "Cantidad": 2,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Lambayeque",
+      "Cantidad": 2,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Lima",
+      "Cantidad": 92,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Loreto",
+      "Cantidad": 1,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Moquegua",
+      "Cantidad": 1,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Piura",
+      "Cantidad": 4,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Puno",
+      "Cantidad": 1,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "San Martin",
+      "Cantidad": 2,
+      "Pagina": 58
+    },
+    {
+      "Departamento": "Ica",
+      "Cantidad": 14,
+      "Pagina": 62
+    },
+    {
+      "Departamento": "Ica",
+      "Cantidad": 15,
+      "Pagina": 64
+    },
+    {
+      "Departamento": "Ica",
+      "Cantidad": 16,
+      "Pagina": 64
+    },
+    {
+      "Departamento": "Ica",
+      "Cantidad": 2,
+      "Pagina": 74
+    },
+    {
+      "Departamento": "Ica",
+      "Cantidad": 2,
+      "Pagina": 74
+    }
+  ]
+}

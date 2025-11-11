@@ -1,0 +1,3454 @@
+
+================================================================================
+PÁGINA 1
+================================================================================
+MEMORIA ANUAL
+1
+2021
+
+================================================================================
+PÁGINA 2
+================================================================================
+PRESENTACIÓN 4
+RESUMEN EJECUTIVO 5
+HITOS 2021 6
+I Marco estratégico del Pronabec 8
+II Diagnóstico de la problemática 11
+II.1 El acceso y la culminación de la educación superior en el Perú 12
+II.2 El impacto del COVID-19 en la economía peruana 14
+II.3 El rol del Programa Nacional de Becas y Crédito Educativo 15
+III Becas otorgadas y atendidas por el Pronabec 16
+III.1 Becas de pregrado 20
+III.2 Becas de posgrado 33
+III.3 Becas especiales 35
+IV Créditos educativos otorgados y atendidos por el Pronabec 41
+IV.1 Crédito Talento 43
+IV.2 Crédito 18 44
+IV.3 Crédito Continuidad de Estudios 45
+IV.4 Recuperación de crédito educativo 45
+V Modelo de acompañamiento al beneficiario del Pronabec 46
+IV.1 Intervención básica: plan de acompañamiento en “Aprende +” 48
+IV.2 Intervención de riesgo de deserción: acompañamiento a becarios 52
+y becarias
+IV.3 Actividades de gestión del acompañamiento 53
+IV.4 Soporte académico 54
+IV.5 Observatorio “Ponte en Carrera” 55
+VI Gestión eficiente, moderna y transparente 56
+VII Más allá de la beca 61
+VIII Gestión Presupuestal 2021 61
+IX Lecciones aprendidas 66
+MEMORIA ANUAL
+2
+2021
+
+================================================================================
+PÁGINA 3
+================================================================================
+ACTA DEL CONSEJO DIRECTIVO
+N.° 002/2022
+Siendo las 16:10 horas del día 26 de marzo del 2022, se reunieron de manera virtual los miembros
+del Consejo Directivo del Programa Nacional de Becas y Crédito Educativo (Pronabec).
+Acuerdos:
+Luego de la deliberación se acordó lo siguiente:
+1. Aprobar la Memoria Anual 2021 del Pronabec.
+No habiendo más asuntos que tratar, siendo las 17:57 horas, el viceministro de Gestión Institucional
+dio por culminada la sesión, previa lectura, aprobación y suscripción de la presente acta por los
+miembros del Consejo Directivo, en señal de conformidad.
+WALTER ALBERTO HERNÁNDEZ ALCÁNTARA ROY CARLOS PALACIOS ÁVALOS
+Viceministro (e) de Gestión Institucional Director ejecutivo del Pronabec
+Presidente del Consejo Directivo Secretario Técnico del Consejo Directivo
+SANDRA LILIANA NUÑEZ BENAVIDES YULISSA PILAR PRADO COLLYNS
+Representante de la Presidencia del Consejo Representante del Ministerio de Trabajo y
+de Ministros Promoción del Empleo
+YIEM ATAUCUSI ATAUCUSI SILVANA MARÍA POZO FORTUNIC
+Representante del Centro Nacional de Por delegación de
+Planeamiento Estratéfico LISSETH RAMSDEN RAMOS
+Representante del Ministerio de Economía y
+Finanzas
+MARY ESTHER ROSALES MORE CARLOS FEDERICO BARREDA TAMAYO
+Representante de la Asamblea Nacional de Representante del Sistema Nacional de
+Gobiernos Regionales Evaluación, Acreditación y Certificación de la
+Calidad Educativa (Sineace)
+MEMORIA ANUAL
+3
+2021
+
+================================================================================
+PÁGINA 4
+================================================================================
+PRESENTACIÓN
+En el Perú, el acceso a la educación superior todavía se mantiene rezagado si
+se compara con países considerados referentes. En efecto, la matrícula pasó de
+27.7 % en el 2008 a 41.6 % en el 2019 y disminuyó a 32.9 % en el 2020 para
+la población entre 17 y 21 años, mientras que en América Latina y el Caribe el
+acceso pasó de 23 % en el 2000 a 52 % en el 2018. En relación a la culminación
+de la educación superior de la población peruana entre los 20 y 24 años, esta aún
+permanece en niveles bajos, ya que pasó de 12.3 % en el 2018 a 16 % en el 2020,
+según la Encuesta Nacional de Hogares (Enaho 2008-2020).
+De acuerdo a la Enaho 2020, el retorno sobre los ingresos de un año adicional de
+primaria es de 2 %, un año adicional de secundaria es de 5 %, uno de educación
+superior técnica es de 13 % y uno de educación superior universitaria es de 18 %.
+Esto define a la educación, principalmente la superior, como la mejor inversión en
+capital humano, con el objetivo de apoyar el talento y reducir la pobreza.
+Dado este contexto, así como los beneficios que ofrece la educación superior
+como instrumento para salir de la pobreza, se justifica la presencia de un programa
+como el Programa Nacional de Becas y Crédito Educativo (Pronabec) que brinde
+oportunidades de acceso, permanencia y culminación en la educación superior
+a una población objetivo caracterizada por contar con recursos económicos
+limitados y que demuestre un alto rendimiento académico. Todo esto con el fin de
+promover la igualdad de oportunidades.
+En efecto, el Pronabec se crea en el 2012¹ con la finalidad de “contribuir a la
+equidad en la educación superior, garantizando el acceso a esta etapa de los
+estudiantes de bajos recursos económicos y alto rendimiento académico, así
+como su permanencia y culminación”.
+En dicho contexto, la Memoria Anual 2021 presenta información sobre las
+acciones realizadas y las herramientas implementadas durante el año, así como los
+resultados obtenidos a partir de estas. En particular, da cuenta del otorgamiento
+de becas y créditos, del acompañamiento a beneficiarios y beneficiarias, así como
+de la búsqueda de una gestión moderna, eficiente y transparente.
+¹Ley n.º 29837, del 12 de febrero de 2012.
+MEMORIA ANUAL
+4
+2021
+
+================================================================================
+PÁGINA 5
+================================================================================
+RESUMEN EJECUTIVO
+La Memoria Anual 2021 del Programa Nacional de Becas y Crédito Educativo
+(Pronabec) presenta información sobre las estrategias implementadas y los
+objetivos alcanzados por la entidad durante el año en mención.
+En relación a las becas, en el 2021, se otorgaron 4996 becas a nivel nacional en
+el concurso de Beca 18. Así, 3975 de estas fueron para universidades, 21 para
+institutos superiores pedagógicos y 1000 para institutos y escuelas de educación
+superior tecnológica. Del mismo modo, al culminar la fase de adjudicación de la
+beca, el 96.3 % de los nuevos becarios y becarias optó por una IES priorizada en
+función de la calidad, mientras que el 77.4 % eligió carreras con mayores retornos.
+En cuanto a otras becas que financian estudios de pregrado se lanzó el concurso
+de la Beca Permanencia, la cual otorgó 8000 becas. De igual manera, se abrieron
+convocatorias para la Beca de Excelencia Académica para Hijos de Docentes y la
+Beca Mujeres en Ciencia, las que otorgaron 600 y 149 becas, respectivamente.
+En cuanto a becas de posgrado, la Beca Generación del Bicentenario otorgó 151
+nuevas becas durante el 2021, mientras que, en el caso de las becas especiales,
+la Beca Continuidad otorgó un total de 10 051 becas, superando de este modo la
+meta programada de 10 000 becas en la convocatoria 2021. Por último, la Beca
+para Situaciones Especiales en Formación Técnico-Productiva Repared, la Beca
+Inclusión para carreras universitarias o profesionales técnicas y la Beca inclusión
+Técnico-Productiva otorgaron 170, 11 y 98 becas, respectivamente.
+En materia de créditos educativos, el programa adjudicó 146 créditos en la
+modalidad Crédito Talento y 75 en la modalidad Crédito 18. En el caso del Crédito
+Continuidad de Estudios, se aprobó la ampliación del financiamiento de conceptos
+académicos y no académicos de las convocatorias 2020 y 2020-II, con lo cual se
+beneficiaron 1505 estudiantes de pregrado.
+Por otro lado, como parte de la intervención básica del modelo de acompañamiento,
+el programa matriculó a 80 837 becarios y becarias nuevos y continuadores de
+pregrado en 18 de los 23 cursos del plan de estudios de la plataforma “Aprende
++”. Al finalizar el 2021, más del 97 % había completado sus cursos. En el caso de
+la intervención de riesgo, en el semestre 2021-I se identificó a 2024 becarios y
+becarias con necesidades de atención y se atendió a 1970 de manera sincrónica,
+mientras que en el semestre 2021-II se identificó a 914 becarios y becarias con
+necesidades de atención y se logró atender a 892 de manera sincrónica. Por su
+parte, 4837 becarios y becarias recibieron material educativo comunicacional,
+como parte de la modalidad asincrónica.
+Finalmente, el Pronabec lanzó la plataforma de ExpoTalentos y puso en marcha
+el programa piloto de mentoría entre pares “Talentos en Acción”, el cual contó
+con 403 nuevos talentos en las regiones de Lima, La Libertad, Arequipa, Junín y
+Amazonas. Del mismo modo, implementó el programa de mentoría profesional con
+aliados, que contó con la participación de 57 parejas de mentores y mentees, de
+las cuales 55 culminaron el programa.
+A continuación, se presentan los principales hitos alcanzados por el Pronabec
+durante el 2021, ordenados de manera cronológica.
+MEMORIA ANUAL
+5
+2021
+
+================================================================================
+PÁGINA 6
+================================================================================
+HITOS 2021
+Mes Hito o evento importante Tipo de hito
+Aprobación del Plan Anual de Contrataciones del Año 2021 Operativo
+Aprobación del Plan de Supervisión de Ejecución de
+Operativo
+Enero Subvenciones para el 2021
+Publicación y entrada en vigencia del Decreto Supremo n.º
+018-2020-MINEDU, que aprueba el Reglamento de la Ley n.º Operativo
+29837, Ley que crea el Pronabec
+Mediante RDE n.º 018-2021-MINEDU-VMGI-PRONABEC,
+con fecha 01 de febrero de 2021, se aprobó la directiva
+Febrero Operativo
+“Disposiciones que regulan la gestión de documentos
+digitales en el Pronabec”
+Desarrollo e implementación de mejoras en el módulo de
+Marzo Operativo
+Mesa de Partes Virtual
+Implementación del programa piloto “mentoría entre pares -
+Operativo
+Talentos en Acción”- fase II
+Lanzamiento de la plataforma ExpoTalentos Pronabec Operativo
+Aprobación del “Procedimiento para el otorgamiento,
+monitoreo y recuperación del crédito educativo”, mediante Estratégico
+RDE n.º 067-2021-MINEDU/VMGI-PRONABEC
+Aprobación de la RDE n.º 066-2021-MINEDU/VMGI-
+PRONABEC: “Norma que regula disposiciones para el
+Operativo
+beneficiario de becas de pregrado, posgrado y becas
+especiales"
+Aprobación de la RDE n.º 068-2021-MINEDU/VMGI-
+Abril PRONABEC: “Norma que regula los procedimientos del Operativo
+Comité de Becas del Pronabec"
+Aprobación de la RDE n.º 069-2021-MINEDU/VMGI-
+PRONABEC: modificatorias a las “Normas para el seguimiento
+y evaluación del cumplimiento del Compromiso de Servicio Operativo
+al Perú suscrito por los beneficiarios de becas y créditos
+educativos”
+Aprobación de la RDE n.º 076-2021-MINEDU/VMGI-
+PRONABEC: “Normas para la ejecución de subvenciones para Operativo
+estudios en el extranjero”
+Aprobación de la RDE n.º 078-2021-MINEDU/VMGI-
+PRONABEC: “Normas para la Ejecución de Subvenciones para Operativo
+Estudios en el Perú"
+Desarrollo e implementación de la Plataforma Pronabec APPS Operativo
+Mayo
+Presentación del Plan de Continuidad Informática y el Plan de
+Operativo
+Pruebas, aprobado por el Comité de Gobierno Digital
+MEMORIA ANUAL
+6
+2021
+
+================================================================================
+PÁGINA 7
+================================================================================
+Alianzas estratégicas para la implementación del piloto
+Junio de mentoría profesional para impulsar la empleabilidad de Operativo
+becarios y becarias próximos a egresar
+Mediante RDE n.º 128-2021-MINEDU-VMGI-PRONABEC, con
+Julio fecha 13 de julio de 2021, se aprobó la “Directiva que regula el Operativo
+uso de la Mesa de Partes Presencial y Virtual en el Pronabec”
+Implementación del programa piloto “mentoría entre pares -
+Operativo
+Talentos en Acción”- fase II
+Aprobación de la RDE n.º 168-2021-MINEDU/VMGI-
+Agosto
+PRONABEC: “Normas para el seguimiento y evaluación del
+Operativo
+cumplimiento del Compromiso de Servicio al Perú suscrito por
+los beneficiarios de becas y créditos educativos”
+Reconocimiento al Pronabec por parte de la Autoridad
+Setiembre Nacional del Servicio Civil en mérito a la implementación del Estratégico
+ciclo 2020 del subsistema de gestión del rendimiento.
+Implementación de “Plan de acción para acondicionamiento
+de espacios y mobiliario para personas con discapacidad en
+Estratégico
+las áreas de atención al usuario”, en el marco del artículo 16
+Octubre
+de la Ley n.º 29973
+Actualización de la Política de Seguridad y Salud en el Trabajo Operativo
+Aprobación del “Manual de clasificación y definiciones del
+estado, condición y situación del postulante, no becario/a
+Estratégico
+y becario/a”, mediante RDE n.º 227-2021-MINEDU-VMGI-
+PRONABEC
+Noviembre
+Aprobación del Programa de Integridad del Pronabec Estratégico
+Aprobación del Código de Conducta del Pronabec Estratégico
+Feria Internacional Universitaria “Beca Generación del
+Operativo
+Bicentenario”
+Concurso de Proyectos de Innovación - “Innova Pronabec” Operativo
+Aprobación del “Plan de Ecoeficiencia 2022-2024” del
+Diciembre Pronabec” mediante RDE n.º 258-2021-MINEDU/VMGI- Estratégico
+PRONABEC
+Implementación de la plataforma “Registro de Visitas en
+Estratégico
+Línea” del Pronabec, en el marco de la Ley n.º 28024
+Implementación de la plataforma de notificaciones. Operativo
+MEMORIA ANUAL
+7
+2021
+
+================================================================================
+PÁGINA 8
+================================================================================
+MEMORIA ANUAL
+8
+2021
+
+================================================================================
+PÁGINA 9
+================================================================================
+I. Marco estratégico del Pronabec
+El Pronabec es el programa nacional dependiente del Ministerio de Educación que, por medio
+del otorgamiento de becas y créditos educativos, apoya la transformación educativa del Perú
+a través de la inclusión social en la educación superior, interviniendo de manera directa e
+integral en jóvenes y adultos de bajos e insuficientes recursos económicos y alto rendimiento
+académico. Su horizonte estratégico está alineado con su misión, valores, objetivos y acciones
+estratégicas, definidas en el Plan de Gestión Institucional del Pronabec (PGI) 2019-2022²,
+como se describe a continuación.
+• Misión:
+Contribuir a una sociedad más equitativa, promoviendo el acceso, la permanencia y la
+culminación de una educación superior de calidad a personas talentosas de escasos
+recursos.
+• Valores:
+• Orientación al servicio: el talento humano del Pronabec demuestra orientación al
+servicio, anticipándose en la identificación de las necesidades de los usuarios.
+• Innovación: el Pronabec promueve la innovación encontrando soluciones disruptivas
+de manera oportuna.
+• Excelencia: el Pronabec busca la excelencia haciendo las cosas bien.
+• Compromiso: el talento humano del Pronabec demuestra compromiso con su propósito
+y objetivos.
+• Integridad: el talento humano del Pronabec actúa con integridad, siendo ético y
+transparente.
+• Política institucional del Pronabec:
+“Promover, a través del otorgamiento de becas y créditos educativos, la eliminación de
+las barreras de acceso, permanencia y culminación a una educación superior de calidad y
+facilitar un modelo de acompañamiento integral durante todo el ciclo de vida del beneficiario
+a través de una gestión moderna, eficiente, transparente y orientada al servicio”.
+²El PGI 2019-2021 se aprobó mediante el Acta del Consejo Directivo del Pronabec n.º 001/2019, el 30 de octubre del 2019, y se
+amplió hasta el 2022 mediante Acta del Consejo Directivo del Pronabec n.º 003/2021, el 17 de diciembre de 2021. El PGI 2019-2022
+es una herramienta de gestión que permite organizar, a nivel estratégico e institucional, los objetivos y acciones que desarrolla el
+Pronabec para fortalecer su posicionamiento como una entidad que otorga becas y créditos educativos a poblaciones vulnerables
+o en situación especial, atendiendo así las necesidades del país. Del mismo modo, permite efectuar el seguimiento y evaluar el
+cumplimiento de las metas trazadas.
+https://www.gob.pe/institucion/pronabec/informes-publicaciones/2656255-plan-de-gestion-institucional-del-programa-nacional-
+de-becas-y-credito-educativo-2019-2022
+MEMORIA ANUAL
+9
+2021
+
+================================================================================
+PÁGINA 10
+================================================================================
+• Objetivos estratégicos:
+OEI.01: Mejorar el diseño de becas y créditos educativos
+Enfocado en rediseñar las becas y los créditos educativos existentes, así como el esquema
+de acompañamiento a becarios y becarias para asegurar efectividad y crear nuevas becas
+y créditos educativos estratégicos en función a la propuesta de valor.
+OEI.02: Impulsar una gestión eficiente, moderna y transparente
+Enfocado en fortalecer la operatividad y eficiencia interna, procurando procesos claros,
+información oportuna y confiable y un sistema de gestión basado en la medición del
+desempeño para el aprendizaje.
+OEI.03: Promover el posicionamiento y mejora de relaciones con usuarios y
+aliados estratégicos
+Enfocado en fortalecer la relación con los beneficiarios, la red de egresados (Red Alumni),
+las alianzas vigentes, identificando nuevas y necesarias para desplegar la propuesta de
+valor.
+OEI.04: Promover el fortalecimiento institucional y la instalación de la cultura
+Pronabec
+Enfocado en fortalecer la cultura de la institución promoviendo un buen clima laboral y
+asegurando que el programa atraiga, retenga y desarrolle el mejor talento.
+• Articulación estratégica:
+La articulación estratégica con las políticas y planes en los tres niveles de gobierno está
+detallada en el anexo I.
+MEMORIA ANUAL
+10
+2021
+
+================================================================================
+PÁGINA 11
+================================================================================
+MEMORIA ANUAL
+11
+2021
+
+================================================================================
+PÁGINA 12
+================================================================================
+II. Diagnóstico de la problemática
+2.1. El acceso y la culminación de la educación superior en el Perú
+En el Perú, el acceso a la educación superior todavía se mantiene rezagado si se compara con
+países considerados referentes. En efecto, la matrícula pasó de 27.7 % en el 2008 a 41.6 %
+en 2019 y disminuyó a 32.9 % en el 2020 para la población entre los 17 y 21 años³ mientras
+que en América Latina y el Caribe el acceso pasó de 23 % en el 2000 a 52 % en 2018⁴. En lo
+que respecta a la culminación de la educación superior de la población peruana entre los 20 y
+24 años, está aún permanece en niveles bajos, ya que pasó de 12.3 % en el 2008 a 16 % en
+2020⁵.
+Estos indicadores son altamente desiguales según el nivel socioeconómico (ver figura 2.1). Por
+ejemplo, en hogares no pobres, el acceso a la educación superior de jóvenes entre los 17 y 21
+años es de 39.6 %, mientras que en los hogares pobres es de 22.3 % y de 13.1 % en el caso
+de los hogares en pobreza extrema. Respecto a la culminación de la educación superior de
+jóvenes entre los 20 y 24 años, la tasa es de 18 % para los no pobres, 11.1 % para los pobres y
+8.9 % para los pobres extremos.
+Figura 2.1. Matrícula y culminación por nivel educativo según nivel socioeconómico,
+Perú 2020
+100
+80.2
+Matricula neta Matricula Culminación Matricula neta Culminación Matricula neta Culminación
+inicial 3 a 5 primaria 6 a 11 primaria 12 a 14 secundaria 12 a secundaria 17 a superior 17 a 21 superior 20 a 24
+16 19
+Fuente: Escale-Minedu (2020) y Enaho (2020). Elaboración: Pronabec - Oficina de Planificación y Presupuesto.
+Nota: Todos los indicadores son calculados sobre la base de población en las edades indicadas
+³Encuesta Nacional de Hogares (Enaho 2008-2020)
+⁴Towards universal access to higher education: international trends - Unesco (noviembre, 2020)
+⁵Encuesta Nacional de Hogares (Enaho 2008-2020)
+MEMORIA ANUAL
+12
+2021
+)%(
+asaT
+94.2 94.2
+91.0 90.2
+86.9 85.7
+80 92.3
+75.5 84.9 82.4 78.0
+84.1 78.1
+60
+64.9
+39.6
+40
+22.3 18.0
+20
+11.1
+13.1
+8.9
+0
+No pobre Pobre no extremo Pobre extremo
+
+================================================================================
+PÁGINA 13
+================================================================================
+Las razones de esta brecha radican, entre otros motivos, en la inversión monetaria que el
+acceso a la educación superior implica para las familias de recursos limitados. Además, la
+comparación entre costos y beneficios esperados se ve afectada por las restricciones de largo
+plazo (relacionadas con el entorno familiar y la calidad en la educación básica) que determinan
+el acervo de habilidades de quien culmina su educación básica, la misma que repercute en su
+decisión final de continuar o no en la educación superior (Yamada, Rivera y Castro 2013).
+Esta diferencia entre las tasas de matrícula y culminación en educación superior señala la
+existencia de un problema de deserción importante. Según un informe del Banco Mundial⁶
+(Ferreyra y otros, 2017), en América Latina y el Caribe, en promedio, alrededor de la mitad de
+la población entre los 25 y 29 años que comenzó la educación superior en algún momento
+no completó sus estudios, ya sea porque aún no los finalizaban o porque desertaron
+completamente⁷. Para el caso específico de Perú, cifras más actuales sobre la tasa de deserción
+acumulada universitaria indican que este valor fue de 15.7 %, 19.3 % y 31 % para el 2018, 2019
+y 2020, respectivamente⁸, representando un aumento de 3.6 puntos porcentuales de 2018
+a 2019 y 11.7 puntos porcentuales de 2019 a 2020 que, según el Minedu, es atribuible a la
+pandemia por el COVID-19.
+De acuerdo a Herrera (2001), las personas de escasos recursos que acceden a la educación
+superior muestran mejoras socioeconómicas significativas dado que, a mayor nivel educativo,
+mayor será la probabilidad de superar la pobreza. Un estudio del INEI (2011) sobre determinantes
+de la pobreza encontró que cuando aumentan los años promedio de educación del hogar (para
+miembros mayores a 14 años) disminuye la probabilidad de que dicho hogar sea pobre en 15.5
+%. Particularmente, los egresados de la educación superior tienen mayores ingresos promedio
+que aquellos que solo concluyeron la secundaria (Arregui, 1993; Valdivia, 1997, citado por León
+y Sugimaru, 2013).
+Por otro lado, en base a la Enaho 2020, se determina que el retorno sobre los ingresos de
+un año adicional de primaria es de 2 %, un año adicional de secundaria es de 5 %, uno de
+educación superior técnica es de 13 % y uno de educación superior universitaria es de 18 %⁹.
+No obstante, es crucial completar los niveles de estudio, ya que los salarios no recompensan
+los estudios inconclusos; es decir, avanzar en algunos ciclos no significa un aumento en los
+salarios si no se culmina el nivel educativo. Esto último es lo que Castro y Yamada (2010)
+denominan el “efecto diploma”¹⁰.
+Finalmente, es importante señalar que los retornos a la educación superior son heterogéneos
+y que contribuyen a la movilidad de estrato social siempre y cuando la educación recibida sea
+de calidad y el estudiante tenga la capacidad de aprovecharla (Urzúa, 2012). Según Yamada,
+Lavado y Oviedo (2015), asistir a una universidad de mayor calidad incrementa el retorno
+salarial en 17 puntos porcentuales y el ingreso que se obtiene en el primer empleo es 80
+% superior al ingreso que reciben los pares procedentes de universidades de baja calidad
+(Lavado, Martínez y Yamada, 2015).
+⁶Momento decisivo: La Educación Superior en América Latina y el Caribe (2017).
+⁷De hecho, Yamada, Rivera y Castro (2013), en un documento que analiza la situación de la calidad de la educación superior para el
+caso de Perú, señalan que la tasa de deserción en la educación superior afecta por igual a jóvenes de todos los quintiles de ingresos.
+⁸Escale. Este indicador se obtiene como el porcentaje de edades menores o iguales a 30 años con educación superior universitaria
+incompleta.
+⁹Estimaciones realizadas en base a la Enaho 2020. Los retornos se obtuvieron de una regresión por mínimos cuadrados en donde
+la variable dependiente es el logaritmo natural del ingreso por hora y los regresores son los años de educación, una variable binaria
+que toma el valor de 1 si los años de educación son mayores a 11, y la interacción entre estas dos últimas variables, así como la
+experiencia potencial (y la misma elevada al cuadrado), sexo, área geográfica y residencia en la capital. Asimismo, se incluyó en la
+muestra únicamente a los individuos residentes entre 18 a 65 años que trabajan a tiempo completo (al menos 35 horas a la semana).
+¹⁰De acuerdo a Yamada y Castro (2010), “el efecto se traduce en un mayor retorno anual para los recursos invertidos en completar un
+nivel educativo en comparación con aquel retorno para los recursos invertidos para avanzar a través del mismo (p. 13)”.
+MEMORIA ANUAL
+13
+2021
+
+================================================================================
+PÁGINA 14
+================================================================================
+2.2. El impacto del COVID-19 en la economía peruana
+El contexto macroeconómico global en el 2021 estuvo marcado por la recuperación económica.
+Según el INEI (2022), la evolución del PBI durante el 2021 fue positiva debido al efecto rebote,
+donde la producción nacional y la demanda interna registraron un crecimiento de 13.3 %¹¹,
+logrando recuperar los niveles prepandemia al cierre del año pasado.
+Los efectos negativos de la pandemia se sintieron en el mercado laboral durante el 2020
+y 2021. En el trimestre móvil que finalizó en enero del 2022, la PEA ocupada en Lima
+Metropolitana creció un 9.5 % con respecto al mismo periodo en el año anterior, lo que significó
+un incremento de 423 000 puestos de trabajo aproximadamente (ver figura 2.2). Con ello, la
+tasa de desempleo llegó a 8.6 % en el mencionado trimestre. Sin embargo, si se analiza a
+detalle el crecimiento sostenido del mercado laboral durante el 2021, se observa que gran
+parte de la recuperación del mercado laboral, que ha llegado a niveles prepandemia, se debe al
+efecto rebote de la economía. Esto se evidencia si comparamos el promedio móvil de enero de
+2020 (prepandemia) con el promedio móvil de enero de 2022, donde se observa que la PEA
+ocupada de Lima Metropolitana cayó un 3.5 % y que la tasa de desempleo es mayor en 2.3 %
+puntos porcentuales respecto a enero de 2020.
+Figura 2.2. Evolución de la PEA ocupada en Lima Metropolitana (var. en miles y %)
+2500 140 %
+120 %
+100 %
+80 %
+60 %
+40 %
+¹¹De acuerdo con información obtenida del INEI, Informe Técnico de Producción Nacional n.º 02 – febrero 2022.
+MEMORIA ANUAL
+14
+2021
+%
+2000
+1500
+1000
+500
+20 %
+0 %
+-20 %
+-40 %
+-60 %
+-80 %
+ojabart
+ed
+sotseup
+ed
+seliM
+0
+-500
+-1000
+-1500
+-2000
+-2500
+-3000
+Trimestre móvil que termina en el mes mostrado
+91‘
+raM
+91‘
+rbA
+91‘
+yaM
+91‘
+nuJ
+91‘
+luJ
+91‘
+ogA
+91‘
+teS
+91‘
+tcO
+91‘
+voN
+91‘
+ciD
+02‘
+enE
+02‘
+beF
+02‘
+raM
+02‘
+rbA
+02‘
+yaM
+02‘
+nuJ
+02‘
+luJ
+02‘
+ogA
+02‘
+teS
+02‘
+tcO
+02‘
+voN
+02‘
+ciD
+12‘
+enE
+12‘
+beF
+12‘
+raM
+12‘
+rbA
+12‘
+yaM
+12‘
+nuJ
+12‘
+luJ
+12‘
+ogA
+12‘
+teS
+12‘
+tcO
+12‘
+voN
+12‘
+ciD
+22‘
+enE
+2377
+108 %
+1860
+1035
+73 % 842 785
+455 423
+12 % 29 %
+-659 -707 22 % 21 %
+10 %
+-13 % -15 %
+-55 %
+-2699 %
+Cambio (en miles) Cambio (en %)
+Fuente: Instituto Nacional de Estadística e Informática (INEI) Elaboración: Pronabec - Oficina de Planificación y Presupuesto.
+Nota: La información se extrae de los reportes mensuales del informe de empleo en Lima Metropolitana que elabora INEI.
+
+================================================================================
+PÁGINA 15
+================================================================================
+Frente a este panorama, era necesaria la implementación de políticas de protección que
+aseguren un apoyo a los hogares que enfrentaban el desempleo y, por consiguiente, la caída
+en sus ingresos. Así, el Gobierno puso en marcha un plan económico orientado a la contención
+y reactivación económica. Según el Marco Macroeconómico Multianual 2021-2024, dicho
+plan comprende un conjunto de medidas equivalentes al 20 % del PBI, con el objetivo de
+utilizar un conjunto diversificado de herramientas de política para potenciar su efectividad.
+No obstante, pese a las medidas que se aprobaron, se previó que muchos hogares no contarían
+con los recursos necesarios para mantener su consumo. Ello debido a que el monto de los
+subsidios entregados por el Gobierno a las familias permitía cubrir apenas el costo promedio
+de la canasta básica familiar de un mes. Así, resultaba esperable que los hogares limitaran sus
+gastos, recortando, por ejemplo, los gastos en educación superior de sus hijos o hijas.
+Por ello, dado este contexto, es necesario continuar con las intervenciones que realiza el
+Pronabec en materia educativa, a fin de brindar mayores oportunidades a los jóvenes que
+desean seguir estudios superiores y que no cuentan con los recursos necesarios para hacerlo.
+2.3. El rol del Programa Nacional de Becas y Crédito Educativo
+Se calcula que hay 216 233 jóvenes¹², entre estudiantes y egresados de la educación
+secundaria, con alto rendimiento académico y en condiciones de pobreza que no han logrado
+acceder a la educación superior. El Pronabec se creó en el 2012 con la finalidad de contribuir
+a la equidad en la educación superior garantizando el acceso a esta etapa, de los estudiantes
+de bajos recursos económicos y alto rendimiento académico, así como su permanencia y
+culminación.¹³
+El programa adopta la perspectiva del ciclo de vida del becario y la de un conjunto de agentes
+con objetivos propios que participan de una serie de mercados que están interconectados.
+En esta perspectiva, la oferta (Instituciones de Educación Superior - IES) y la demanda
+(estudiantes) tienen dificultades para vincularse, debido a la insuficiencia de recursos e
+información por parte de esta última. Sin embargo, es socialmente rentable que se vinculen,
+por lo que el programa debe verse como una herramienta de la política educativa que permite
+que dicho vínculo se efectúe, beneficiando a los usuarios y a la sociedad en su conjunto.
+Desde el 2012 hasta el 2021, el programa otorgó un total de 183 194 becas¹⁴, de las cuales
+147 644 (80.59 %) corresponden a becas de pregrado, 14 732 (8.04 %) a becas de posgrado
+y 20 818 (11.36 %) a becas especiales. En materia de créditos¹⁵, durante el mismo período
+(2012-2021), se brindó 7140 créditos, de los cuales 743 créditos son de largo plazo (549 en
+Crédito 18 y 194 en Crédito Talento).
+¹²Calculado a diciembre del 2021. Se considera a la población objetivo de Beca 18 de Pronabec, es decir, estudiantes de quinto de
+secundaria y egresados con información académica en el Siagie, menores de 22 años, que pertenecen al tercio superior en los dos
+últimos años concluidos, en condición de pobreza según el Sisfoh, y que no han accedido a la educación superior. Finalmente, se
+ajusta el criterio de alto rendimiento académico y condición de vulnerabilidad para incluir a las personas del Vraem, Huallaga, Repared,
+entre otros.
+¹³Ley n.º 29837, del 12 de febrero de 2012 .
+¹⁴Información extraída del Sistema Integrado de Becas (Sibec).
+¹⁵Calculado en base a tres fuentes de información: Siscre, Siagese y consolidados de la Oficina de Gestión de Créditos (OCE).
+MEMORIA ANUAL
+15
+2021
+
+================================================================================
+PÁGINA 16
+================================================================================
+MEMORIA ANUAL
+16
+2021
+
+================================================================================
+PÁGINA 17
+================================================================================
+III. Becas otorgadas y atendidas por el Pronabec
+Durante el 2021, el Pronabec continuó con el rediseño de sus becas con el objetivo de hacerlas
+más inclusivas y eficaces en un contexto de pandemia¹⁶. Esto se logró mediante el ajuste de
+los procesos y cronogramas para promover mayores oportunidades a los interesados en los
+concursos.
+De esta manera, el 2021 fue el año con mayor atención de becas en el Pronabec. Se atendió
+a 84 627 beneficiarios, de los cuales 24 226 fueron nuevos y 60 401 continuadores¹⁷.
+Figura 3.1. Total de becas atendidas, 2012 – 2021
+84 627
+60 917
+60 401
+22 262 41 312
+29 350
+5224 38 655
+24 226
+5224 11 962
+2012 2015 2019 2021
+nuevos continuadores
+Fuente: Sistema Integrado de Becas (Sibec)
+Elaboración: Oficina de Planificación y Presupuesto – Pronabec
+Notas: Contabilizado a diciembre de 2021. Los becarios y becarias nuevos de un año t son aquellos a quienes se les otorgó
+una beca en el año t, mientras que los becarios y becarias continuadores son aquellos que recibieron una beca en años
+previos, pero que aún mantienen una relación con el programa, de acuerdo a una resolución jefatural. No incluye la Beca
+Especial Beca Perú ni Beca Casos Sociales. Se tomó la información a la fecha del 13 de enero de 2022.
+De acuerdo a la figura 3.2, en el 2021 se ejecutaron alrededor de S/900.7 millones en todas
+las becas. Las becas de pregrado representan la mayor parte del presupuesto que se destina
+anualmente. En ese sentido, alcanzaron el 81.1 % del presupuesto ejecutado en el 2021¹⁸.
+¹⁶Mediante Decreto Supremo n.º 008-2020-SA, publicado el 11 de marzo de 2020 en el Diario Oficial El Peruano, se declaró la
+emergencia sanitaria en el país por noventa días calendario y se dictaron medidas de prevención y control. Este plazo fue prorrogado
+a lo largo de los años 2020 y 2021.
+¹⁷La cantidad de becarios y becarias continuadores atendidos se debió principalmente a la ampliación de la Beca Continuidad de
+Estudios 2020.
+¹⁸Se observa un fuerte incremento en el presupuesto ejecutado para las becas especiales debido a la implementación de Beca
+Continuidad de Estudios en 2020 y 2021.
+MEMORIA ANUAL
+17
+2021
+
+================================================================================
+PÁGINA 18
+================================================================================
+Figura 3.2. Presupuesto ejecutado en millones de soles en
+todas las becas, 2014 - 2021
+812.2 900.7
+54.8 135.3
+41.6 34.5
+576.8
+8.7
+419.9 39.3
+5.3
+74.4 715.8 730.9
+528.8
+340.2
+2014 2016 2019 2021
+PREGRADO POSGRADO ESPECIALES
+Fuente: SIAF
+Elaboración: Oficina de Planificación y Presupuesto - Pronabec
+Notas: En millones de soles nominales. Contabilizado a diciembre de 2021. Incluye el total ejecutado para todas las becas,
+tanto para continuadores como nuevos becarios y becarias.
+En cuanto al total de becas atendidas en pregrado, en el 2021 se atendió a 49 068 becarios
+y becarias, de los cuales 13 745 fueron nuevos y 35 323 continuadores.
+Figura 3.3. Total de becas de pregrado atendidas, 2012 - 2021
+49 068
+45 873
+39 316
+19 392
+35 323
+27 716
+26 481
+5191
+11 600 13 745
+5191
+2012 2015 2019 2021
+nuevos continuadores
+Fuente: Sistema Integrado de Becas (Sibec)
+Elaboración: Oficina de Planificación y Presupuesto - Pronabec
+Notas: Contabilizado a diciembre de 2021. Los becarios y becarias nuevos de un año t son aquellos a quienes se les otorgó
+una beca en el año t, mientras que los becarios y becarias continuadores son aquellos que recibieron una beca en años
+previos, pero que aún mantienen una relación con el programa, de acuerdo a una resolución jefatural. No incluye la Beca
+Especial Beca Perú ni Beca Casos Sociales. Se tomó la información a la fecha del 13 de enero de 2022.
+MEMORIA ANUAL
+18
+2021
+
+================================================================================
+PÁGINA 19
+================================================================================
+Por otro lado, la figura 3.4 muestra el total de becas otorgadas en posgrado. Así, se atendió
+a 483 becarios y becarias en el 2021, de los cuales 151 fueron nuevos y 332 continuadores.
+Figura 3.4. Total de becas de posgrado atendidas, 2012 - 2021
+1597
+1322
+621
+483
+470
+332
+33
+275
+33 151 151
+2012 2015 2019 2021
+nuevos continuadores
+Fuente: Sistema Integrado de Becas (Sibec)
+Elaboración: Oficina de Planificación y Presupuesto – Pronabec
+Notas: Contabilizado a diciembre de 2021. Solo se considera a los becarios y becarias que realizaron maestrías y doctorados,
+mas no a aquellos que realizaron otros estudios de posgrado de corta duración. Los becarios y becarias nuevos de un
+año t son aquellos a quienes se les otorgó una beca en el año t, mientras que los becarios y becarias continuadores son
+aquellos que recibieron una beca en años previos, pero que aún mantienen una relación con el programa, de acuerdo a una
+resolución jefatural. Se tomó la información a la fecha del 13 de enero de 2022.
+Respecto a las becas especiales, en el 2021 se atendió a 35 076 becarios y becarias, de los
+cuales 10 330 fueron nuevos y 24 746, continuadores.
+Figura 3.5. Total de becas especiales atendidas, 2012- 2021
+35 076
+24 746
+10 366
+3541
+1348
+10 330
+6825 1137
+12
+211
+2013 2016 2019 2021
+nuevos continuadores
+Fuente: Sistema Integrado de Becas (Sibec)
+Elaboración: Oficina de Planificación y Presupuesto - Pronabec
+Notas: Contabilizado a diciembre de 2021. Los becarios y becarias nuevos de un año t son aquellos a quienes se les otorgó
+una beca en el año t, mientras que los becarios y becarias continuadores son aquellos que recibieron una beca en años
+previos, pero que aún mantienen una relación con el programa, de acuerdo a una resolución jefatural. No incluye la Beca
+Especial Beca Perú ni Beca Casos Sociales. Se tomó la información a la fecha del 13 de enero de 2022.
+MEMORIA ANUAL
+19
+2021
+
+================================================================================
+PÁGINA 20
+================================================================================
+3.1. Becas de pregrado
+3.1.1. Beca 18
+Busca mejorar el acceso, la permanencia y la culminación de estudios de
+educación superior en el país. Se dirige a egresados de la Educación Básica
+Regular, Educación Básica Alternativa o Educación Básica Especial con alto
+rendimiento académico y en condición de pobreza y/o extrema pobreza de acuerdo
+al Sisfoh¹⁹. Además, para aquellos que presenten una condición de vulnerabilidad
+cuenta con las siguientes modalidades: i) Beca Vraem (para pobladores del Valle
+de los ríos Apurímac, Ene y Mantaro), ii) Beca FF. AA. (para licenciados del Servicio
+Militar Voluntario), iii) Beca Huallaga (para pobladores residentes en el Huallaga),
+iv) Beca Albergue (para adolescentes en situación de abandono y/o tutelados por
+el Estado), v) Beca Repared (para víctimas de la violencia ocurrida en el país desde
+1980 y/o sus familiares), vi) Beca EIB (para la formación en Educación Intercultural
+Bilingüe) y vii) Beca CNA y PA (para Comunidades Nativas y Amazónicas o
+Poblaciones Afroperuanas).
+Entre los años 2012 y 2021, el programa otorgó 76 573 becas en las diferentes
+modalidades de Beca 18.
+La reforma del diseño de Beca 18 iniciada en el 2018²⁰ continuó durante el 2021
+y se consolidó. En ese sentido, se rediseñó nuevamente el concurso de Beca 18,
+convocatoria 2022, sin la incorporación del Examen Nacional de Preselección
+(ENP) para priorizar la salud y el bienestar de los interesados en el concurso.
+Asimismo, se aplicó una nueva tabla de puntuación para los Colegios de Alto
+Rendimiento (COAR).
+3.1.1.1. Etapa de preselección
+a. Difusión de la convocatoria 2021
+Inició en el año anterior con la publicación del expediente técnico y las bases del
+concurso, lo que fomentó la participación de un mayor número de estudiantes
+y egresados de la educación básica. Esta difusión temprana y oportuna estuvo
+acompañada de una estrategia que incluyó la difusión en instituciones educativas
+secundarias con el apoyo del Minedu, los programas sociales que atienden a esta
+población objetivo y con aliados estratégicos territoriales²¹.
+Se ofrecieron, además, diferentes canales para consultas, como páginas web
+y redes sociales, logrando así un acceso más equitativo a la información de
+oportunidades educativas de calidad, así como una mayor participación y nivel
+de competencia de los estudiantes. Por último, se buscó alinear el proceso
+de postulación a los calendarios de admisión de las IES en dos momentos de
+postulación, otorgando al postulante un mayor abanico de alternativas al
+momento de seleccionar la IES de su interés.
+¹⁹Sistema de Focalización de Hogares.
+²⁰A mediados del 2018 se inició el rediseño de la intervención más emblemática del programa: Beca 18. La apuesta fue concentrar
+los esfuerzos en repensar completamente el proceso de selección de becarios y becarias. Si el nuevo proceso de selección mejoraba
+significativamente en la identificación del mejor talento y lo insertaba en las instituciones más reconocidas del país, se esperaría no
+solo un incremento en el acceso, sino también una mejora en los resultados de rendimiento, culminación y empleabilidad. Para mayor
+información, revisar la Memoria Anual 2018 del Pronabec.
+²¹Direcciones regionales de educación, unidades de gestión educativa locales, municipalidades regionales, provinciales y locales, entre
+otros.
+MEMORIA ANUAL
+20
+2021
+
+================================================================================
+PÁGINA 21
+================================================================================
+b. Identificación de estudiantes con alto rendimiento en secundaria
+Se estableció como requisito mínimo pertenecer al tercio o medio superior²² en
+los dos últimos años de la secundaria para poder inscribirse en el concurso. Este
+cambio se realizó con la finalidad de identificar el puesto relativo que ocupaba
+el interesado en determinado grado en comparación a sus compañeros, siendo
+un criterio más equitativo y uniforme para identificar el potencial académico de
+los postulantes a comparación del uso del promedio de las notas de secundaria,
+criterio usado en convocatorias pasadas.
+Culminada esta etapa, se tuvieron 30 381 preseleccionados en el concurso de
+Beca 18.
+3.1.1.2. Etapa de postulación y selección
+Se realizó solo un momento de postulación con dos concursos: 2021-I para
+universidades e institutos de educación superior pedagógicos y 2021-II para
+institutos de educación superior tecnológicas. Se estableció que, en caso
+el número de becas a otorgar fuera menor en uno de los concursos, podría
+incrementarse el otro con la finalidad de cubrir la totalidad de las becas. Las
+becas se adjudicaron en base a un algoritmo de vinculación que toma en cuenta:
+i) desempeño del estudiante y calidad de las IES y ii) programas de estudio
+elegidos. Esto ayudó a fomentar que los postulantes elijan IES y programas de
+estudio de mejor calidad y mayores retornos esperados.
+a. Resultados del proceso de postulación-convocatoria 2021
+La meta física de la Beca 18, convocatoria 2021, fue de 5000 becas a nivel
+nacional. Finalmente, se otorgaron 4996 becas distribuidas en 3975 para
+universidades, 21 para institutos de educación superior pedagógica y 1000 para
+institutos y escuelas de educación superior tecnológicas.
+En relación a la condición socioeconómica de los becarios y becarias al momento
+de la postulación al concurso, el 76 % se encontraba en situación de pobreza
+extrema, el 20 % en situación de pobreza y el 4 % reportó ser no pobre.
+Por otro lado, al culminar la fase de adjudicación de la beca, el 96.3 % de los
+nuevos becarios y becarias optó por una IES priorizada en función de su calidad
+y el 77.4 % eligió carreras con mayores retornos²³.
+²²Según las modalidades de la beca se requiere acreditar el tercio o medio superior. En el caso de la Beca Repared se establece como
+requisito mínimo la nota 12 como promedio en los dos últimos grados en atención a las características de esta población vulnerable.
+²³Según las modalidades de la beca se requiere acreditar el tercio o medio superior. En el caso de la Beca Repared se establece como
+requisito mínimo la nota 12 como promedio en los dos últimos grados en atención a las características de esta población vulnerable.
+MEMORIA ANUAL
+21
+2021
+
+================================================================================
+PÁGINA 22
+================================================================================
+Figura 3.6. Becas asignadas a IES priorizadas por calidad y carreras priorizadas por
+retorno
+96.3 %
+82.3 % 86.7 %
+75.4 % 77.4 %
+71.1 %
+63.6 %
+56.4 %
+50.5 % 47.6 % 52.6 % 50.4 % 52.7 %
+39.5 %
+25.7 % 24.6 % 21.3 % 25.7 % 26.3 %
+17.9 %
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+% de asignación a IES priorizadas
+% de asignación a carreras priorizadas por retorno
+Fuente: Sistema Integrado de Becas (Sibec)
+Elaboración: Oficina de Planificación y Presupuesto - Pronabec
+Notas: Contabilizado a diciembre de 2021. Los becarios y becarias nuevos de un año t son aquellos a quienes se les otorgó
+una beca en el año t, mientras que los becarios y becarias continuadores son aquellos que recibieron una beca en años
+previos, pero que aún mantienen una relación con el programa, de acuerdo a una resolución jefatural. No incluye la Beca
+Especial Beca Perú ni Beca Casos Sociales. Se tomó la información a la fecha del 13 de enero de 2022.
+Cabe resaltar que no se llegaron a otorgar las 5000 becas previstas inicialmente,
+debido a la escasa postulación a los institutos por parte de los estudiantes
+preseleccionados y a la reasignación hacia becas en universidades.
+Por otro lado, la evolución de la asignación de becas por tipo de gestión, desde
+el 2018 a la fecha, muestra una mayor participación de IES privadas con y sin
+fines de lucro, las cuales representan alrededor del 94 % de asignación, mientras
+que la participación en IES de gestión pública se ha mantenido estable alrededor
+del 6 % en los últimos 3 años. Asimismo, la región de estudios elegida por los
+becarios y becarias se ha concentrado en la región de Lima, superando el 70 % de
+asignación de becas en los últimos 3 años, mientras que el resto de las regiones
+se encuentra ligeramente por debajo del 30 % en el mismo período (ver anexo II).
+Al respecto, en el ámbito de mejora continua, se plantea el desafío de analizar
+la oferta educativa y las preferencias de los postulantes, a fin de identificar
+espacios de mejora para lograr gradualmente una distribución que incremente la
+participación de las IES de gestión pública, así como de otras regiones del país.
+Durante el 2021, el Pronabec atendió a 18 688 becarios y becarias de Beca 18,
+de los cuales 13 692 fueron continuadores y 4996 nuevos de la convocatoria del
+mismo año. Asimismo, el 71 % provenía de una región fuera de Lima²⁴.
+²⁴Estos resultados demuestran los esfuerzos del Pronabec para generar un impacto descentralizado con relación a sus becas.
+MEMORIA ANUAL
+22
+2021
+
+================================================================================
+PÁGINA 23
+================================================================================
+Figura 3.7. Beca 18, total de becas atendidas, 2012 – 2021
+44 843
+19 292
+23 903
+18 688
+25 551 20 709 13 692
+5191
+5191 4996
+3194
+2012 2015 2019 2021
+nuevos continuadores
+Fuente: Sistema Integrado de Becas (Sibec)
+Elaboración: Oficina de Planificación y Presupuesto - Pronabec
+Notas: Contabilizado a diciembre de 2021. Los becarios y becarias nuevos de un año t son aquellos a quienes se les otorgó
+una beca en el año t, mientras que los becarios y becarias continuadores son aquellos que recibieron una beca en años
+previos, pero que aún mantienen una relación con el programa de acuerdo a una resolución jefatural. No incluye la Beca
+Especial Beca Perú ni Beca Casos Sociales. Se tomó la información a la fecha del 13 de enero de 2022.
+b. Logros alcanzados en el 2021 para la convocatoria 2022
+Figura 3.8. Inscritos aptos Beca 18, convocatoria 2022
+Hombres
+36 %
+Mujeres
+64 %
+MEMORIA ANUAL
+23
+2021
+
+================================================================================
+PÁGINA 24
+================================================================================
+Tumbes
+Amazonas Loreto
+Piura
+Lambayeque Cajamarca
+San Martín
+La Libertad
+Áncash Huánuco
+Ucayali
+Pasco
+Junín
+Lima Madre de Dios
+Cusco
+Huancavelica
+Inscritos aptos
+Apurímac
+(4500, 13 000) Ayacucho
+Ica
+Puno
+(3000, 4500)
+Arequipa
+(2000, 3000)
+(1000, 2000) Moquegua
+(0, 1000) Tacna
+Fuente: Oficina de Planificación y Presupuesto – Pronabec
+Figura 3.9. Inscritos a Beca 18 para las convocatorias 2012-2022
+2022 66 624
+2021 80 288
+2020 74 090
+2019 52 992
+2018 10 299
+2017 25 060
+2016 15 837
+2015 33 696
+2014 17 068
+2013 14 742
+2012 7053
+0 20 000 40 000 60 000 80 000 120 000
+Fuente: Oficina de Planificación y Presupuesto – Pronabec
+MEMORIA ANUAL
+24
+2021
+
+================================================================================
+PÁGINA 25
+================================================================================
+Figura 3.10. Beca 18. Distribución del total de preseleccionados por regiones 2022
+Tumbes
+Amazonas Loreto
+Piura
+Lambayeque Cajamarca
+San Martín
+La Libertad
+Áncash Huánuco
+Ucayali
+Pasco
+Junín
+Lima Madre de Dios
+Cusco
+Huancavelica
+Preseleccionados (%)
+Apurímac
+(32.0,36.4) Ayacucho
+Ica
+Puno
+(27.5,32.0)
+(23.1,27.5) Arequipa
+(18.6,23.1) Moquegua
+Tacna
+Fuente: Oficina de Planificación y Presupuesto – Pronabec
+Cabe resaltar que el ENP de la convocatoria 2020 de Beca 18 no se llevó a
+cabo, debido a la extensión del estado de emergencia sanitaria decretada por el
+Gobierno a causa del COVID-19. No obstante, durante el 2022 se continuará con
+el desarrollo de las siguientes etapas del concurso.
+c. Innovación en Beca 18: inicio del piloto de la estrategia de acceso y
+preparación a la educación superior
+El nuevo reglamento del Pronabec²⁵ brinda servicios a los postulantes e indica en
+su artículo 7, numeral 7.2²⁶ , tres conceptos a financiar:
+• Preparación para la postulación a la IES u otros centros de estudio y/o
+formación.
+• Inscripción y postulación a la IES u otros centros de estudio y/o
+formación.
+• Preparación para el inicio de los estudios.
+²⁵Aprobado mediante Decreto Supremo n.º 018-2020-MINEDU, el 30 de diciembre de 2020
+²⁶Asimismo, dicho numeral indica que la definición de “postulante” se dispone en las bases del concurso correspondiente.
+MEMORIA ANUAL
+25
+2021
+
+================================================================================
+PÁGINA 26
+================================================================================
+Dada esta nueva disposición, se propuso la estrategia de acceso y preparación
+a la educación superior, cuyo objetivo principal es promover la preparación, el
+acceso e ingreso a IES de calidad de jóvenes en situación de pobreza y de alto
+rendimiento académico. En la actualidad, solo 3 de cada 10 estudiantes logran
+acceder a la educación superior, según la Política Nacional de Educación Superior
+y Técnico - Productiva (2020). Se espera que para el 2030 este número aumente
+a 5 de cada 10.
+Tomando en cuenta esto, la estrategia de acceso y preparación a la educación
+superior busca atender tres grandes retos:
+1. Bajos logros en el aprendizaje entre los jóvenes en condición de
+vulnerabilidad²⁷.
+2. Brechas de conectividad, debido al limitado acceso a internet en
+zonas rurales y urbanas en condición de pobreza. Esto cobra especial
+relevancia para los egresados de la secundaria quienes, debido a la
+pandemia, recibieron clases a distancia mediante conexión a internet
+o medios de comunicación como radio y televisión²⁸.
+3. Brechas de información que generan disparidad en el acceso a IES
+de calidad²⁹.
+²⁷De acuerdo a los resultados de la Evaluación Censal de Estudiantes (ECE) del 2019, aquellos estudiantes con un NSE muy bajo y bajo
+tuvieron, en su mayoría, resultados previos al inicio (48 % y 29.9 %, respectivamente) y en inicio (31.9 % y 34.8 %, respectivamente).
+Solo el 8 % logró resultados satisfactorios entre aquellos con NSE muy bajo, comparado con el 35.1 % de aquellos con NSE alto. En ese
+sentido, se observa que cuando el NSE es mayor, mejores son los resultados. Cabe señalar que el nivel “previo al inicio” hace referencia
+a que el estudiante no logró los aprendizajes necesarios para estar en el nivel “en inicio”. El nivel “en inicio” se refiere a que el estudiante
+logró aprendizajes muy elementales respecto de lo que se espera para el ciclo evaluado y el nivel “satisfactorio” hace alusión a que
+el estudiante logró los aprendizajes esperados para el ciclo evaluado y está preparado para afrontar los retos de aprendizaje del
+siguiente ciclo. Para mayor detalle, revisar http://umc.minedu.gob.pe/wp-content/uploads/2020/06/Reporte-Nacional-2019.pdf
+Por otro lado, en cuanto a los resultados de la prueba PISA, el 60.3 % de las y los jóvenes de 15 años matriculados en secundaria
+en el 2018 se ubicaron en el nivel 1 o por debajo en matemáticas. Para mayor detalle, revisar http://umc.minedu.gob.pe/wp-content/
+uploads/2019/12/PISA-2018-Resultados.pdf
+²⁸Según el Censo de Población 2017 y el Siagie 2019, el 85 % de los estudiantes en Instituciones Educativas (IIEE) públicas en el
+ámbito rural de nivel secundaria no cuenta con internet ni computadoras en el hogar. Por su parte, en la zona urbana en condición de
+pobreza (quintiles 1 y 2), el 95 % de hogares de estudiantes de IIEE Públicas no cuenta con servicio de internet y equipamiento de
+computadoras/laptops. Asimismo, el cambio de las clases presenciales a las virtuales evidenció la brecha que existe en el acceso a
+medios digitales e internet en los estudiantes a nivel nacional. Según la Encuesta Nacional de Hogares (Enaho) 2020, solo el 66.6 % de
+los hogares en Lima Metropolitana cuentan con el servicio de internet, el 47.4 % en el resto urbano y solo el 9.9% de los hogares en el
+área rural. Ante la falta de acceso a internet y disposición de equipos, como computadora o laptop, la alternativa para los estudiantes
+es el uso de celulares. Sin embargo, según la Enaho 2020, de cada 100 hogares con algún miembro menor de 16 años de edad, solo
+en 53 existe al menos un miembro que tiene celular. El informe de la Enaho 2020 se encuentra disponible en https://www.inei.gob.pe/
+media/MenuRecursivo/boletines/01-informe-tecnico-tic-iv-trimestre-2020.pdf. Por otro lado, según la base de datos obtenida de la
+ficha de inscripción al corte del 24 de octubre, la convocatoria 2022 de Beca 18 cuenta con 2221 postulantes con registro completo
+de CNA-PA y EIB, de los cuales 1517 (68.3 %) reportaron no contar con internet en casa y solo 178 (8 %) cuenta con computadora de
+escritorio o laptop. Asimismo, 1576 (71 %) reportaron conectarse a internet entre 1 a 3 veces por semana. Asimismo, el Programa de
+las Naciones Unidas para el desarrollo (PNUD, 2020), menciona que continuar con la educación desde casa no resulta una tarea fácil
+debido a la falta de equipo adecuado y conectividad. Para mayor detalle, revisar
+https://www.latinamerica.undp.org/content/rblac/es/home/library/crisis_prevention_and_recovery/covid-19-and-social-
+protection-of-poor-and-vulnerable-groups-in-.html
+²⁹La formación universitaria en IES de baja calidad se traduce en bajos retornos en el mercado laboral. Los estudiantes de universidades
+de mayor calidad tienen 43.3 % más rentabilidad en sus ingresos que sus pares egresados de instituciones de menor calidad. Según
+Yamada, Lavado y Oviedo (2015), los retornos obtenidos en los sueldos se distribuyen de la siguiente manera: 60 % es atribuido
+a características de los estudiantes y 40 % a la calidad de la universidad. En este sentido, se podría creer que las y los jóvenes
+postulantes poseen poco conocimiento de los retornos (monetarios y sociales) y la oferta educativa superior cuando deciden dónde
+estudiar.
+MEMORIA ANUAL
+26
+2021
+
+================================================================================
+PÁGINA 27
+================================================================================
+Al inicio, la estrategia tuvo como población objetivo a todas y todos los jóvenes
+preseleccionados de Beca 18. No obstante, debido a restricciones presupuestales,
+se acotó a jóvenes de Beca 18 de las modalidades CNA-PA y EIB (1312 jóvenes
+preseleccionados).
+Por ello, con la finalidad de cerrar las brechas en los aprendizajes de la población
+objetivo de las modalidades señaladas, se plantearon los siguientes beneficios
+para el servicio de acceso:
+• Subvención para la compra de un dispositivo electrónico y paquetes de
+datos hasta por cinco (5) meses para preseleccionados de modalidades
+CNA-PA y EIB.
+• Acompañamiento para el uso de la subvención.
+• Subvención para el pago de clases en centros preuniversitarios hasta
+por dos (2) ciclos (2 meses cada ciclo) a modalidades CNA-PA y EIB³⁰.
+• Pago de derecho de admisión desde el Pronabec a IES elegible hasta
+dos (2) veces para modalidades CNA-PA y EIB.
+Es importante resaltar que al cierre del 2021 comenzaron los procesos para la
+apertura de cuenta y los trámites de subvención de dispositivo y paquete de
+datos, alcanzando casi la totalidad de beneficiarios. La entrega de esta subvención
+estuvo acompañada por especialistas asesores para la compra, contratación
+que también se logró en el año en mención. Finalmente, respecto a los centros
+preuniversitarios, se logró la aprobación de la lista de centros preelegibles
+disponibles.
+d. Plataforma de Apoyo y Orientación (PAO) 2021
+Busca que los becarios y becarias adjudicados estudien carreras alineadas a
+sus preferencias personales, sus aptitudes intelectuales y características de
+su personalidad. Por tal motivo, brinda información necesaria y oportuna a los
+postulantes del concurso de Beca 18 para que puedan elegir una carrera y una
+IES adecuada a su perfil y preferencias. Se compone de tres módulos:
+Orientación Vocacional (OV): en este módulo el postulante explora sus
+aptitudes intelectuales, preferencias profesionales y las características
+de su personalidad, con lo cual tiene a su disposición opciones de carrera
+que resultan de la realización de tres test vocacionales. El usuario que
+resuelve³¹ el módulo puede obtener de manera inmediata un reporte de
+resultados cuando no ha tenido dificultad en el desarrollo de la prueba.
+³⁰Los centros preuniversitarios elegibles pertenecen a las siguientes IES, de acuerdo a la Resolución Directoral Ejecutiva n.º 2648 –
+2021- MINEDU/VMGI-PRONABEC: Universidad Nacional de Ingeniería, Universidad Nacional Intercultural de la Amazonía y Universidad
+Nacional del Centro del Perú.
+³¹El módulo tiene un tiempo aproximado de 2 horas y 30 minutos y cuenta con acompañamiento de especialistas para los
+preseleccionados.
+MEMORIA ANUAL
+27
+2021
+
+================================================================================
+PÁGINA 28
+================================================================================
+Con las recomendaciones de la orientación vocacional, el postulante se
+dirige al módulo de Oferta Educativa (OE), el cual brinda información
+sobre las IES elegibles a nivel nacional. En específico, el sistema ofrece
+la posibilidad de explorar y comparar distintas alternativas, puesto que
+incluye tres conjuntos de información: i) información de contacto ii)
+información de proceso de admisión como fechas y costo de exámenes;
+y, finalmente, iii) información sobre retornos económicos de cada opción,
+priorización de calidad de las IES y de carreras por el Consejo Nacional
+de Ciencia, Tecnología e Innovación Tecnológica (Concytec), así como
+los puntos adicionales de priorización de cada opción.
+Prepárate: contiene bancos de preguntas por áreas temáticas, material
+de preparación descargable, un simulacro de admisión cronometrado y
+fuentes externas de preparación para la educación superior, con el fin
+de promover una nivelación en los jóvenes en los temas más comunes
+en un examen de admisión.
+Para la convocatoria 2021, de los 30 381 preseleccionados de Beca 18, el
+78.81 % obtuvo un reporte de resultados consistentes y el 2.6 % resultados
+inconsistentes. Por su parte, 3.01 % solicitó ser exceptuado de la OV; mientras
+que el 5.44 % decidió no rendir las pruebas luego de pedir que se resetee al tener
+resultados inconsistentes. Finalmente, hubo un total de 10.14 % de jóvenes que
+nunca ingresó a rendir OV. Con respecto a los módulos de OE y Prepárate, el 61.57
+% usó el módulo de Oferta Educativa y el 39.35 % los simulacros de Prepárate.
+Cabe resaltar que los preseleccionados tuvieron a su disposición videos tutoriales
+para el uso adecuado de la plataforma, el desarrollo del módulo de OV, la lectura
+apropiada del reporte de resultados y el desarrollo de OE³².
+Por otro lado, durante el 2021 se trabajó en la actualización del módulo Prepárate
+en el marco de la convocatoria 2022 de Beca 18 y a raíz del piloto de la nueva
+estrategia de acceso y preparación a la educación superior. De esta manera, se
+amplió y mejoró el alcance del material con mayor información y herramientas
+de gran utilidad para ofrecerlo desde la siguiente convocatoria al postulante con
+registro completo. De manera específica, se realizaron los siguientes cambios:
+Actualización de ejercicios por temática y simulacros de examen de
+admisión con temporizador. Se incluyeron aproximadamente 200
+preguntas, organizadas en los 10 temas más recurrentes en exámenes
+de admisión de las IES más demandadas por los postulantes de Beca
+18. Asimismo, se actualizaron los ejercicios por temática. Por otro lado,
+se incluyó un simulacro que combina algunas de las preguntas de los
+ejercicios que se presentan por temática.
+³²Tutorial Plataforma de Apoyo y Orientación (PAO) 2021: https://www.youtube.com/watch?v=HnRxgH2zJv0
+Test de orientación vocacional de PAO 2021: https://www.youtube.com/watch?v=DbEKs_uMtyM
+PAO - Reporte de resultados: https://www.youtube.com/watch?v=0ZLIG3Iilp8
+Plataforma de Apoyo y Orientación - Oferta Educativa: https://www.youtube.com/watch?v=zGBTBplaZJk
+MEMORIA ANUAL
+28
+2021
+
+================================================================================
+PÁGINA 29
+================================================================================
+Adaptación de contenidos de “Aprendo en Casa La Pre” para versión
+descargable y de lectura. A partir de ello, se elaboró, imprimió y entregó
+el libro Prepárate³³: postula con éxito a una Institución de Educación
+Superior a los preseleccionados de las modalidades Repared y Albergue
+del concurso Beca 18 que tenían problemas de conectividad. Además,
+se incorporó en la herramienta tanto los videos de AEC como las guías
+de uso.
+Incorporación de otras fuentes externas recomendadas con información
+relevante para la preparación a la educación superior.
+Creación de cursos de hábitos de estudios y los cursos de bienestar y
+adaptación cultural³⁴.
+Para la convocatoria 2022 se planteó, además, dejar a disposición de todo aquel
+postulante con registro completo el acceso y uso de toda la herramienta de la
+PAO. De este modo, el contenido nuevo puede ser aprovechado por todo aquel
+que tiene intención de transitar a la educación superior para cerrar brechas
+académicas y entrenar para los exámenes de admisión de las casas de estudio
+de su interés.
+3.1.2. Beca de Permanencia para Estudiantes en Universidades Públicas
+Busca promover la permanencia y culminación de estudios superiores de
+estudiantes de universidades públicas peruanas, con alto rendimiento académico
+e insuficientes recursos económicos que se encuentren estudiando carreras
+elegibles³⁵. La beca se otorga por el periodo restante de duración de la carrera,
+conforme al plan de estudios de la especialidad o carrera.
+A partir de la convocatoria 2021 la beca se dirigió solo a estudiantes en condición
+de pobreza o pobreza extrema, según el Sisfoh, debido a que son más vulnerables
+a shocks negativos en sus fuentes de ingreso, lo que dificulta su posibilidad de
+permanecer y culminar sus estudios de educación superior.
+En la convocatoria 2021, se ofertaron y otorgaron 8000 becas. El 54 % de los
+seleccionados fueron mujeres (frente a 46 % de hombres) y provenientes de 48
+universidades públicas, de las cuales el mayor número de becarios y becarias
+(14.1 %) procedían de la Universidad San Antonio Abad del Cusco. Por último, 35.5
+% de los becarios y becarias se encuentra en situación de pobreza, el 64.5 % en
+pobreza extrema y el 55.9 % pertenece, como mínimo, al quinto superior de sus
+universidades.
+Durante el 2021, se atendió a un total de 25 921 becarios y becarias, el pico más
+alto de atención de esta beca en toda su historia.
+³³Se subieron 54 cuadernillos conformados por 24 temas de razonamiento verbal, 24 de razonamiento matemático y 6 de Ciencia y
+Tecnología.
+³⁴Basados en la metodología del microlearning se generó contenido asociado a estos tres cursos que antes no existían en la plataforma.
+³⁵De esta manera, se combate la deserción en estudiantes de alto rendimiento que muchas veces no logran permanecer ni culminar
+sus estudios superiores por poseer insuficientes recursos económicos.
+MEMORIA ANUAL
+29
+2021
+
+================================================================================
+PÁGINA 30
+================================================================================
+Figura 3.11. Beca Permanencia. Total de becas atendidas, 2016 – 2021
+25 921
+17 921
+12 242
+4237
+1587
+8005 8000
+1587
+2016 2019 2021
+nuevos continuadores
+Fuente: Sistema Integrado de Becas (Sibec)
+Elaboración: Oficina de Planificación y Presupuesto - Pronabec
+Notas: Contabilizado a diciembre de 2021. Los becarios y becarias nuevos de un año t son aquellos a quienes se les otorgó
+una beca en el año t, mientras que los becarios y becarias continuadores son aquellos que recibieron una beca en años
+previos, pero que aún mantienen una relación con el programa de acuerdo a una resolución jefatural. No incluye la Beca
+Especial Beca Perú ni Beca Casos Sociales. Se tomó la información a la fecha del 3 de enero de 2022.
+MEMORIA ANUAL
+30
+2021
+
+================================================================================
+PÁGINA 31
+================================================================================
+3.1.3. Beca Excelencia Académica para Hijos de Docentes³⁶
+Promueve el acceso a la educación superior de jóvenes peruanos hijos de
+docentes nombrados en la Carrera Pública Magisterial y que hayan culminado la
+educación secundaria con un alto desempeño académico³⁷ . Con su creación se
+tuvo prevista la priorización a postulantes hijos de docentes de zonas rurales, de
+frontera y de regiones identificadas como de extrema pobreza³⁸.
+Para la convocatoria del 2021 no se aplicó el ENP y se eliminó la fase de
+formalización de la beca. De esta manera, se suprimió la fase de preselección y se
+colocó mayor énfasis en los criterios de selección de becarios y becarias, como
+la calidad de las IES, ruralidad, carreras de educación y condiciones priorizadas,
+asignándose puntajes con mejor distribución respecto de la convocatoria pasada.
+El concurso se desarrolló en una sola etapa de postulación. Inicialmente se
+ofertaron 400 becas; sin embargo, debido a la gran demanda de postulantes y
+dada la coyuntura de crisis sanitaria y económica que sufre el país, se amplió la
+meta física a 600.
+Así, de 4012 postulantes aptos, 600 obtuvieron la beca. El 69 % estudia una
+carrera de alto retorno, 12.5 % de retorno medio y 18.5 % estudia una carrera sin
+retorno. Asimismo, el 7.3 % cursará carreras de Educación.
+Durante el 2021 se atendió a 1977 becarios y becarias, 1377 de estos fueron
+continuadores.
+³⁶Fue creada mediante Resolución Directoral Ejecutiva n.°361-2015-MINEDU-VMGI-PRONABEC, del 14 de agosto del 2015.
+³⁷Esta beca forma parte de un paquete de beneficios adicionales en el marco de la política de revalorización de la carrera docente
+que viene impulsando el Ministerio de Educación, de conformidad con el Acuerdo Nacional y el Proyecto Educativo Nacional al 2021.
+Además, busca contribuir con el incremento de profesionales en el país al mismo tiempo que revaloriza la carrera docente, ya que sus
+hijos en condición de excelencia educativa podrán postular y acceder a dicho beneficio.
+³⁸Artículo 3 de las bases del concurso sobre la población beneficiaria: la beca para estudios de pregrado se dirige a jóvenes peruanos
+hijos/as de docentes que forman parte de la Carrera Pública Magisterial, en adelante CPM, con las siguientes características: i.
+Egresados de la educación secundaria de instituciones públicas o privadas reconocidas por el Ministerio de Educación; y, ii. Alto
+rendimiento académico en los dos últimos grados de educación secundaria; y, iii. Con admisión a una institución de educación
+superior, sede y carrera elegible para el Pronabec. Se considera a jóvenes que hayan iniciado estudios superiores hasta antes de su
+culminación (antepenúltimo ciclo en carreras semestrales o penúltimo año en carreras anuales) y aquellos que aún no han iniciado
+sus estudios superiores.
+MEMORIA ANUAL
+31
+2021
+
+================================================================================
+PÁGINA 32
+================================================================================
+Figura 3.12. Beca Excelencia Académica para
+Hijos de Docentes, total de becas atendidas, 2012 – 2021
+1977
+1137 1377
+736
+392
+600
+392 401
+2016 2019 2021
+nuevos continuadores
+Fuente: Sistema Integrado de Becas (Sibec)
+Elaboración: Oficina de Planificación y Presupuesto-Pronabec
+Notas: Contabilizado a diciembre de 2021. Los becarios y becarias nuevos de un año t son aquellos a quienes se les otorgó
+una beca en el año t, mientras que los becarios y becarias continuadores son aquellos que recibieron una beca en años
+previos, pero que aún mantienen una relación con el programa, de acuerdo a una resolución jefatural. No incluye la Beca
+Especial Beca Perú ni Beca Casos Sociales. Se tomó la información a la fecha del 3 de enero de 2022.
+3.1.4. Beca Mujeres en Ciencia Pregrado³⁹
+Busca promover el acceso a la formación universitaria de mujeres peruanas que
+hayan culminado la educación secundaria con un alto desempeño académico y
+deseen estudiar carreras STEM⁴⁰. La convocatoria 2021 tuvo como meta física
+el otorgamiento de hasta 150 becas de pregrado, las cuales fueron distribuidas
+entre los dos momentos de postulación.
+En el primer momento de postulación fueron seleccionadas 62 postulantes, cuya
+totalidad cumplió con la aceptación de la beca y fueron declaradas becarias. En
+el segundo momento fueron seleccionadas 88 postulantes, de las cuales 87
+aceptaron la beca y fueron declaradas becarias.
+³⁹Debido a que solo el 30.3 % de los estudiantes matriculados en disciplinas vinculadas a las Ciencias, Tecnologías, Ingeniería y
+Matemáticas en el país (carreras STEM, por sus siglas en inglés) eran mujeres (Sunedu, 2019), en el 2020 se crea esta beca mediante
+Resolución Directoral Ejecutiva n.°037-2020-MINEDU-VMGI-PRONABEC.
+⁴⁰STEM son las siglas en inglés para las carreras de Ciencias, Tecnología, Ingenierías y Matemática. Esto permitirá que gocen de las
+oportunidades para desarrollar una carrera profesional científica y progresar, propiciando un mayor avance en materia tecnológica y
+de innovación en nuestro país. Asimismo, contribuirá a disminuir la desigualdad de género que se hace visible en las brechas laborales,
+salariales y de participación en investigación y docencia.
+MEMORIA ANUAL
+32
+2021
+
+================================================================================
+PÁGINA 33
+================================================================================
+3.1.5. Otras becas de pregrado financiadas en el 2021
+En total se atendió a 2333 becarios y becarias continuadores de las siguientes
+becas:
+Beca Excelencia Académica Internacional Francia. Permite que los
+jóvenes con alto rendimiento académico puedan recibir la enseñanza del
+idioma francés y continuar estudios superiores en carreras de ciencia y
+tecnología en Francia. Atendió a 96 continuadores.
+Beca Excelencia Académica. Busca que jóvenes peruanos de 16 a
+22 años con alto rendimiento puedan ingresar a carreras de ciencia y
+tecnología. Atendió a 9 continuadores.
+Beca Permanencia para estudios de Arte. Contribuye a la permanencia
+y culminación de estudios superiores de estudiantes de escuelas de
+arte públicas. Atendió a 67 continuadores.
+Beca Traslado. Dirigida a estudiantes de universidades con licencia
+institucional denegada y filiales de universidades públicas que ya no
+prestan servicios educativos. Atendió a 1480 continuadores.
+Beca Deporte Escolar. Dirigida a jóvenes que participaron en las
+ediciones 2017, 2018 o 2019 de los Juegos Deportivos Escolares
+Nacionales. Atendió a 99 continuadores.
+Beca Talento Escolar. Dirigida a jóvenes peruanos que hayan obtenido
+la condición de clasificación a la última etapa nacional en un concurso
+educativo nacional o hayan sido representantes en un concurso
+educativo internacional. Atendió a 55 continuadores.
+Beca Vocación de Maestro. Busca promover la carrera de Educación
+para el desarrollo integral de las personas y el potencial impacto en la
+sociedad peruana. Atendió a 527 continuadores.
+3.2. Becas de posgrado
+3.2.1. Beca Generación del Bicentenario ⁴¹
+Busca potenciar el capital humano peruano a través de estudios de maestría o
+doctorado en las 400 primeras instituciones superiores del mundo, de tal manera
+que se mejore la investigación científica y tecnológica, así como la innovación en
+el país. Se dirige a ciudadanos peruanos con grado académico, título profesional
+o título técnico profesional, con destacado perfil profesional o de investigación,
+que pertenezcan, como mínimo, al tercio superior de su promoción y, además,
+carezcan de suficientes recursos económicos para costear estudios de maestría
+o doctorado. Para la convocatoria 2021 se incorporaron algunas precisiones en
+esta beca, con el objetivo de mejorar el proceso⁴².
+Finalmente, durante el 2021 se atendió a 469 becarios y becarias: 151 nuevos y
+318 continuadores.
+⁴¹Antes Beca Presidente de la República. Se creó mediante Decreto Supremo n.º 014-2020-MINEDU, de fecha 26 de noviembre de
+2020.
+⁴²Por ejemplo, se retiró la fase de revisión de ensayos de postulación y se implementaron las siguientes mejoras: i) Se incorporó
+el criterio de puntaje técnico por programas que pertenezcan a áreas del conocimiento priorizadas y no priorizadas: Ciencias de la
+vida y Biotecnologías, Ciencia y Tecnología de Materiales, Tecnologías de la Información y Comunicación, Ciencias y Tecnologías
+Ambientales y Ciencias Básicas, ii) Se desagregaron los rangos del TOP de IES 50 y 100 utilizados en las convocatorias 2019 y 2020
+a rangos del TOP 25, 50, 75 y 100, con la finalidad de ponderar con mayor puntaje el esfuerzo de los participantes en el concurso por
+haber sido admitidos a IES TOP del mundo.
+MEMORIA ANUAL
+33
+2021
+
+================================================================================
+PÁGINA 34
+================================================================================
+Figura 3.13. Becas atendidas mediante
+Beca Generación del Bicentenario, 2012 – 2021
+1022
+758
+476 469
+325 318
+33 264
+151 151
+33
+2012 2015 2019 2021
+nuevos continuadores
+Fuente: Sistema Integrado de Becas (Sibec)
+Elaboración: Oficina de Planificación y Presupuesto-Pronabec
+Notas: Contabilizado a diciembre de 2021. Los becarios y becarias nuevos de un año t son aquellos a quienes se les otorgó
+una beca en el año t, mientras que los becarios y becarias continuadores son aquellos que recibieron una beca en años
+previos, pero que aún mantienen una relación con el programa, de acuerdo a una resolución jefatural. No incluye la Beca
+Especial Beca Perú ni Beca Casos Sociales. Se tomó la información a la fecha del 3 de enero de 2022.
+3.2.2. Otras becas de posgrado
+En total se atendió a 14 becarios y becarias continuadores de las siguientes
+becas:
+Beca Aleprona. Busca que profesionales peruanos de insuficientes
+recursos económicos y buen perfil profesional o de investigación
+accedan a estudios de maestría o doctorado en las mejores universidades
+de Alemania. Atendió a 1 continuador.
+Beca Complementaria de la Amistad Peruano Ecuatoriana. Busca
+fortalecer los vínculos existentes entre Ecuador y Perú a través de
+intercambios educativos entre peruanos y ecuatorianos. Atendió a 10
+continuadores.
+Beca Docente Universitario. Busca desarrollar las capacidades e
+incrementar las competencias en docencia e investigación a docentes
+universitarios. Atendió a 3 continuadores.
+MEMORIA ANUAL
+34
+2021
+
+================================================================================
+PÁGINA 35
+================================================================================
+3.3. Becas especiales
+3.3.1. Beca Continuidad de Estudios⁴³
+La convocatoria 2021 estableció como meta física el otorgamiento de 10 000
+becas a nivel nacional: 2500 becas para estudiantes de universidades públicas,
+5000 becas para estudiantes de universidades privadas y 2500 becas para
+estudiantes de institutos y escuelas públicas o privadas.
+Se otorgaron un total de 10 051 becas, superando la meta programada debido
+a los empates técnicos generados entre los postulantes al concurso. De este
+grupo, 56.2 % eran estudiantes en condición de pobreza o pobreza extrema y
+43.7 % tenían algún tipo de vulnerabilidad distinta a la condición socioeconómica
+(recepción de bonos, retiro de cursos, pertenencia a un hogar en suspensión
+perfecta, etc.). Asimismo, un 60.3 % perteneció, como mínimo, al quinto superior
+en sus instituciones. En cuanto a la región de procedencia, el 28 % provenía de
+Lima y Callao, mientras que el 72 % provenía de otras regiones. Por último, 59.4
+% fueron mujeres y 40.6 %, hombres.
+Un total de 20 017 becarios y becarias, 11 437 de la convocatoria 2020-I y 8580
+de la convocatoria 2020-II, aceptaron la ampliación de la duración de la beca, la
+cual culminó en diciembre del 2021.
+Durante el 2021, además de los 10 051 nuevos becarios y becarias, se atendió a
+23 563 continuadores.
+Figura 3.14. Becas atendidas mediante
+Beca Continuidad de Estudios, 2020 – 2021
+33 614
+24 052
+23 563
+24 052
+10 051
+2020 2021
+nuevos continuadores
+Fuente: Sistema Integrado de Becas (Sibec)
+Elaboración: Oficina de Planificación y Presupuesto-Pronabec
+Notas: Contabilizado a diciembre de 2021. Los becarios y becarias nuevos de un año t son aquellos a quienes se les otorgó
+una beca en el año t, mientras que los becarios y becarias continuadores son aquellos que recibieron una beca en años
+previos, pero que aún mantienen una relación con el programa, de acuerdo a una resolución jefatural. No incluye la Beca
+Especial Beca Perú ni Beca Casos Sociales. Se tomó la información a la fecha del 3 de enero de 2022.
+⁴³Creada mediante RDE n.º 055-MINEDU/VMGI-PRONABEC, del 29 de mayo del 2020, como consecuencia del estado de emergencia
+sanitaria a causa del COVID-19. Sus dos primeras convocatorias se realizaron en el 2020, logrando el otorgamiento de más de 20 000
+becas, cuya duración inicial se extendió hasta julio del 2021. No obstante, al ampliarse la declaratoria del estado de emergencia el
+programa solicitó una demanda adicional que permitió la extensión de la duración hasta diciembre del mencionado año.
+MEMORIA ANUAL
+35
+2021
+
+================================================================================
+PÁGINA 36
+================================================================================
+La evolución de la asignación de becas por tipo de gestión muestra que hay una
+mayor participación de los becarios y becarias en IES privadas (con o sin fines de
+lucro), en detrimento de las IES públicas. El total de becarios y becarias en IES de
+gestión pública corresponde a un 32 % en la última convocatoria.
+Por otro lado, alrededor del 30 % de becarios y becarias eligió Lima como región
+de estudios, de acuerdo a la última convocatoria. Sin embargo, la demanda por
+los y las postulantes a la beca para realizar estudios en Lima es mucho mayor, ya
+que las bases del concurso colocan un límite a las becas asignadas a esa región
+(ver anexo II).
+Con respecto a la mejora continua, existe el desafío de analizar la oferta educativa
+y las preferencias de los y las postulantes, a fin de identificar espacios de mejora
+para lograr gradualmente una distribución que incremente la participación de las
+IES de gestión pública, así como de otras regiones del país.
+3.3.2. Beca para Situaciones Especiales en Formación Técnico-Productiva
+Repared
+Brinda capacitación técnica mediante módulos de formación o cursos de
+capacitación rentables y de alta demanda regional, con el fin de contribuir a
+mejorar el nivel de ingresos y empleabilidad de las víctimas de la violencia ocurrida
+en el país entre los años 1980 y 2000, sin límite de edad y con instrucción mínima
+de primaria completa y máxima de secundaria completa.
+La convocatoria 2021 ofertó 240 becas para módulos de formación o cursos
+de capacitación presencial de hasta 600 horas o 6 meses de duración. Así,
+se otorgaron 170 becas distribuidas de la siguiente manera según regiones:
+Ayacucho (77), Junín (40), Lima (41), Huancavelica (6), Huánuco (3), Puno (1), San
+Martín (1) y Tacna (1).
+El 64.6 % de los seleccionados de este concurso fueron mujeres. Por otro lado,
+26.4 % presentaron condición socioeconómica de pobreza y el 16.9 % pobreza
+extrema.
+En cuanto a la evolución en el otorgamiento de becas de esta modalidad, desde
+el 2017 hasta el 2021 se han entregado 532 subvenciones. El detalle se puede
+observar en la figura 3.15.
+MEMORIA ANUAL
+36
+2021
+
+================================================================================
+PÁGINA 37
+================================================================================
+Figura 3.15. Becas otorgadas por año de convocatoria, 2017 - 2021
+273
+170
+89
+2017 2018 2021
+Fuente: Sistema Integrado de Becas (Sibec)
+Elaboración: Oficina de Planificación y Presupuesto-Pronabec
+3.3.3. Beca Inclusión para carreras universitarias o profesionales técnicas⁴⁴
+Busca impulsar el acceso, permanencia y culminación de estudios universitarios
+y técnicos de personas con discapacidad que hayan concluido la Educación
+Básica Regular (EBR), Educación Básica Alternativa (EBA) o Educación Básica
+Especial (EBE). Asimismo, se encuentren realizando estudios superiores o hayan
+ingresado a una universidad o instituto elegible. No establece límite de edad.
+La convocatoria 2021 ofertó 10 becas y se otorgaron 11, distribuidas de la
+siguiente manera según regiones: Lima (4), Apurímac (1), Ayacucho (1), Callao (1),
+Cusco (1), Ica (1), Junín (1) y Puno (1).
+El 73 % de los seleccionados fueron mujeres. Por otro lado, 45 % presentaron
+condición de pobreza y 18 % pobreza extrema.
+3.3.4. Beca Inclusión Técnico-Productiva⁴⁵
+Busca contribuir con la mejora en el nivel de ingresos y empleabilidad de las
+personas en condición de discapacidad en situación de pobreza o pobreza
+extrema, según el Sisfoh, y que hayan culminado, como mínimo, el nivel primario
+de la Educación Básica Regular (EBR) o Educación Básica Alternativa (EBA) o
+Educación Básica Especial (EBE). Asimismo, la beca no establece límite de edad.
+La convocatoria 2021 ofertó 100 becas para acceder a módulos de formación
+o cursos de capacitación de hasta cuatro meses o un máximo de 300 horas
+pedagógicas.
+⁴⁴La Beca Inclusión para carreras universitarias o profesionales técnicas es una modalidad de la beca especial denominada “Beca
+Inclusión”, que fue creada mediante RDE N.°194-2020-MINEDU/VMGI-PRONABEC, del 3 de diciembre del 2020.
+⁴⁵La Beca Inclusión Técnico - Productiva es otra de las modalidades de la beca especial denominada “Beca Inclusión”, que fue creada
+mediante RDE n.º 194-2020-MINEDU/VMGI-PRONABEC, del 3 de diciembre del 2020.
+MEMORIA ANUAL
+37
+2021
+
+================================================================================
+PÁGINA 38
+================================================================================
+Finalmente se otorgaron 98 becas distribuidas de la siguiente manera según
+regiones: Junín (37), Lima (29), Piura (21), Callao (6), Cusco (2), Arequipa (1), La
+Libertad (1) y Tacna (1).
+El 56.9 % de los seleccionados fueron mujeres. Por otro lado, 58.8 % presentaron
+condición de pobreza y 41.2 % pobreza extrema.
+3.3.5. Otras becas especiales
+Se atendió a 1183 becarios y becarias continuadores de las siguientes becas:
+Beca Alianza del Pacífico. Busca contribuir a la formación de capital
+humano en los países miembros de la Alianza del Pacífico, a través del
+intercambio académico en los niveles de licenciatura, posgrado, docencia
+universitaria e investigación superior. Atendió a 6 continuadores.
+Beca de Reciprocidad Perú–China para ciudadanos peruanos. Busca
+fortalecer los vínculos entre China y Perú a través de intercambios
+educativos de profesionales chinos y peruanos. Atendió a 3
+continuadores.
+Beca Doble Oportunidad. Busca reinsertar al sistema educativo a
+adolescentes y jóvenes entre 17 y 24 años que tengan rezago escolar
+para ofrecerles la oportunidad de concluir sus estudios secundarios y
+desarrollar una formación técnica. Atendió a 1 continuador.
+Beca Idiomas. Busca desarrollar, a través de una formación con
+dedicación exclusiva⁴⁶, la competencia lingüística del idioma Inglés a
+egresados de universidades públicas del Perú que hayan pertenecido
+al tercio o quinto superior durante toda la carrera universitaria, con el fin
+de brindarles la oportunidad de acceder a estudios de posgrado en las
+mejores universidades del mundo. Atendió a 163 continuadores.
+Beca Inglés Docente Investigador en Universidades Públicas. Busca
+incrementar la producción científica de los docentes. Atendió a 7
+continuadores.
+Beca Mi Vocación Técnica. Busca mejorar las condiciones de los
+estudiantes para enfrentar con éxito el tránsito desde la educación
+básica regular al mundo laboral y a la educación superior. Atendió a
+1003 continuadores.
+⁴⁶La formación en dedicación exclusiva se desarrolla de lunes a viernes en clases diarias de 8 horas cronológicas durante todo el
+tiempo de duración de la beca.
+MEMORIA ANUAL
+38
+2021
+
+================================================================================
+PÁGINA 39
+================================================================================
+3.4. Pérdida de becas
+En la figura 3.16 se puede observar la proporción de becarios y becarias de Beca 18
+que pierden el beneficio dentro del primer año desde su adjudicación. Se observa una
+reducción considerable desde el 2016 en comparación a las altas cifras del 2014 y 2015⁴⁷.
+Figura 3.16. Tasa de pérdida de beca a los primeros 12 meses, 2012-2020
+14.0 %
+11.6 %
+12.0 %
+9.3 %
+10.0 %
+7.6 %
+8.0 %
+5.5 %
+6.0 %
+4.6 %
+4.0 % 2.9 %
+1.7 %
+2.0 % 1.2 %
+0.2 %
+0 %
+2012 2013 2014 2015 2016 2017 2018 2019 2020
+Fuente: Oficina de Planificación y Presupuesto-Pronabec: Sistema Integrado de Becas (Sibec)
+Notas: La tasa de pérdida se calcula dividiendo el número de becarios y becarias que han perdido la beca y el total de
+becarios y becarias adjudicados en el año. Se considera como pérdida de beca a los 12 meses si es que la diferencia
+en días entre la fecha de retiro, según el Sibec, y la fecha de otorgamiento es menor a 365 días y la fecha de nulidad no
+presenta datos.
+⁴⁷Estos resultados podrían estar asociados a la selección de los becarios y becarias, así como a las actividades de acompañamiento
+que reciben el primer momento en el que se convierten en talento Pronabec.
+MEMORIA ANUAL
+39
+2021
+
+================================================================================
+PÁGINA 40
+================================================================================
+Por otro lado, se analizaron los motivos para la pérdida de Beca 18 de los 52 estudiantes
+que durante el 2021 habían perdido dicha subvención. Se observa una cantidad
+significativamente menor a la registrada en 2020 (883). El principal motivo fue el
+abandono de los estudios⁴⁸.
+Figura 3.17. Motivos para la pérdida de Beca 18, 2021
+39 %
+53 %
+4 %
+4 %
+Abandono de estudios Renuncia a la beca
+Fallecimiento o incapacidad permanente No registrado
+Fuente: Oficina de Planificación y Presupuesto: Sistema Integrado de Becas (Sibec)
+Notas: Se refiere a la pérdida de beca total, y se calcula a partir de todos los registros que tienen fecha de retiro y cuya
+fecha de nulidad no presenta datos. Es decir, considera la pérdida de beca en el 2021 tanto de todos los becarios y becarias
+atendidos, esto es, nuevos y continuadores, independientemente del tiempo que tengan en el programa. Contabilizado a
+diciembre de 2021. Los becarios y becarias nuevos de un año t son aquellos a quienes se les otorgó una beca en el año t,
+mientras que los becarios y becarias continuadores son aquellos que recibieron una beca en años previos, pero que aún
+mantienen una relación con el programa, de acuerdo a una resolución jefatural. Se tomó la información a la fecha del 3 de
+enero de 2022.
+En consideración a dicha problemática, en la sección 5.2 Intervención del riesgo
+de deserción: acompañamiento a becarios y becarias, se pueden conocer las
+acciones que el programa lleva a cabo para contribuir a la permanencia de los
+becarios y becarias en sus estudios superiores y prevenir la pérdida de beca.
+Entre las principales intervenciones tenemos al fortalecimiento de habilidades,
+recursos de afronte y el acceso a servicios semipresenciales de soporte y
+atención pedagógica, socioemocional, salud y otros necesarios.
+⁴⁸De acuerdo a información de la Unidad de Seguimiento y Permanencia (USP) del Pronabec, los motivos para el abandono de los
+estudios son diversos. Algunos estudiantes dejan de asistir a clases después de haberse matriculado en la IES, otros no se matriculan,
+a pesar de haber sido adjudicados con la beca debido a que priorizan otras actividades, por motivos personales y/o familiares, entre
+otras razones. Cabe resaltar que los especialistas de las Uccor tratan de comunicarse con los estudiantes que abandonan los estudios;
+sin embargo, en algunos casos no logran ubicarlos.
+MEMORIA ANUAL
+40
+2021
+
+================================================================================
+PÁGINA 41
+================================================================================
+MEMORIA ANUAL
+41
+2021
+
+================================================================================
+PÁGINA 42
+================================================================================
+IV. Créditos educativos otorgados y atendidos por el Pronabec
+Durante el 2021, Crédito Continuidad, Crédito 18 y Crédito Talento beneficiaron a un total de
+2787 estudiantes, con un monto desembolsado de S/22 088 085. El 100 % de los créditos
+se destinaron a estudios de pregrado (ver tabla 4.1).
+Tabla 4.1. Distribución de beneficiarios activos
+por tipo de crédito (en millones de soles), 2021
+Monto
+Modalidad de Cantidad de
+desembolsado Participación:
+crédito educativo créditos:
+(S/)
+Crédito Continuidad 2369 18 823 891 85 %
+Crédito 18 227 2 483 604 11 %
+Crédito Talento 191 780 590 4 %
+Total 2787 22 088 085 100 %
+Fuente: Oficina de Gestión de Crédito Educativo- Pronabec.
+Fecha de corte: Al mes de diciembre de 2021
+MEMORIA ANUAL
+42
+2021
+
+================================================================================
+PÁGINA 43
+================================================================================
+4.1. Crédito Talento⁴⁹
+Permite el acceso, la permanencia y la culminación de estudios universitarios o técnicos
+en IES elegibles. Se dirige a estudiantes de alto rendimiento académico y en condición de
+pobreza o pobreza extrema, con un enfoque en financiamiento de largo plazo y repago
+futuro⁵⁰.
+En la convocatoria 2021, se otorgaron 146 créditos, con un monto desembolsado de
+S/345 463, 265 % más que la convocatoria del 2020 (40 créditos). En la tabla 4.2 se
+muestra la distribución de los 191 beneficiarios activos atendidos en el 2021 de todas las
+convocatorias.
+Tabla 4.2. Distribución de beneficiarios activos
+por convocatoria (en miles de soles), 2021
+Cantidad de Monto
+Convocatoria Participación %
+créditos desembolsado (S/)
+2019 8 46 649 6 %
+2020-I 40 388 477 50 %
+2021 143 345 463 44 %
+Total 191 780 590 100 %
+Fuente: Oficina de Gestión de Crédito Educativo- Pronabec.
+Fecha de corte: Al mes de diciembre de 2021
+⁴⁹Para mayor detalle sobre la distribución del crédito por género y región de procedencia, revisar el anexo II.
+⁵⁰Período de repago o reembolso: es el tiempo posterior al periodo de estudios, en donde se procede a la consolidación de la deuda y
+se inicia la obligación de pago o reembolso de la totalidad de la deuda.
+MEMORIA ANUAL
+43
+2021
+
+================================================================================
+PÁGINA 44
+================================================================================
+4.2. Crédito 18⁵¹
+Se dirige a estudiantes peruanos de alto rendimiento académico e insuficientes recursos
+económicos. Se otorga con un plazo de cancelación más amplio, incluyendo un período de
+gracia de seis meses y contando con una garantía presentada por parte de las IES. Brinda
+una tasa baja y preferencial de 3.55 % anual, no exige garantías reales y otorga plazos de
+pago de hasta 15 años para universidades y 10 años para institutos.
+En el 2021, se otorgaron 75 créditos con un monto desembolsado de S/202 018, 114 %
+más que la convocatoria del 2020 (35 créditos). Al cierre del 2021 había 227 beneficiarios
+activos con un desembolso total de S/2 483 604, siendo la Pontificia Universidad Católica
+del Perú la que tuvo mayor participación de beneficiarios con un 69 %.
+Tabla 4.3. Distribución de beneficiarios activos
+por convocatoria (en miles de soles), 2021
+Cantidad de Monto
+Convocatoria⁵² Participación %
+créditos desembolsado (S/)
+2016-I 26 269 853 11 %
+2016-II 17 186 790 8 %
+2017 26 381 749 15 %
+2019 52 830 254 33 %
+2020-II 33 612 940 25 %
+2021-II 73 202 018 8 %
+Total 227 2 483 604 100 %
+Fuente: Oficina de Gestión de Crédito Educativo- Pronabec.
+Fecha de corte: Al mes de diciembre de 2021
+⁵¹Para mayor detalle sobre la distribución del crédito por género y región de procedencia, revisar el anexo II.
+⁵²En el 2018, la Oficina de Gestión de Créditos entró a un proceso de rediseño de las modalidades de crédito para su adecuación a los
+objetivos estratégicos del programa, lo cual implicó un cierre temporal del otorgamiento de créditos.
+MEMORIA ANUAL
+44
+2021
+
+================================================================================
+PÁGINA 45
+================================================================================
+4.3. Crédito Continuidad de Estudios⁵³
+Dirigido a estudiantes peruanos entre el quinto y penúltimo ciclo en pregrado de
+universidades licenciadas públicas o privadas, que demuestren alto rendimiento académico
+y que hayan sido afectados por la pandemia del COVID-19. Cubre costos de matrícula y
+pensión, así como alimentación, movilidad local y materiales de estudio. El financiamiento
+tiene un plazo máximo de un año académico (o dos semestres académicos, según sea el
+caso) y se otorga a una tasa de interés por debajo de las ofrecidas en el sistema financiero.⁵⁴
+En el 2021, se aprobó la ampliación del financiamiento de conceptos académicos y no
+académicos del Crédito Continuidad de Estudios, convocatorias 2020-I y 2020-II⁵⁵”,
+beneficiando así a 1505 estudiantes de pregrado que aceptaron la ampliación y que
+tuvieron un desembolso de S/8 328 121 entre los meses de setiembre a diciembre.
+Durante el 2021, fueron beneficiados un total de 2369 estudiantes de pregrado, con un
+desembolso total de S/18 823 891.
+Tabla 4.4. Distribución de beneficiarios activos
+por convocatoria (en miles de soles), 2021
+Cantidad de Monto
+Convocatoria Participación %
+créditos desembolsado (S/)
+2020-I 327 2 076 366 11 %
+2020-II 2042 16 747 526 89 %
+Total 2369 18 823 891 100 %
+Fuente: Oficina de Gestión de Crédito Educativo- Pronabec.
+Fecha de corte: Al mes de diciembre de 2021
+4.4. Recuperación del Crédito Educativo
+Se basa en las condiciones crediticias del contrato de crédito educativo y, de acuerdo
+con el cronograma de pagos, se establece el número y monto de las cuotas, así como sus
+fechas de vencimiento. Para el 2021, la recuperación total fue de S/4 989 284, y un 72
+% de lo recuperado fue imputado hacia la amortización del capital. Asimismo, este monto
+representó un 78 % de lo recaudado respecto al año anterior.
+En relación con los administrados que tuvieron una performance crediticia positiva.
+Hasta antes de la pandemia, se recibieron 25 solicitudes de reprogramación de créditos
+educativos y de estos, 17 usuarios calificaron para esta facilidad.
+⁵³Para mayor detalle sobre la distribución del crédito por género y región de procedencia, revisar el anexo II.
+⁵⁴Se creó mediante Resolución Directoral Ejecutiva n.º 066-2020-MINEDU/VMGI-PRONABEC, del 20 de junio del 2020, con el
+objetivo de reducir el riesgo de deserción de los universitarios afectados directa o indirectamente por la emergencia nacional a causa
+del COVID-19. En el 2021, hubo una última disposición especial mediante la RDE n.º 202-2021.
+⁵⁵Mediante la Resolución Jefatural n.º 799-2021-MINEDU/VMGI-PRONABEC-OCE.
+MEMORIA ANUAL
+45
+2021
+
+================================================================================
+PÁGINA 46
+================================================================================
+MEMORIA ANUAL
+46
+2021
+
+================================================================================
+PÁGINA 47
+================================================================================
+V. Modelo de acompañamiento al beneficiario del Pronabec⁵⁶
+Se ejecuta a través de dos tipos de intervenciones: intervención básica e intervención del
+riesgo de deserción. La primera comprende un conjunto de acciones dirigidas a becarios y
+becarias nuevos y continuadores, de acuerdo al momento formativo en el que se encuentran,
+y la segunda se dirige a becarios y becarias según su perfil de riesgo de perder o renunciar a
+la beca. Los momentos del acompañamiento se pueden apreciar en la figura 5.1.
+Figura 5.1
+Momentos del acompañamiento
+M3 Soporte para
+el egreso
+(último año)
+M1
+Fortalecimiento y
+consolidación
+M1 Adaptación (2.º año institutos/2.º –
+4.º año universidades)
+(primer año)
+M0 Transición
+(previo al inicio)
+Elaboración: Oficina de Bienestar del Beneficiario
+⁵⁶Aprobado mediante Resolución Directoral Ejecutiva n.° 180-2020-MINEDU-VMGI-PRONABEC.
+MEMORIA ANUAL
+47
+2021
+
+================================================================================
+PÁGINA 48
+================================================================================
+5.1. Intervención básica: plan de acompañamiento en “Aprende +”⁵⁷
+La plataforma virtual “Aprende +” aloja cursos virtuales orientados a desarrollar habilidades
+específicas relacionadas al aprendizaje, la mejora de capacidades personales, el logro
+de un proyecto personal y la prevención de situaciones de riesgo. El acompañamiento
+virtual propone el desarrollo de los cursos de forma progresiva, de acuerdo con las etapas
+propuestas en el modelo de acompañamiento y las competencias requeridas según las
+necesidades de cada ciclo de vida académica de becarios y becarias. Además, busca ser
+complementado con otras ofertas de las IES o de otros aliados, a través de la difusión de
+cursos virtuales gratuitos seleccionados y seminarios web sobre temas socioemocionales
+y de empleabilidad.
+La implementación del plan de acompañamiento virtual se realizó en dos semestres.
+Durante el primer semestre se matriculó a 57 963 becarios y becarias, de los cuales 55
+203 (95 %) culminaron con los cursos programados de acuerdo al momento programado.
+En el segundo semestre se matriculó a 73 250 becarios y becarias, de los cuales 71 290
+(97 %) culminaron con los cursos programados de acuerdo al momento programado.
+En general, como parte de la intervención, se matriculó a un total de 80 837 becarios y
+becarias nuevos y continuadores de pregrado que estudian en territorio nacional en 18
+de los 23 cursos del plan de estudios. Al finalizar el 2021, más del 97 % había terminado
+sus cursos.
+En relación a la estrategia de fortalecimiento de herramientas para la empleabilidad, se
+implementó el Curso Empléate, el cual abordó los siguientes temas: proyecto profesional,
+elaboración de CV de alto impacto, entrevistas de trabajo, red de contacto, rol de las
+Tecnologías e Información y Comunicación (TIC) en la búsqueda de empleo, entre otros.
+Este curso se encuentra dirigido a becarios y becarias de los últimos años de estudios y
+como resultado 36 883 talentos lo culminaron. Esto representó el 94.7 % del total de la
+población objetivo.
+Por otro lado, en el marco del fortalecimiento de competencias para la empleabilidad se
+implementó el Curso Fortalece tu Talento, el cual también está dirigido a becarios de los
+últimos ciclos y cuyo contenido busca desarrollar la comunicación efectiva, las soluciones
+innovadoras, el liderazgo y el trabajo multidisciplinario. Como resultado, 38 168 becarios y
+becarias culminaron con las actividades del curso, lo que representó el 97.92 % del total
+de la población objetivo.
+⁵⁷En el 2021, culminó el diseño de cinco cursos del momento 2 del plan de acompañamiento virtual que estaban pendientes de
+desarrollar y se hicieron mejoras en el Curso Empléate del momento 3. Se elaboraron 18 videos correspondientes a los cursos: i.
+Aprendizaje autorregulado (3 videos), ii. Empatía (3 videos), iii. Perseverancia – Determinación (2 videos), iv. Técnicas para afrontar
+la ansiedad y el estrés (4 videos) y v. Empléate (6 videos). Asimismo, se mejoró y realizó mantenimiento correctivo y evolutivo a la
+plataforma “Aprende +”. Estos cambios permiten que los beneficiarios y beneficiarias descarguen de forma automática sus diplomas
+de reconocimiento y tengan acceso a material complementario (anexos) a los cursos, con el fin de reforzar su aprendizaje. Además,
+permite que los especialistas en Bienestar de las Uccor realicen un adecuado seguimiento y acompañamiento al avance y dudas que
+los becarios y becarias tuvieran sobre los cursos.
+MEMORIA ANUAL
+48
+2021
+
+================================================================================
+PÁGINA 49
+================================================================================
+5.1.1. Cursos virtuales de plataformas externas
+La propuesta de acompañamiento virtual de “Aprende +” busca ser complementada
+con otras ofertas de plataformas externas, cuyos cursos están relacionados a las
+competencias propuestas. La finalidad es contribuir a la gestión del aprendizaje
+de manera autónoma y al fortalecimiento de las competencias de becarios y
+becarias del Pronabec.
+De esta manera, se difundieron cursos de Academika, Campus Virtual Romero,
+Crehana y otros entre 14 579 becarios y becarias, de los cuales 10 098 (69 %) los
+culminó de forma satisfactoria⁵⁸. Además, un segundo grupo de 52 225 becarios
+y becarias que culminaron los cursos del plan de acompañamiento virtual en
+“Aprende +” recibieron información para inscribirse y desarrollar otros cursos de
+forma voluntaria.
+En alianza con la Dirección de Diversidad Cultural y Eliminación de la Discriminación
+Racial del Ministerio de Cultura (Mincul), se difundió el Curso Hablemos de
+Racismo⁵⁹. Como resultado, 3139 becarios y becarias se inscribieron a la
+asignatura y 349 la culminaron de manera satisfactoria.
+5.1.2. Acciones de promoción de la salud y prevención, soporte para el
+bienestar integral y educativo comunicacionales
+a. Acciones de promoción de la salud y prevención
+Afiliación masiva de los becarios y becarias al Seguro Integral de Salud
+(SIS): en el primer semestre se tramitó la afiliación de 65 590 becarios y
+becarias, consiguiendo en mayo que 61 653 (94 %) se encuentren afiliados⁶⁰.
+Durante el segundo semestre se solicitó la afiliación de un segundo grupo de
+14 005 becarios y becarias nuevos que se adjudicaron alguna beca durante
+el 2021⁶¹.
+Directorio de servicios: se identificaron servicios públicos y privados para
+la atención de diferentes necesidades (salud física, mental, académicas,
+etc.), con lo cual se elaboró un directorio de servicios con la información y
+procedimiento para su acceso. Se hizo la difusión a 97 761 becarios y becarias
+activos regulares a través de los diferentes canales de comunicación interna
+del programa.
+⁵⁸Este grupo pudo desarrollar cursos sobre inteligencia emocional, finanzas personales, PowerPoint básico e intermedio, redacción,
+productividad y organización del tiempo, metas, objetivos e indicadores estratégicos, entre otros.
+⁵⁹Cuyo objetivo es promover el aprendizaje, la reflexión y la formulación de una postura crítica propia sobre el racismo y la discriminación
+étnico-racial en el Perú. Se tuvo dos convocatorias en el año y estuvo dirigido a becarios y becarias de primer al quinto ciclo de todas
+las modalidades de beca a nivel nacional.
+⁶⁰El grupo de becarios y becarias que no pudo afiliarse contaba con otro tipo de seguro, entre otros.
+⁶¹Estando ello pendiente de respuesta por parte de la Gerencia de Aseguramiento del SIS. La población becaria ha recibió la información
+sobre el estado de su afiliación al SIS y la forma de acceso a través de la intranet, WhatsApp y correo electrónico.
+MEMORIA ANUAL
+49
+2021
+
+================================================================================
+PÁGINA 50
+================================================================================
+b. Difusión de información preventivo promocional en temas de
+bienestar y otros
+Durante el 2021 se difundieron materiales gráficos entre la población
+becaria con el objetivo de impulsar medidas preventivas y el sentido de
+responsabilidad frente al COVID-19. Asimismo, se promovió el bienestar
+integral de esta población. Por otro lado, se difundió información sobre
+voluntariado, oportunidades de formación, pasantías y fechas conmemorativas
+(efemérides).
+c. Realización de seminarios web “Pensando en ti”
+Entre mayo y noviembre del 2021 se realizaron 16 seminarios web con ocho
+temáticas en el marco del ciclo “Pensando en ti” dirigidas a toda la población
+becaria a nivel nacional. En cada fecha participaron en promedio entre 400 a
+500 becarios y becarias de todas las Uccor a nivel nacional.
+En el caso de becarios y becarias de pre y posgrado que estudian en el
+extranjero se desarrollaron 10 seminarios web con 10 temáticas que fueron
+de utilidad para el bienestar emocional y académico de esta población. En
+cada fecha participaron en promedio 80 becarios y becarias. Cabe resaltar
+que tanto en los webinars nacionales como del extranjero se contó con un
+porcentaje muy alto de satisfacción.
+5.1.3. Promoción del voluntariado
+Se identificaron 656 becarios y becarias que participan en programas de
+voluntariado de la Liga de Lucha contra el Cáncer y el Programa de Naciones
+Unidas para el Desarrollo (PNUD) - Voluntarios ONU⁶². Asimismo, 8349 se
+inscribieron en la comunidad virtual de aprendizaje del Programa de Voluntariado
+del Bicentenario (PV) del Proyecto Especial del Bicentenario (PEB) del Ministerio
+de Cultura.
+Cabe destacar que 1137 becarios y becarias de Beca 18 que respondieron la
+encuesta de voluntariado aplicada por la OBBE señalaron que realizaban o habían
+realizado voluntariado en diversas actividades⁶³.
+⁶²Como producto de las alianzas y la difusión de oportunidades de voluntariado, así como material comunicacional.
+⁶³Prevención y educación contra el cáncer, prevención de la salud, teleorientación sobre nutrición a familias migrantes y refugiadas,
+apoyo educativo digital a estudiantes, prevención de la violencia hacia la mujer, apoyo asistencial en albergues, asilos, entre otros.
+MEMORIA ANUAL
+50
+2021
+
+================================================================================
+PÁGINA 51
+================================================================================
+5.1.4. Difusión de oportunidades
+a. Concurso de Contrato Docente 2021
+Como resultado de la coordinación con la Dirección Técnico Normativa del
+Minedu, 782 becarios y becarias egresados de las carreras de Educación
+lograron una plaza de contrato a inicios del 2021⁶⁴. Esto representó un
+incremento de 231 % respecto al 2020.
+b. Grupo cerrado de Facebook Talento Pronabec
+Difunde información sobre el Compromiso de Servicio al Perú (CSP), así
+como oportunidades de desarrollo profesional entre los talentos egresados
+y próximos a culminar sus estudios superiores. Asimismo, se publica material
+gráfico con recomendaciones para afrontar con éxito un proceso de selección
+de personal, seminarios web con temáticas de empleabilidad, entre otras.
+En relación a la difusión del CSP, se publicaron flyers de manera semanal con
+información relevante sobre el tema. Al cierre del 2021, el grupo de Facebook
+contaba con 14 643 miembros, quienes realizan sus dudas y consultas,
+las cuales fueron atendidas. Se registraron 6157 interacciones en el año
+y un alcance de 127 893, lo cual evidencia la importancia de compartir la
+información a través del grupo. Por otro lado, mediante el Facebook oficial del
+Pronabec, se publicaron las transmisiones en vivo en las que se absolvieron
+consultas relacionadas a la normativa sobre el CSP.
+c. Ciclo de seminarios web
+Con el apoyo de reconocidos profesionales durante el 2021 se realizaron 29
+seminarios web con temas orientados al impulso de la empleabilidad, dirigidos
+principalmente a los becarios y becarias próximos al egreso que culminaron
+los cursos virtuales del momento 3. Participaron 4549 becarios y becarias.
+d. Plataforma de ExpoTalentos Pronabec
+Lanzada en abril del 2021, presenta los perfiles de los becarios y becarias
+registrados a los reclutadores de instituciones y empresas que estén
+buscando unir talento a su organización. Asimismo, las organizaciones
+pueden publicar las posiciones que estén buscando y esta información se
+difunde entre todos los becarios y becarias registrados.
+En el 2021, se registraron 12 685 becarios y becarias, así como 92
+instituciones y empresas. Se difundieron 76 ofertas laborales.
+⁶⁴Por consiguiente, prestaron sus servicios en el sistema educativo público durante el 2021 en el marco del proceso de contratación
+docente bajo la modalidad directa. Asimismo, se identificó a 767 becarios y becarias para participar en la modalidad de contratación
+directa durante el 2022. Esta identificación inició a partir de mayo del 2021 y a diferencia del anterior proceso donde participaron
+egresados, bachilleres y titulados, para el proceso 2022 el perfil mínimo requerido establecido por el Ministerio de Educación fue el de
+titulado. Los resultados de este proceso se tendrán hacia el primer trimestre del 2022.
+MEMORIA ANUAL
+51
+2021
+
+================================================================================
+PÁGINA 52
+================================================================================
+e. Mentoría profesional con aliados
+Se implementó en alianza con profesionales aliados del campo de las ciencias
+que pusieron a disposición su experiencia en gestión de proyectos con
+impacto social, comunicaciones, monitoreo, evaluación y fortalecimiento
+de capacidades. Tuvo como objetivo que los participantes progresen en el
+desarrollo de sus competencias profesionales e interpersonales, aprendan a
+gestionar el logro de sus objetivos y tomen conocimiento de las oportunidades
+presentes en su profesión. Todo ello a partir de la relación participante y
+mentor y del acompañamiento brindado por este último.
+Se identificaron becarios y becarias del octavo y noveno ciclo de estudios
+en carreras de ciencias y se les invitó a participar. Asimismo, se identificaron
+talentos de la especialidad en ciencias, egresados de la Beca Presidente de
+la República, ahora Beca Generación del Bicentenario, para sumarse como
+mentores y ampliar la red de profesionales aliados.
+La implementación del piloto se realizó entre junio y diciembre del 2021.
+Iniciaron 57 parejas de mentores-mentees⁶⁵, de las cuales 55 culminaron el
+programa.
+5.2. Intervención del riesgo de deserción: acompañamiento a becarios y
+becarias
+Incluye el fortalecimiento de habilidades, recursos de afronte y el acceso a
+servicios semipresenciales de soporte y atención pedagógica, socioemocional,
+salud y otros necesarios. Este acompañamiento se realiza de manera sincrónica⁶⁶
+y asincrónica. Durante el 2021 la intervención de riesgo se realizó a partir de la
+encuesta de autorreporte de necesidades de atención ¿Cómo me siento?
+Durante el semestre 2021-I, se identificó a 2024 becarios y becarias de Beca 18
+con necesidades de atención y se logró asistir⁶⁷ a 1970 de manera sincrónica. En
+el semestre 2021-II se identificó a 914 talentos con necesidades de atención y
+se logró atender a 892 de manera sincrónica. El 70 % de este grupo pertenecía a
+Beca 18, el 14 % a Beca Continuidad y el 12 % a Beca Permanencia.
+Por otro lado, como parte de la modalidad asincrónica, 4837 becarios y becarias
+en riesgo recibieron material educativo comunicacional, así como invitaciones
+personalizadas a las actividades sincrónicas grupales.
+⁶⁵Un mentee en este caso es un estudiante que recibe la mentoría o guía por parte de un mentor.
+⁶⁶Contacto individual directo.
+⁶⁷Cabe precisar que los planes de intervención estuvieron orientados a la derivación a los servicios de las IES o a servicios externos
+y al acompañamiento propiamente dicho de los especialistas de las Uccor, en relación a las temáticas de necesidad identificadas.
+MEMORIA ANUAL
+52
+2021
+
+================================================================================
+PÁGINA 53
+================================================================================
+5.2.1. Programa piloto mentoría entre pares “Talentos en Acción”
+En el 2021, la OBBE propuso la implementación de un programa piloto de
+mentoría entre pares⁶⁸ que contribuya al proceso de integración, adaptación y
+permanencia de los becarios y becarias de Beca 18 en la vida académica y social
+de la educación superior durante el primer ciclo de estudios⁶⁹.
+Los talentos fueron seleccionados considerando a aquellos que presentaban
+mayores necesidades para su adaptación y la disponibilidad de talentos guía
+en las IES. La mentoría incluyó la realización de nueve reuniones individuales
+entre el talento guía y el talento, programadas de acuerdo a la disponibilidad y
+las necesidades identificadas. Asimismo, se realizaron dos reuniones grupales de
+integración en las que se retroalimentaron los temas tratados.
+En el 2021, se contó con un total de 403 nuevos talentos en las regiones de
+Lima, La Libertad, Arequipa, Junín y Amazonas. Para el 2022, se proyecta la
+participación de 600 nuevos talentos.
+5.3. Actividades de gestión del acompañamiento
+5.3.1. Piloto de articulación con IES
+Buscó fortalecer las relaciones y el trabajo articulado con las IES en el marco del
+acompañamiento socioemocional y académico a los becarios y becarias en el
+contexto de pandemia. Se consideró la participación de 48 IES en 21 regiones del
+país que tienen mayor cantidad de talentos en situación de riesgo. Comprendió
+4 etapas: inicio de la articulación, establecimiento de acuerdos, implementación
+de acuerdos y medición de resultados finales. Las definiciones de los acuerdos
+están comprendidas en 5 componentes temáticos: académico, socioemocional,
+empleabilidad, voluntariado y de documentos normativos sobre rutas de atención.
+Se establecieron acuerdos con 46 IES, principalmente públicas, y se lograron
+cumplir todos con 21 de estas. Del mismo modo, con 19 se lograron cumplir los
+acuerdos de manera parcial y con 6 no se lograron cumplir los acuerdos.
+La evaluación de la estrategia se realizará en el 2022, con lo cual se podrá definir
+la propuesta final de la estrategia a implementar con todas las IES con las que se
+tienen convenios a nivel nacional.
+⁶⁸Con el objetivo de facilitar la adaptacion y evitar la desercion de sus estudiantes, algunas IES implementan programas de tutorías
+y mentorías entre pares, en las que buscan aproximarlos a la vida universitaria con el apoyo de otros estudiantes (Cotler, 2016;
+Munizaga et al, 2018). Un adecuado apoyo de los estudiantes genera una percepción favorable respecto a la carrera y la institución, lo
+cual a su vez se traduce, en el mediano plazo, en un buen rendimiento académico y en una menor posibilidad de deserción (Araneda-
+Guirriman et al, 2020).
+⁶⁹Este programa forma parte de la intervención del riesgo de deserción.
+MEMORIA ANUAL
+53
+2021
+
+================================================================================
+PÁGINA 54
+================================================================================
+5.3.2. Buenas prácticas de acompañamiento con enfoque intercultural
+Se desarrolló la propuesta “Pronabec Intercultural”⁷⁰, que busca reconocer y
+difundir las buenas prácticas de las IES en el acompañamiento con enfoque
+intercultural que han obtenido beneficios en la población becaria, y así promover
+su réplica en otras IES. La propuesta está constituida por tres fases⁷¹ y cuenta
+con el apoyo del Ministerio de Cultura en cada una de estas.
+En el 2022, se realizará entrevistas a becarios y becarias de las IES identificadas,
+a fin de que cuenten los beneficios que han obtenido a partir de las prácticas de
+acompañamiento con enfoque intercultural.
+5.3.3. Alianzas con entidades públicas y privadas
+Se generaron diversas alianzas con instituciones públicas y privadas, con el fin de
+prevenir factores de riesgo social, de salud física y/o mental, promover factores
+protectores y atender de forma oportuna situaciones de riesgo mencionadas.
+En el 2021, se trabajó con diez instituciones⁷² aliadas para la implementación de
+acciones de acompañamiento dirigidas a la comunidad becaria. Asimismo, se contó
+con el apoyo de nueve profesionales especializados de diferentes instituciones,
+denominados “Aliados Pronabec”, que brindaron apoyo en el desarrollo de los
+seminarios web para la población becaria que estudia en el territorio nacional y
+en el extranjero.
+5.4. Soporte académico
+5.4.1. Nivelación en matemáticas
+En el 2021, se implementó Nivélate 3.0, intervención preventiva de nivelación
+académica y acompañamiento socioemocional. El componente principal trata
+sobre el reforzamiento y supone la entrega de licencias de acceso a la plataforma
+de aprendizaje y evaluación adaptativa⁷³. En esta edición participaron 126
+becarios y becarias.
+⁷⁰En base a las características y necesidades de acompañamiento de nuestra población becaria y como parte de las actividades de
+articulación con las 48 IES priorizadas.
+⁷¹Convocatoria, identificación y sistematización, reconocimiento y difusión de buenas prácticas de las IES. En la etapa de convocatoria
+se realizó un seminario web de sensibilización con el Ministerio de Cultura dirigido a representantes de las IES priorizadas y de las
+Uccor, contando con 203 participantes de los cuales el 37 % fueron representantes de IES. Posteriormente, se les invitó a registrar
+sus buenas prácticas. De esta manera, 17 de las 48 IES invitadas se registraron y 13 de ellas reportaron que cuentan al menos con
+una buena práctica de los cuatro componentes.
+⁷²Seguro Integral de Salud, Programa de Voluntariado Bicentenario (PV) del Proyecto Especial Bicentenario (PEB) del Ministerio de
+Cultura, Superintendencia Nacional de Salud (Susalud), Dirección de la Educación Básica Especial (DEBE) del Ministerio de Educación,
+Dirección de Diversidad Cultural y Eliminación de la Discriminación Racial del Ministerio de Cultura, Dirección de Salud Mental del
+Ministerio de Salud, Dirección de Voluntariado del Ministerio de la Mujer y Poblaciones Vulnerables, Liga de Lucha contra el Cáncer,
+Programa de Naciones Unidas para el Desarrollo (PNUD) - Voluntarios ONU y el Programa de Educación Financiera - Reconecta del
+BCP.
+⁷³La plataforma utiliza inteligencia artificial para identificar lo que el estudiante domina, lo que está listo para aprender y lo que le
+falta practicar. En efecto, Aleks es una plataforma digital de apoyo académico en matemática que predice y propone contenidos
+de aprendizaje a partir de cuestionarios adaptativos. El componente secundario y complementario es el soporte pedagógico y
+de bienestar que supone el acompañamiento por parte de docentes y psicólogos. Los primeros designan las áreas temáticas de
+aprendizaje y monitorean el logro académico de cada participante mientras los segundos monitorean el aspecto emocional del mismo
+y ofrecen talleres de fortalecimiento de capacidades para el desarrollo socioemocional.
+MEMORIA ANUAL
+54
+2021
+
+================================================================================
+PÁGINA 55
+================================================================================
+El objetivo fue que los beneficiarios dominen al menos un 72 % de los temas
+propuestos dentro de la plataforma. La cantidad de temas planteados por la
+especialista de matemáticas fueron en promedio, en cinco clases, 247.
+Durante las 10 semanas de la intervención, el beneficiario promedio llegó a
+dominar un total de 180 temas, lo que representó un 73 % de progreso académico,
+alcanzando la meta propuesta de la intervención.
+Finalmente, solo 114 becarios y becarias (90.5 % de los 126 focalizados) llegaron a
+activar la licencia Aleks. Además, en promedio se contó con la presencia semanal
+de 83 estudiantes activos⁷⁴.
+5.5. Observatorio “Ponte en Carrera”⁷⁵
+El 20 de julio del 2021 se presentó la versión 5.0 de “Ponte en Carrera”. Esta
+versión consideró las 4 líneas de acción que marcarían la ejecución de trabajo
+para el portal: i) gestión de contenidos, ii) gestión interinstitucional, iii) difusión y
+promoción, y iv) soporte técnico de la plataforma. Asimismo, se gestionó el uso
+de la información más actualizada y disponible acerca de la oferta educativa y de
+la demanda laboral (Plame 2020), permitiendo la publicación de información de 9
+indicadores de la oferta educativa (carrera, familia de carrera, institución, duración
+de la carrera, matriculados, ingresantes, postulantes y nivel de selectividad) y
+tres indicadores de la demanda laboral (ingreso mensual promedio, 3 de cada 4
+ganan al menos e inserción laboral dependiente).
+Durante el 2021, se benefició a más de 218 500 usuarios⁷⁶. De estos, el 66 %
+fueron mujeres y el 34 %, hombres. En cuanto a su procedencia, el 66 % son de
+Lima Metropolitana y el 34 % del resto del país. En relación a las secciones más
+visitadas, “Descubre tu vocación” obtuvo más del 22 % de los accesos.
+Parte de los resultados favorables en cuanto al acceso corresponden a las
+acciones de promoción realizadas con diferentes instituciones o direcciones
+generales de educación, entre estas con la Digesu del Minedu, a partir de la
+inclusión de secciones y accesos de las herramientas de “Ponte en Carrera”
+en la plataforma “Aprendo en Casa”. Asimismo, se coordinó con el Servicio de
+Orientación Vocacional e Información Ocupacional (Sovio) del Ministerio de Trabajo
+y Promoción del Empleo (MTPE) la charla-capacitación sobre los beneficios e
+información que brinda el portal a más de 26 orientadores (psicólogos) de dicha
+institución que operan de manera descentralizada en las regiones del país.
+⁷⁴Lo que representó un 66 % del total de la población focalizada (126) y un 72.8 % del total de beneficiarios que activaron su licencia
+(114).
+⁷⁵El 4 de diciembre de 2019 se suscribió el Convenio de Cooperación Interinstitucional entre el Ministerio de Educación (Minedu), el
+Ministerio de Trabajo y Promoción del Empleo (MTPE) y el Instituto Peruano de Acción Empresarial (IPAE), con el objetivo de establecer
+acciones necesarias para el fortalecimiento del Observatorio de Educación y Empleo “Ponte en Carrera”, el cual ofrece a los jóvenes
+información oportuna de la oferta educativa y la demanda laboral. El 31 de diciembre de 2019, el Pronabec, en articulación con el MTPE
+e IPAE, lanzó la nueva plataforma “Ponte en Carrera” en su versión 4.0. Asimismo, el 30 de octubre de 2020 se realizó el lanzamiento
+de la versión 4.1, donde se renovaron los contenidos de interés para los jóvenes y se consideraron nuevos indicadores de la demanda
+laboral.
+⁷⁶Según Google Analytics para el periodo enero a diciembre de 2021.
+MEMORIA ANUAL
+55
+2021
+
+================================================================================
+PÁGINA 56
+================================================================================
+VI. Gestión eficiente, moderna y transparente
+6.1. Gestión interna del Pronabec
+Se aprobó el Código de Conducta del Pronabec⁷⁷.
+Se conformó y consolidó un equipo de servidores de enlace regional,
+integrado por servidores de cada Uccor y de la Oficina de Gestión del
+Talento (OGTA)⁷⁸.
+Se aprobó el “Plan Anual de Trabajo Archivístico del Programa Nacional
+de Becas y Crédito Educativo – 2022”⁷⁹.
+6.2. Consolidación de nuevas alianzas estratégicas e identificación de
+nuevas fuentes de financiamiento
+Se suscribió el convenio n.º 070-2021 entre el Pronabec y la minera
+Hudbay Perú SAC, por el que la empresa se comprometió a otorgar
+cuatro becas a preseleccionados⁸⁰ de Beca 18, convocatoria 2021, que
+hayan sido admitidos a profesiones afines a las actividades de la minera
+y que por motivo de cupos no hayan podido acceder a una beca. Los
+beneficiarios estudian las carreras de Ingeniería Electrónica, Ingeniería
+Civil, Derecho e Ingeniería de Sistemas e Informática⁸¹.
+Se difundió la postulación a la Beca Milla-Goñi⁸² entre la mayor cantidad
+de exbecarios y becarias del Pronabec. Se logró que tres exbecarias
+obtengan la beca para estudios de Maestría en Microbiología.
+⁷⁷Mediante Resolución Directoral Ejecutiva n.º 229-2021-MINEDU/VMGI-PRONABEC. Busca orientar, con enfoque preventivo, el
+comportamiento diario de los servidores y las servidoras de la entidad hacia el fortalecimiento de la ética pública y la integridad
+institucional. Asimismo, promueve el debido cumplimiento de los principios, deberes y prohibiciones previstos en la Ley del Código de
+Ética de la Función Pública, Ley n.º 27815.
+⁷⁸Con la finalidad de contar con personal en las Uccor que puedan contribuir a resolver, de manera inmediata, dudas de los servidores
+en las diferentes regiones sobre aspectos propios de la gestión de recursos humanos, utilización de módulos y aplicativos. Asimismo,
+que puedan participar como agentes activos en la difusión de información y con quienes se pueda coordinar acciones para el
+desarrollo de actividades que se ejecuten en relación a la mejora del clima y cultura institucional que impacten en el bienestar de
+todos los servidores.
+⁷⁹De acuerdo a la normatividad vigente por el Archivo General de la Nación. Establece mecanismos para optimizar y modernizar la
+gestión documental de los procedimientos técnicos archivísticos. Asimismo, permite contar con una herramienta informática para
+lograr la modernización en el manejo de la información y ubicación del mismo. Esto con el fin de brindar estándares para asegurar la
+calidad de la atención al ciudadano.
+⁸⁰De las zonas de influencia de la minera. En específico de los distritos de Velille, Chamaca y Livitaca, en la provincia de Chumbivilcas,
+departamento del Cusco.
+⁸¹Entre los beneficios que comprenden las becas otorgadas por Hudbay Perú se encuentran la contratación del Instituto Peruano
+de Fomento Educativo (IPFE), a fin de que brinde acompañamiento a los becarios y becarias y administre los fondos para el pago de
+universidades, manutención y otros gastos; compra y envío de laptops a cada uno de los ganadores; compra de seguro de salud;
+apertura de cuenta bancaria y transferencia de subvención y creación de grupos de WhatsApp para mantener la comunicación con
+los talentos.
+⁸²La Beca Milla-Goñi busca un mecanismo que provea apoyo económico para que estos jóvenes profesionales puedan acceder a
+estudios de posgrado una vez culminado el pregrado. Las becas son anuales y se otorgaron a través de un concurso por méritos
+académicos. Se cubre el monto por concepto de pensiones del primero al cuarto semestre, un estipendio mensual durante la tenencia
+de la beca, los montos de las matrículas, seguro médico y derecho de grado, un fondo complementario de investigación para reactivos
+y materiales y una computadora portátil. Sobre esta beca, cabe precisar que los exestudiantes de la Facultad de Ciencias y Filosofía
+(FCF) de la Universidad Peruana Cayetano Heredia, Marcos Milla y María Angélica Goñi, decidieron aportar un fondo que permita
+apoyar anualmente a exbecarios y exbecarias de Beca 18 y que les permita acceder a los programas de posgrado de la FCF. Asimismo,
+este fondo busca apoyar con el financiamiento a programas de maestría en ciencias, en las áreas de Bioquímica y Biología Molecular,
+Fisiología, Microbiología, Ciencias del Mar, Ciencias Ambientales, Conservación y Desarrollo Sostenible.
+MEMORIA ANUAL
+56
+2021
+
+================================================================================
+PÁGINA 57
+================================================================================
+Continuaron las coordinaciones con el Proyecto Qhapaq Ñan para las
+charlas informativas online “La importancia del Qhapaq Ñan, sistema
+vial andino”⁸³. Un total de 2852 becarios y becarias asistieron a las
+sesiones.
+Se coordinó con el Ministerio de Educación y con algunas entidades
+la realización de cursos sin costo⁸⁴ sobre lenguaje de señas y sistema
+Braille, dirigidos a los servidores del Pronabec que atienden al público.
+Se gestionó la realización del Taller de Lenguaje de Señas Peruanas-
+Básico I por parte del Centro Nacional de Recursos de la Educación
+Básica Especial (Cenarebe). Se capacitó a tres servidores de la OAGD.
+6.3. Mejoras en la atención al ciudadano
+Se logró un mayor número de atenciones telefónicas y disminuir el
+tiempo promedio de atención a los usuarios en el canal virtual⁸⁵.
+Se implementó el servicio de mensajería de gestión web (WhatsApp
+API)⁸⁶.
+Se trabajó el Plan de Comunicación Interno con las Uccor⁸⁷.
+Se implementó la Plataforma Digital Libro de Reclamaciones⁸⁸ y se
+capacitó a los usuarios designados por cada oficina del Pronabec.
+Se aprobó el procedimiento “Atender reclamos actualizado”, a fin de
+establecer disposiciones para la gestión de los reclamos para una
+atención rápida y efectiva en el Pronabec.
+Se aprobó el procedimiento “Notificar al ciudadano”⁸⁹, se implementó
+la actualización del Sistema de Gestión Documental (Sigedo) y se
+habilitaron las opciones de afiliación y acceso a la casilla electrónica en
+la página web del programa.
+Se atendieron 134 solicitudes de acceso a la información durante
+el 2021, lo que representa el 100 % de solicitudes dentro del plazo
+establecido por ley.
+Se digitalizaron con valor legal 2 020 508 imágenes relacionadas a las
+series documentales de legajos de becarios y becarias (2015 - 2019),
+así como resoluciones del período 2012 – 2017⁹⁰.
+⁸³Estas charlas se brindaron a becarios y becarias de Beca 18 y Beca Generación del Bicentenario, y tuvieron como objetivo principal
+que los participantes conozcan el valor histórico, cultural y económico de este camino inca. Este proyecto se inició en marzo del 2020,
+en el marco de la pandemia del COVID-19. Las charlas online tuvieron una duración de 45 minutos y se realizaron en la plataforma del
+Ministerio de Cultura. Para una mejor interacción, los participantes fueron organizados en grupos de 20 becarios y becarias. Para ello,
+se requirió que los participantes cuenten con internet, una laptop, un celular o una tablet para acceder a la plataforma.
+⁸⁴Previstos en el Plan de Desarrollo de las Personas.
+⁸⁵A pesar de las nuevas restricciones por el COVID-19 y el trabajo remoto, se atendieron consultas a través de nuestros canales de
+atención, logrando un incremento del porcentaje de atenciones con respecto al 2020.
+⁸⁶Con el fin de mejorar las atenciones mediante una plataforma de mensajería más automatizada y centralizada, logrando así disminuir
+tiempos de respuesta, centralizar procesos de mensajería, dividir la atención en diferentes agentes, entre otros.
+⁸⁷Unidades de Coordinación y Cooperación Regional.
+⁸⁸La plataforma permite que los ciudadanos registren reclamos y realicen el seguimiento respectivo. También ayuda que las entidades
+gestionen el reclamo, supervisen la atención y obtengan información detallada y estadística para la toma de decisiones de la Alta
+Dirección.
+⁸⁹Con Resolución Directoral Ejecutiva n.º 07-2021-MINEDU-VMGI-PRONABEC.
+⁹⁰En el marco legal de la “Norma Técnica Peruana 392.030-2:2015 MICROFORMAS – Requisitos para las organizaciones que operan
+sistemas de producción de microformas – Parte 2: Medios de archivo electrónico”, el Decreto Legislativo n.º 681 “Uso de Tecnologías
+Avanzadas en Materia de Archivo de Documentos e Información” y la Ley 26612 la que modifica el D.L. n.º 681, mediante el cual se
+regula el uso de tecnologías avanzadas en materia de archivo de documentos e información. Cabe resaltar que es la primera vez que
+el Pronabec digitaliza con valor legal su patrimonio institucional y da el paso hacia una gestión documental digital.
+MEMORIA ANUAL
+57
+2021
+
+================================================================================
+PÁGINA 58
+================================================================================
+Se aprobó el Programa de Control de Documentos Archivísticos (PCDA)⁹¹.
+Se presentó al Archivo General de la Nación (AGN) un expediente de
+eliminación correspondiente al fondo cerrado de la Oficina de Becas y
+Crédito, con un total de 13.49 metros lineales de documentos a eliminar,
+el mismo que fue autorizado por el AGN a través de la Resolución
+Jefatural n.° 161-2021-AGN/JEF.
+Se ejecutó el Módulo de Fiscalización Posterior, el cual permite notificar
+masivamente por correo electrónico⁹². Además, se implementó la firma
+y el envío masivo con un promedio de 200 oficios en una sola acción⁹³.
+6.4. Mejora continua de la imagen y posicionamiento del Pronabec
+La Oficina de Comunicaciones y Relaciones Institucionales (OCRI) empoderó
+la imagen del becario⁹⁴ y desde enero del 2019 inició el trabajo sistemático de
+contar sus historias. Esta buena práctica permitió que los talentos se conviertan
+en voceros del Pronabec y que miles de adolescentes y jóvenes los vean como un
+ejemplo de motivación para iniciar su propio camino de crecimiento profesional.
+Esto se acompañó con la promoción de los diferentes concursos de becas y
+créditos educativos que lanza el programa. Se buscó que los mensajes lleguen a la
+población escolar del quinto año de secundaria de escasos recursos económicos.
+El Pronabec, además, mantiene una presencia constante en los medios de
+comunicación. Durante el 2021, se difundieron 228 notas de prensa a nivel
+nacional y 60 crónicas sobre historias de nuestros becarios y becarias, cuya
+presencia en medios logró un impacto equivalente a S/17 009 525.14. Es decir,
+59 % más que en el 2020.
+⁹¹Herramienta de gestión documental que establece las series documentales, en soporte físico y/o electrónico, generadas por las
+unidades orgánicas del Pronabec en el ejercicio de sus funciones. De igual manera, identifica el valor permanente o temporal de la
+documentación, así como el periodo de retención en los archivos de gestión y el archivo central.
+⁹²Por ejemplo, se llegan a notificar 100 oficios en 15 minutos. Cabe precisar que sin la herramienta se notificaban tres oficios en 15
+minutos.
+⁹³La elaboración de los oficios se realiza a través de metadatos, lo que permite la producción de documentos estructurados y la
+reducción del margen de error. Dicha herramienta también cuenta con un reporte de incidencias que puede identificar la falla de forma
+inmediata.
+⁹⁴Tomado del “Informe de postulación al Premio Buenas Prácticas en Gestión Pública 2020”, en el que Pronabec fue premiado.
+MEMORIA ANUAL
+58
+2021
+
+================================================================================
+PÁGINA 59
+================================================================================
+Figura 6.1. Valor de los impactos en la prensa, años 2020 y 2021
+S/17 009 525
+59.27 %
+S/10 679 527
+Ene.-dic. 2020 Ene.-dic. 2021
+Fuente: Noticias Perú
+Asimismo:
+Se produjeron y difundieron más de 502 videos entre historias de
+talentos, notas informativas y tutoriales.
+Se cerró el año con más de 700 000 seguidores en Facebook y más
+de 147 000 en Instagram. La cuenta de LinkedIn del Pronabec también
+tuvo un avance importante y llegó a más de 50 000 seguidores
+Se atendieron más de 31 000 consultas en redes sociales.
+6.5. Presupuesto nominalizado
+Se logró que el 100 % del presupuesto se encuentre nominalizado por becario.
+Para el periodo de 2019-2021, se solicitó el presupuesto justificando los gastos
+en beneficiarios continuadores considerando lo que se gasta en cada beca y por
+cada becario.
+6.5.1. Mejoras en la gestión administrativa y financiera
+En el 2021, la ejecución de devengados por todas las genéricas de gasto del
+programa asciende a S/1 100 437 249.62. El detalle se puede apreciar en la tabla
+6.1.
+MEMORIA ANUAL
+59
+2021
+
+================================================================================
+PÁGINA 60
+================================================================================
+Tabla 6.1. Ejecución de devengados por todas las genéricas de gasto del Pronabec, 2021
+Genérica Descripción Fte. Fto PIM (a) Ejecución (b) Saldo (a-b) % Ejecución
+2.3 Bienes y servicios R.O 62 838 414.00 59 929 664.43 2 908 749.57 95.37 %
+2.5 Otros gastos R.O 937 114 678.00 915 181 582.78 21 933 095.22 97.66 %
+2.5 Otros gastos R.O.O.C 149 621,878.00 103 646 715.94 45 975 162.06 69.27 %
+2.6 Adquisición R.O 814 453.00 388 352.28 426 100.72 47.68 %
+de activos no
+financieros
+2.7 Crédito educativo R.O 20 370 693.00 20 263 441.35 107 251.65 99.47 %
+2.7 Crédito educativo R.D.R 2 992 404.00 1 027 492.84 1 964 911.16 34.34 %
+Total - - 1 173 752 520.00 1 100 437 249.62 73 315 270.38 93.75 %
+Se emitieron 2055 resoluciones jefaturales de administración entre las que destacan: i) 899 de aprobación de costos de
+subvenciones, ii) 615 de aprobación de calendario de pagos, iii) 477 de autorización de reconocimientos de deuda de años anteriores
+en subvenciones y servicios, entre otros de aprobación de expedientes de contratación de servicio, designación de miembros de
+comité de procedimientos de selección, autorización y modificaciones del PAC.
+Continuó la implementación del Sistema de Control Interno – SCI⁹⁵, que permitió el cumplimiento de manera oportuna con la
+presentación de los entregables de los tres ejes (Eje de Cultura Organizacional, Eje de Gestión de Riesgos y Eje de Supervisión),
+logrando al cierre del año un grado de madurez de la implementación del SCI del 100 %.
+Se implementó e informó al Órgano de Control Institucional del Ministerio de Educación el 92 % de las recomendaciones recibidas
+(12 de un total de 13 recomendaciones), quedando en proceso de implementación una recomendación⁹⁶.
+Se ejecutó el Plan de Supervisión de Ejecución de Subvenciones 2021⁹⁷.
+Se brindó asistencia técnica en la aplicación de las normas para la ejecución de subvenciones para estudios en el Perú y en el
+extranjero a las 24 Uccor de la Oconci.
+⁹⁵De conformidad con la Directiva n.° 006-2019-CG/INTEG.
+⁹⁶Se le viene haciendo el seguimiento y monitoreo a la unidad orgánica responsable para su implementación.
+⁹⁷A través del cual se identificaron alertas, respecto al proceso de pago oportuno a becarios y becarias e IES, tomando las acciones para superar las limitaciones de acuerdo a lo
+establecido en las normas técnicas para su ejecución a nivel nacional e internacional.
+MEMORIA ANUAL
+60
+2021
+
+================================================================================
+PÁGINA 61
+================================================================================
+En los resultados de la auditoría a los estados financieros y
+presupuestarios correspondientes al ejercicio fiscal 2020 no se
+determinaron deficiencias significativas, en tanto que la Carta de Control
+Interno identificó tres recomendaciones para su implementación.
+Se atendieron al 100 % todas las solicitudes de apertura de cuentas a
+becarios y becarias por las distintas modalidades de becas.
+VII. Más allá de la beca
+7.1 Acreditación del Compromiso de Servicio al Perú (CSP)
+En el 2021 se recibieron 2918 expedientes del CSP, de los cuales 2785 (71 %)
+cuentan con evaluación registrada y se ha emitido documento de respuesta
+para su notificación, mientras que 133 (29 %) aún se encontraban en proceso de
+atención. Respecto al primer grupo de expedientes evaluados y con documento
+de respuesta, el 94 % ya ha sido notificado y el 6 % se encuentra en proceso.
+Respecto a la cantidad de becarios y becarias que presentaron sus trámites
+de acreditación del CSP de manera agregada hasta el 2021, se tiene un total
+de 10 933 becarios y becarias, de los cuales 9126 cumplieron el CSP y 1807
+presentaron alguna observación referida a su acreditación⁹⁸. Respecto al 2019,
+la cantidad de becarios y becarias que cumplieron con el CSP se incrementó en
+42 %, pasando de 6439 a 9126.
+VIII. Gestión Presupuestal 2021⁹⁹
+En el 2021 el Presupuesto Institucional de Apertura (PIA) por toda fuente de
+financiamiento alcanzó los S/1226 millones. Al cierre del año, el Presupuesto
+Institucional Modificado (PIM) ascendió a S/1173 millones y la ejecución presupuestal,
+S/1100 millones (93.76 % de ejecución respecto al PIM). El detalle sobre los
+presupuestos asignados y ejecutados durante el período 2012-2021 se encuentra
+en la tabla 8.1.
+Respecto a la estructura del presupuesto, se observa que los Recursos Ordinarios
+(RO) han sido la principal fuente de financiamiento, representando un 87 % del PIM
+total en el 2021¹⁰⁰ (ver tabla 8.2 para más detalle).
+Si se analiza la estructura del presupuesto (PIM) asignado al Pronabec en el mismo
+periodo, a nivel de genéricas de gasto, se evidencia que la Genérica 5.25 “Otros
+gastos” (subvenciones financieras a becarios y becarias) representó, en el 2021, el
+92.59 % del presupuesto total (PIM) (ver tabla 8.3 para más detalle).
+⁹⁸De estos becarios y becarias, la mayoría corresponde a Becas Docentes (43.25 %) seguido de Beca 18 (24.87 %), Beca Idiomas
+(14.27 %), entre otras.
+⁹⁹Para mayor detalle ver Anexo IV.
+¹⁰⁰Siendo su mayor participación en el 2016, con el 99.1 %.
+MEMORIA ANUAL
+61
+2021
+
+================================================================================
+PÁGINA 62
+================================================================================
+Tabla 8.1. Presupuestos asignados y ejecutados 2012-2021 por toda fuente de financiamiento
+(expresado en millones de soles)
+Año 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+PIA 0 323.7 512 858.3 903 936.8 734.4 712.3 806.9 1226.4
+PIM 129.5 227.2 512.5 824.2 904.6 921.7 677.5 641.9 887.7 1173.8
+Ejecutado 121.1 216.8 481.6 812.1 896.7 865 656.1 630.5 819.9 1100.5
+% Ejecución/
+93.51 % 95.40 % 94 % 98.50 % 99.10 % 93.80 % 96.80 % 98.20 % 92.36 % 93.76 %
+PIM
+Fuente: SIAF-MPP / 10-02-2022. Elaboración: Oficina de Planificación y Presupuesto
+MEMORIA ANUAL
+62
+2021
+
+================================================================================
+PÁGINA 63
+================================================================================
+Tabla 8.2. Presupuesto (PIM) asignado por fuente de financiamiento 2012-2021
+(expresado en millones de soles)
+Fuente de
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+Financiamiento
+Recursos Ordinarios
+123.1 220.2 504.5 806.1 897.8 908.4 664.8 631.6 767.8 1021.14
+(RO)
+Recursos
+Directamente 6.3 7 8.1 18.1 6.8 13.3 12.7 10.3 10.2 2.99
+Recaudados (RDR)
+Donaciones y
+0.1 0 0 0 0 0 0 0 0 0
+Transferencias (DyT)
+Recursos Por
+Operaciones Oficiales 0 0 0 0 0 0 0 0 109.6 149.62
+de Crédito (ROOC)
+Total, PIM 129.5 227.2 512.5 824.2 904.6 921.7 677.5 641.9 887.6 1173.75
+% RO/Total PIM 95.10 % 96.90 % 98.40 % 97.80 % 99.30 % 98.60 % 98.10 % 98.40 % 86.50 % 87.00 %
+% RDR/Total PIM 4.80 % 3.10 % 1.60 % 2.20 % 0.70 % 1.40 % 1.90 % 1.60 % 1.15 % 0.25 %
+% ROOC/Total PIM 0 % 0 % 0 % 0 % 0 % 0 % 0 % 0 % 12.35 % 12.75 %
+Fuente: SIAF-MPP / 10-02-2022. Elaboración: Oficina de Planificación y Presupuesto
+MEMORIA ANUAL
+63
+2021
+
+================================================================================
+PÁGINA 64
+================================================================================
+Tabla 8.3. Distribución del PIM por genérica del gasto por toda fuente de financiamiento 2012-2021
+(expresado en millones de soles)
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+Genérica de gasto S/ S/ S/ S/ S/ S/ S/ S/ S/ S/
+(% Part.) (% Part.) (% Part.) (% Part.) (% Part.) (% Part.) (% Part.) (% Part.) (% Part.) (% Part.)
+29.6 40.6 45 50.6 48.7 45.2 43.6 54.13 58.26 62.84
+5-23: Bienes y
+servicios
+22.80 % 17.90 % 8.80 % 6.10 % 5.40 % 4.90 % 6.40 % 8.43 % 6.56 % 5.35 %
+0 0 0 0 0 0 4.2 0 0.05 0
+5-24: Donaciones y
+transferencias
+0.00 % 0.00 % 0.00 % 0.00 % 0.00 % 0.00 % 0.60 % 0.00 % 0.06 % 0.00 %
+90.4 177.1 456.3 754.5 845.9 862 616.1 576.03 799.62 1086.74
+5-25: Otros gastos
+69.80 % 78.00 % 89.00 % 91.50 % 93.50 % 93.50 % 91.00 % 89.74 % 90.03 % 92.59 %
+2.7 2.5 3.2 1.4 0.8 1.2 0.8 1.42 0.71 0.81
+6-26: Adquisición de
+activos no financieros
+2.10 % 1.10 % 0.60 % 0.20 % 0.10 % 0.10 % 0.10 % 0.22 % 0.08 % 0.07 %
+6.9 7 8 17.7 9.2 13.3 12.7 10.3 29.04 23.36
+6-27: Adquisición de
+activos financieros
+5.30 % 3.10 % 1.60 % 2.10 % 1.00 % 1.40 % 1.90 % 1.60 % 3.27 % 1.99 %
+129.5 227.2 512.5 824.2 904.6 921.7 677.5 641.88 887.68 1173.75
+Total PIM
+100 % 100 % 100 % 100 % 100 % 100 % 100 % 100 % 100 % 100 %
+Fuente: SIAF-MPP / 10-02-2022. Elaboración: Oficina de Planificación y Presupuesto
+MEMORIA ANUAL
+64
+2021
+
+================================================================================
+PÁGINA 65
+================================================================================
+Si se analiza el presupuesto en el periodo 2012-2021, se observa que las asignaciones del
+presupuesto en subvenciones financieras para becarios y becarias se han mantenido en
+más del 90 % del PIM, siendo el mayor porcentaje de asignación los años 2016 y 2017, en
+los que representó el 93.5 % respecto a este presupuesto. Esto no ha ocurrido en el caso
+de los bienes y servicios, que han experimentado una disminución en su participación,
+pasando de 22.8 % en el 2012 al 5.35 % en el 2021¹⁰¹.
+En el marco de la Gestión por Resultados, en el 2021, el presupuesto ejecutado con
+respecto a la categoría Programa Presupuestal 0122, denominado “Acceso y permanencia
+de población con alto rendimiento académico a una educación superior de calidad”, cuyo
+principal producto es Beca 18, ascendió a S/654,30 millones, monto que representó
+el 59.43 % del total del presupuesto ejecutado de la institución durante el año 2021.
+Asimismo, el monto ejecutado en crédito educativo, becas de posgrado, becas especiales
+y becas de pregrado, concesión de Crédito para Continuidad de estudios con cargo a
+la Categoría de Asignaciones Presupuestarias que no Resultan en Productos (APNOP),
+ascendió a S/420.28 millones, monto que representó el 38.19 % del presupuesto total
+ejecutado en el año.
+¹⁰¹Esto último debido principalmente a un considerable incremento en la participación del presupuesto destinado a subvenciones
+financieras a los becarios y becarias nuevos y continuadores. Finalmente, las asignaciones para créditos educativos han decrecido a
+1.99 %, con respecto a los períodos anteriores.
+MEMORIA ANUAL
+65
+2021
+
+================================================================================
+PÁGINA 66
+================================================================================
+IX. Lecciones aprendidas
+Revisión constante de los criterios de asignación de becas para su distribución más
+equitativa y eficiente
+En los últimos años se ha logrado asignar cerca del 100 % de las becas previstas. Sin
+embargo, hay espacios de mejora para lograr una distribución más balanceada, tanto en el
+tipo de gestión de IES (público/privado), así como en el ámbito geográfico (Lima/regiones).
+La información de la calidad de las IES es relevante para la toma de decisiones de los
+postulantes
+En los últimos años, el programa ha venido incorporando información de los rankings de
+las universidades, así como de los retornos estimados de las carreras, de manera que los
+participantes puedan considerarlos al momento de decidir a qué IES postulan. Esto se ha
+reflejado en el incremento de las becas asignadas por calidad y por retornos de carrera.
+Importancia de una incorporación progresiva del enfoque de Presupuesto por Resultados
+para las becas gestionadas por el programa
+Tomando como referencia los casos de Beca 18 y Beca Permanencia, que se vienen
+gestionando en el marco del Presupuesto por Resultados, a través del Programa
+Presupuestal 122 “Acceso y permanencia de población con alto rendimiento académico
+a una educación superior de calidad”, se aprecia una mayor sostenibilidad en su
+financiamiento. Se recomienda la revisión de las becas que puedan incorporarse, de
+forma progresiva, al programa presupuestal.
+Es necesario seguir convocando más becas para educación técnico-productiva, con
+el fin de brindar una atención más personalizada a la población objetivo. Asimismo, se
+debe considerar a IES que ofertan cursos o módulos de capacitación no ad hoc debido
+al riesgo de no ser implementados por la falta de estudiantes.
+La difusión de la Beca Inclusión Técnico-Productiva, llevada a cabo en coordinación con
+Conadis, permitió llegar a las personas con discapacidad. Asimismo, teniendo en cuenta
+las características requeridas para la población objetivo (mínimo haber culminado la
+primaria, sin límite de edad, provenientes de regiones, con limitaciones de conectividad,
+desconocimiento de TIC, entre otras), es necesario considerar un plazo más amplio para
+la difusión de la beca, así como acciones diferenciadas.
+Por otro lado, como se mencionó anteriormente, es importante considerar a IES que
+ofertan cursos o módulos de capacitación no ad hoc. Ello, porque durante el proceso de
+elegibilidad de las IES para la convocatoria 2022 estas, mediante carta de compromiso,
+se comprometieron a incorporar a los becarios del Pronabec en cursos que se ofrecen de
+manera regular al público en general, con el fin de garantizar el inicio oportuno del servicio
+educativo.
+El adecuado aprovechamiento de plataformas permitió llegar a una mayor cantidad de
+población becaria
+La plataforma de acompañamiento virtual “Aprende +” permitió brindar cursos orientados
+a adquirir herramientas y competencias para su bienestar. Los cursos tuvieron una buena
+aceptación, siendo que el 98 % del total de becarios matriculados los culminó durante
+el semestre programado. Asimismo, la Plataforma ExpoTalentos Pronabec contribuyó a
+que los becarios egresados puedan registrar información relacionada a sus perfiles y
+que dicha información sea de acceso a instituciones y empresas, permitiendo que los
+talentos cuenten con la posibilidad de acceder y postular a las convocatorias laborales
+publicadas por los reclutadores de personal.
+MEMORIA ANUAL
+66
+2021
+
+================================================================================
+PÁGINA 67
+================================================================================
+El trabajo articulado entre el Pronabec y el Minedu permitió promover la participación
+de becarios de las carreras de Educación en el proceso de contratación docente bajo la
+modalidad de contratación directa
+En coordinación con la Dirección Técnico Normativa del Minedu, el concurso de
+Contratación Docente de dicho ministerio permitió que un mayor número de becarios
+accedan a oportunidades de desarrollo profesional respecto al año anterior.
+La intervención de riesgo de deserción permitió confirmar que las necesidades
+socioemocionales de becarios y becarias requieren ser atendidas
+Si bien las necesidades académicas son muy importantes, no están desligadas de las
+del tipo socioemocional, lo que implica contar con la identificación de los servicios que
+brindan las IES o los aliados para motivar y derivar la atención de becarios y becarias.
+Asimismo, es necesario contar con profesionales preparados y con tiempo disponible
+para atender estas necesidades.
+Fortalecimiento del Sirat mediante la optimización de algoritmos de inteligencia artificial
+La identificación de los becarios en riesgo de abandonar los estudios o perder la beca
+tiene un rol muy relevante en el adecuado acompañamiento de los mismos, ya que
+permite otorgar paquetes diferenciados que responden directamente a las necesidades
+del joven. Para ello, es necesario que el Sistema de Identificación de Riesgo y Alerta
+Temprana (Sirat) esté en constante actualización. Se hace necesaria la constante revisión
+del algoritmo de inteligencia artificial y la inclusión de nuevas variables, de manera que la
+predicción sea más certera y pueda identificar de una forma más precisa a los talentos
+en riesgo. Del mismo modo, es fundamental que esta predicción se presente de manera
+oportuna a las oficinas correspondientes, para que la intervención a estos estudiantes se
+realice en el momento que ellos lo necesitan. A partir de ello, es necesario contar con el
+fortalecimiento de este tipo de herramientas innovadoras que permitan agilizar y escalar
+los procesos de identificación e intervención.
+Plataforma de Apoyo y Orientación Vocacional (PAO): Plataforma virtual de creciente
+aceptación por los preseleccionados de Beca 18
+La PAO se ha posicionado como una plataforma virtual de alcance nacional que busca
+brindar apoyo y orientación al estudiante con acompañamiento virtual de un equipo
+especializado. Esta herramienta ha permitido intervenir a una población que no había sido
+atendida por el Pronabec: los postulantes inscritos con registro completo. En ese sentido,
+la PAO y sus tres componentes (Orientación Vocacional, Oferta Educativa, Prepárate)
+buscan empoderar, motivar e informar oportunamente al estudiante en su proceso de
+transición a la educación superior. Por lo tanto, la PAO, como una propuesta escalable,
+permitirá al Pronabec continuar informando de manera oportuna a más talentos del
+territorio nacional.
+MEMORIA ANUAL
+67
+2021
+
+================================================================================
+PÁGINA 68
+================================================================================
+Estrategia de comunicación que pone en valor al talento Pronabec
+En el 2021, aprendimos que los talentos del Pronabec son los líderes que el Perú necesita.
+En un contexto de pandemia, en el cual el país requería de soluciones para enfrentar
+la crisis, los becarios y egresados de las becas del Estado peruano aportaron con sus
+conocimientos. La sociedad conoció su labor a través de la difusión de sus testimonios
+en los medios de comunicación. Sus notables historias de vida captaron el interés de las
+diversas audiencias nacionales e incentivaron la esperanza en medio de la incertidumbre.
+Las historias de los talentos que difunde el Pronabec son motivadoras, porque provienen
+de jóvenes que nos hablan con pasión sobre innovaciones tecnológicas, intervenciones
+sociales, proyectos ambientales, desarrollos científicos, voluntariados y emprendimientos
+diversos. La prensa, en medio de un contexto adverso, comprendió que también se
+requieren noticias alentadoras y las que provienen de los talentos Pronabec son las
+idóneas. Hoy, la noticia ya no es la historia del joven que venció a la pobreza con sus
+estudios, sino la del profesional que gracias a sus estudios superiores y la aplicación de
+los conocimientos adquiridos abre caminos para que más peruanos tengan la oportunidad
+de mejorar su calidad de vida.
+Posicionar al Pronabec en la opinión pública a través de sus beneficiarios
+La estrategia de comunicación externa del Pronabec, protagonizada por sus talentos
+o beneficiarios, ha permitido lograr una importante cobertura por parte de los medios
+de comunicación del país. La Oficina de Comunicaciones y Relaciones Institucionales
+de la institución produce contenidos de interés público, que colocan a los beneficiarios
+como protagonistas principales de la noticia y que refuerzan la difusión de los diferentes
+concursos. Es así que, pese a un contexto externo dominado por la pandemia, en el 2021
+se logró difusión en la prensa de contenidos generados por el Pronabec por un valor
+superior a los S/17 millones, 59 % por encima del valor alcanzado en el 2020.
+Importancia de alcanzar una eficaz y eficiente gestión de la información para la toma de
+decisiones estratégicas relacionadas a los talentos del Pronabec
+Con la puesta en marcha del nuevo reglamento que cambia y flexibiliza las reglas de los
+becarios ampliando sus oportunidades para culminar satisfactoriamente sus estudios, se
+abrió también una serie de retos para el Pronabec relacionados a contar con información
+oportuna para la toma de decisiones estratégicas. Es así que, desde el 2021, se viene
+realizando esfuerzos por potenciar el método de recojo de información mediante la
+creación de sistemas que incluye el desarrollo de módulos informáticos que unifiquen la
+información recabada en los diversos procesos internos y normas que los regulan, lo cual
+debe continuar y fortalecerse en el 2022.
+La demanda creciente de estudiantes en riesgo de no continuar en la educación superior,
+ante la situación de crisis económica y social vivida en los últimos dos años, requiere
+la evaluación de nuevos mecanismos de financiamiento para el apoyo a la educación
+superior
+Ante la demanda creciente de estudiantes en riesgo de continuar en la educación superior
+debido a la crisis económica y social vivida en los últimos dos años, se analizaron nuevos
+mecanismos de financiamiento que permitan incrementar su apoyo con un esquema
+sostenible a largo plazo. Es así que se elaboró un white paper con la propuesta de
+intervención “Beca-crédito”, alternativa incorporada con la entrada en vigencia del nuevo
+reglamento del Pronabec que permitiría ampliar la cobertura de apoyo de financiamiento
+de la educación superior de talentos en un esquema sostenible.
+MEMORIA ANUAL
+68
+2021
+
+================================================================================
+PÁGINA 69
+================================================================================
+REFERENCIAS
+Araneda-Guirriman, C., Obregón, A., Pérez, P. & Catari-Vargas, D. (2020). Percepción
+de los estudiantes tutorados sobre el programa de tutores pares y su relación con el
+desempeño académico: evidencia desde el norte de Chile. Formación Universitaria, 13(3),
+19-30. http://dx.doi.org/10.4067/S0718-50062020000300019
+Arregui, P. (1993) Empleo, ingresos y ocupaciones de los profesionales técnicos en el
+Perú. Lima: GRADE.
+Castro, J. F. and G. Yamada (2010). Educación superior e ingresos laborales: estimaciones
+paramétricas y no paramétricas de la rentabilidad por niveles y carreras en el Perú.
+DD/10/06, Universidad del Pacifico.
+Cotler, J. (2016). Educación Superior e Inclusión Social. Un estudio cualitativo de los
+becarios del programa Beca 18. En Instituto de Estudios Peruanos & Programa Nacional
+de Becas y Crédito Educativo, Serie Estudios Breves. Lima. Recuperado de http://www.
+pronabec.gob.pe/modPublicaciones/descarga/serie7educacionsuper ior.pdf
+Encuesta Nacional de Hogares, ENAHO (2020). Recuperado de: http://iinei.inei.gob.pe/
+microdatoS/Consulta_por_Encuesta.asp
+ESCALE (2020). Indicadores. Recuperado de: http://escale.minedu.gob.pe/indicadores
+Herrera, J. (2001) La pobreza en el Perú 2001. Una visión departamental. Lima: Instituto
+Nacional de Estadística e Informática. Recuperado de: https://www.inei.gob.pe/media/
+MenuRecursivo/publicaciones_digitaleS/Est/Lib0500/Libro.pdf
+Ferreyra, María Marta; Ciro Avitabile, Javier Botero Álvarez; Francisco, Haimovich Paz
+y Sergio, Urzúa (2017). Momento decisivo: la educación superior en América Latina
+y el Caribe. Resumen. Washington, DC: Banco Mundial. Licencia: Creative Commons
+Attribution CC BY 3.0 IGO
+Instituto Nacional de Estadística e Informática - INEI (2011). Perú: determinantes de la
+pobreza, 2009. INEI - Centro de Investigación y Desarrollo (CIDE). Lima.
+Instituto Nacional de Estadística e Informática (2019). Perú: Indicadores de educación
+por departamento 2008 y 2018. Recuperado de: https://www.inei.gob.pe/media/
+MenuRecursivo/publicaciones_digitales/Est/Lib1680/
+Instituto Nacional de Estadística e Informática (2018). Microdatos Recuperado de: http://
+iinei.inei.gob.pe/microdatoS/
+Instituto Nacional de Estadística e Informática - INEI (2022). Informe Técnico de
+Producción Nacional n.º 02 – febrero 2022
+Lavado, P., Martínez, J. y Yamada, G. (2015). Calidad de la educación superior y desigualdad
+en los retornos en el Perú, 2012. Documento de Trabajo No. 58. Lima: Asociación Peruana
+de Economía. Recuperado de: http://repositorio.minedu.gob.pe/handle/123456789/4615
+MEMORIA ANUAL
+69
+2021
+
+================================================================================
+PÁGINA 70
+================================================================================
+León, J., y Sugimaru, C. (2013) Entre el estudio y el trabajo: Las decisiones de los jóvenes
+peruanos luego de concluir la educación básica regular. Grade: Lima. Recuperado de:
+http://www.grade.org.pe/upload/publicacioneS/archivo/download/pubS/AI11.pdf
+Munizaga, F., Cifuentes, M. & Beltrán, A. (2018). Retención y Abandono Estudiantil en la
+Educación Superior Universitaria en América Latina y el Caribe: Una Revisión Sistemática.
+Archivos Analíticos de Políticas Educativas, 26(61), 1-32. https://doi.org/10.14507/
+epaa.26.3348
+OECD (2019). Education at a Glance 2019: OECD Indicators. OECD Publishing, Paris,
+https://doi.org/10.1787/f8d7880d-en.
+Programa Nacional de Becas y Crédito Educativo (2014). Lineamientos de Política para
+un sistema de becas y créditos subsidiados por una educación superior de calidad 2014-
+2021. Lima: Ministerio de Educación, 2014.
+Urzúa, S. (2012). The Economic Returns to Higher Education in Chile: Revising the
+Foundations of 30 Years of Public Policies. Estudios Públicos 125, 2-52.
+Valdivia, M., & Robles, M. (1997). Decisiones laborales en las economías rurales del Perú
+(No. E10 G3n No. 14-S). Grupo de Análisis para el Desarrollo, Lima (Perú).
+Yamada, G. y Castro, Juan F. (2012). La educación que queremos. Departamento de
+Economía, Universidad del Pacífico Chapters of Books, 1, 403-442.
+Yamada, G., Rivera, M., y Castro, Juan F. (2013). Educación Superior en el Perú: Retos
+para el Aseguramiento de la Calidad. Sistema Nacional de Evaluación, Acreditación y
+Certificación de la Calidad Educativa - SINEACE.
+Yamada, G., Lavado, P. y Oviedo, N. (2015). Valor de la Información en Educación Superior
+y Efecto de la Calidad Universitaria en Remuneraciones en el Perú. Documento de Trabajo
+No. 57. Lima: Asociación Peruana de Economía. Recuperado de: https://repositorio.
+minedu.gob.pe/handle/20.500.12799/4616
+MEMORIA ANUAL
+70
+2021
+
+================================================================================
+PÁGINA 71
+================================================================================
+ANEXO I
+Articulación estratégica
+Visión del Perú al 2050
+La articulación se da con el eje estratégico 1: “Las personas alcanzan su potencial en igualdad
+de oportunidades y sin discriminación para gozar de una vida plena”, que señala que el Estado
+garantiza una educación pública y privada de calidad, inclusiva e integral en todas sus modalidades.
+Asimismo, que la educación superior se adecúa a las realidades y potencialidades de los diferentes
+territorios. La visión servirá como base para la formulación del Plan Estratégico de Desarrollo
+Nacional al 2050.
+Política Nacional de Educación Superior y Técnico-Productiva
+La articulación se da con el objetivo prioritario 1: “Incrementar el acceso equitativo de la población
+a la educación superior y técnico-productiva”, cuyo lineamiento 1.3 incluye la implementación de
+mecanismos de apoyo a dicho público objetivo.
+Política Nacional de la Juventud
+La articulación se da con el lineamiento 1.3 que es “incrementar el acceso, la promoción y la
+culminación en la formación técnico-productiva y educación superior de la población joven”, del
+objetivo prioritario 1, que busca el desarrollo de las competencias en el proceso educativo de la
+población joven.
+Política Nacional de Competitividad y Productividad
+El Pronabec participa de la medida de política 2.5 – “Observatorio Integrado de Educación y Empleo”,
+a través del diseño e implementación de la plataforma “Ponte en Carrera” en coordinación con el
+Minedu, el Ministerio de Trabajo y Promoción del Empleo (MTPE) e IPAE Asociación Empresarial.
+Acuerdo Nacional
+La política institucional del Pronabec se articula con la décima política de Estado: reducción de la
+pobreza, que forma parte del segundo gran objetivo, que es equidad y justicia social.
+MEMORIA ANUAL
+71
+2021
+
+================================================================================
+PÁGINA 72
+================================================================================
+Plan Bicentenario: el Perú al 2021
+Hasta la actualización del Plan Estratégico de Desarrollo Nacional al 2030, se seguirá utilizando
+el Plan Estratégico de Desarrollo Nacional Actualizado hacia el 2021, que tiene una perspectiva
+de largo plazo. La articulación se da en relación al eje estratégico 2 del plan, denominado
+“Oportunidades y Acceso a los Servicios”, específicamente en la sección de educación, donde
+se vincula con el lineamiento de política n.° 10: “Impulsar el mejoramiento de la calidad de la
+educación superior y su aporte al desarrollo socioeconómico y cultural, para que a través de la
+formación profesional y una oferta que corresponda a las prioridades del desarrollo se logre la
+inserción competitiva del Perú en la economía mundial”.
+Proyecto Educativo Nacional al 2036: el reto de la Ciudadanía Plena
+El Proyecto Educativo Nacional (PEN) surge como mandato del artículo 7 de la Ley General de
+Educación. En tal sentido, el PEN constituye la política general del sector educación, el cual
+orienta la formulación de políticas nacionales específicas. El documento actual del PEN fue
+aprobado como política de Estado por Decreto Supremo n.° 009-2020-MINEDU y tiene vigencia
+hasta el 2036. En este se expresan cuatro propósitos: vida ciudadana, inclusión y equidad,
+bienestar socioemocional y productividad, prosperidad, investigación y sostenibilidad, así como
+diez orientaciones estratégicas. El Consejo Nacional de Educación (CNE) tiene como finalidad
+participar en la formulación, concertación, seguimiento y evaluación, entre otros, del PEN.
+Plan Estratégico Sectorial Multianual de Educación 2016-2024
+El segundo objetivo estratégico sectorial del Plan Estratégico Sectorial Multianual de Educación
+2016-2024 consiste en “garantizar una oferta de educación superior y técnico-productiva que
+cumpla con condiciones básicas de calidad”. En específico, se busca asegurar que los jóvenes
+tengan igualdad de oportunidades en el acceso a una educación superior de calidad, de tal manera
+que se generen profesionales y técnicos capaces de liderar la producción de conocimiento y
+contribuyan con el desarrollo sostenible del país a través de la innovación y tecnología.
+Plan Estratégico Institucional del Ministerio de Educación 2019-2024
+En el marco del Plan Estratégico Institucional del Ministerio de Educación 2019-2022, la política
+institucional del Pronabec se articula con el segundo objetivo estratégico institucional denominado
+“Fortalecer el acceso a una formación de calidad con equidad en los estudiantes de la educación
+técnico-productiva y superior (tecnológica, artística y universitaria)”. Así, se articula de manera
+específica con la novena acción estratégica institucional “Programa de becas y crédito educativo
+efectivo para el acceso a educación técnico-productiva y superior de calidad de jóvenes con alto
+rendimiento académico y de bajos o insuficientes recursos económicos”.
+MEMORIA ANUAL
+72
+2021
+
+================================================================================
+PÁGINA 73
+================================================================================
+ANEXO II
+Tabla A2.1. Región de origen de los beneficiarios de Beca 18, convocatoria 2021
+Región Becarios y becarias Porcentaje
+Amazonas 457 2.45 %
+Áncash 435 2.33 %
+Apurímac 764 4.09 %
+Arequipa 411 2.2 %
+Ayacucho 921 4.93 %
+Cajamarca 615 3.29 %
+Callao 661 3.54 %
+Cusco 1042 5.58 %
+Huancavelica 692 3.7 %
+Huánuco 737 3.94 %
+Ica 302 1.62 %
+Junín 1463 7.83 %
+La Libertad 404 2.16 %
+Lambayeque 488 2.61 %
+Lima 5417 28.98 %
+Loreto 811 4.34 %
+Madre de Dios 77 0.41 %
+Moquegua 50 0.27 %
+Pasco 287 1.54 %
+Piura 1060 5.67 %
+Puno 680 3.64 %
+San Martín 507 2.71 %
+Tacna 133 0.71 %
+Tumbes 87 0.47 %
+Ucayali 189 1.01 %
+Total 18 690 100 %
+Fuente: Sistema Integrado de Becas (Sibec)
+MEMORIA ANUAL
+73
+2021
+
+================================================================================
+PÁGINA 74
+================================================================================
+Tabla A2.2. Beca 18, asignación de becas por tipo de gestión de la IES, convocatorias 2018 - 2021
+Convocatoria 2018 Convocatoria 2019 Convocatoria 2020 Convocatoria 2021
+Tipo de gestión
+N % N % N % N %
+Asociativa 715 38 % 1577 49 % 2073 44 % 3034 61 %
+Societaria 562 30 % 1440 45 % 2392 50 % 1644 33 %
+Pública 582 31 % 178 6 % 275 6 % 318 6 %
+Total 1859 100 % 3195 100 % 4740 100 % 4996 100 %
+Elaboración: Oficina de Planificación y Presupuesto - Pronabec
+Tabla A2.3. Beca 18, región de postulación de becarios y becarias, convocatorias 2018 – 2021
+Convocatoria 2018 Convocatoria 2019 Convocatoria 2020 Convocatoria 2021
+Tipo de gestión
+N % N % N % N %
+Región Lima 447 24 % 1017 32 % 1792 38 % 1305 26 %
+Otras regiones 1402 76 % 2178 68 % 2948 62 % 3691 74 %
+Total 1859 100 % 3195 100 % 4740 100 % 4996 100 %
+Elaboración: Oficina de Planificación y Presupuesto - Pronabec
+MEMORIA ANUAL
+74
+2021
+
+================================================================================
+PÁGINA 75
+================================================================================
+Tabla A2.4. Beca 18, región de estudios elegida por becarios y becarias, convocatorias 2018 - 2021
+Convocatoria 2018 Convocatoria 2019 Convocatoria 2020 Convocatoria 2021
+Tipo de gestión
+N % N % N % N %
+Región Lima 931 50 % 2348 73 % 3628 77 % 3710 74 %
+Otras regiones 928 50 % 848 27 % 1112 23 % 1286 26 %
+Total 1859 100 % 3195 100 % 4740 100 % 4996 100 %
+Elaboración: Oficina de Planificación y Presupuesto - Pronabec
+Tabla A2.5. Becas otorgadas en la convocatoria 2021 en países del mundo - Beca Generación del Bicentenario
+País n.º de becarios y becarias
+España 44
+Estados Unidos 27
+Argentina 21
+Reino Unido 20
+Australia 15
+Países Bajos 6
+Brasil 4
+Francia 4
+Suiza 3
+Chile 3
+Canadá 2
+Taiwán 1
+Alemania 1
+Total 151
+Fuente: Sistema Integrado de Becas (Sibec)
+MEMORIA ANUAL
+Elaboración: Oficina de Gestión de Becas (OBE) 75
+2021
+
+================================================================================
+PÁGINA 76
+================================================================================
+Tabla A2.7. Beca Continuidad, asignación de becas por tipo de gestión de la IES, convocatorias 2020 - 2021
+Convocatorias 2020 - I y 2020 - II Convocatoria 2021
+Tipo de gestión
+N % N %
+Societaria 12 934 54 % 3986 40 %
+Asociativa 7153 30 % 2799 28 %
+Pública 3955 16 % 3266 32 %
+Total 24 042 100 % 10 051 100 %
+Elaboración: Oficina de Planificación y Presupuesto - Pronabec
+Tabla A2.8. Beca Continuidad, región de estudios elegida por becarios y becarias, convocatorias 2020 - 2021
+Convocatorias 2020 - I y 2020 - II Convocatoria 2021
+Tipo de gestión
+N % N %
+Región Lima 9441 39 % 2907 29 %
+Otras regiones 14 601 61 % 7144 71 %
+Total 24 042 100 % 10 051 100 %
+Elaboración: Oficina de Planificación y Presupuesto - Pronabec
+MEMORIA ANUAL
+76
+2021
+
+================================================================================
+PÁGINA 77
+================================================================================
+Tabla A2.9. Distribución de beneficiarios activos de crédito educativo por género, 2021
+Género Cantidad de créditos Participación (%)
+Mujeres 1603 58 %
+Hombres 1184 42 %
+Total 2787 100 %
+Fuente: Oficina de Gestión de Crédito Educativo
+MEMORIA ANUAL
+77
+2021
+
+================================================================================
+PÁGINA 78
+================================================================================
+Tabla A2.10. Distribución de desembolsos según región de procedencia de
+beneficiarios activos (en miles de soles) Crédito Educativo, 2021
+Región de Cantidad de Monto
+Participación (%)
+procedencia créditos desembolsado (S/)
+Lima 1536 14 473 084 65.5 %
+Arequipa 159 956 535 4.3 %
+Cusco 147 891 392 4.0 %
+Junín 108 748 397 3.4 %
+Callao 99 995 624 4.5 %
+La Libertad 79 417 666 1.9 %
+Lambayeque 65 345 694 1.6 %
+Piura 64 362 712 1.6 %
+Puno 64 356 738 1.6 %
+Áncash 63 377 444 1.7 %
+Cajamarca 55 214 785 1.0 %
+Tacna 50 314 935 1.4 %
+San Martín 38 205 093 0.9 %
+Ayacucho 38 223 318 1.0 %
+Ica 37 306 075 1.4 %
+Apurímac 32 146 371 0.7 %
+Huánuco 31 201 787 0.9 %
+Amazonas 24 124 489 0.6 %
+Tumbes 22 90 304 0.4 %
+Loreto 19 65 164 0.3 %
+Ucayali 15 81 592 0.4 %
+Huancavelica 13 73 536 0.3 %
+Madre de Dios 12 42 028 0.2 %
+Moquegua 10 47 162 0.2 %
+Pasco 7 26 159 0.1 %
+Total 2787 22 088 085 100.0 %
+Fuente: Oficina de Gestión de Crédito Educativo.
+Fecha de corte: Al mes de diciembre de 2021
+MEMORIA ANUAL
+78
+2021
+
+================================================================================
+PÁGINA 79
+================================================================================
+Tabla A2.11. Distribución de beneficiarios activos
+por género en Crédito Talento, 2021
+Género Cantidad de créditos Participación (%)
+Mujeres 128 67 %
+Hombres 63 33 %
+Total 191 100 %
+Fuente: Oficina de Gestión de Crédito Educativo.
+Fecha de corte: Al mes de diciembre de 2021
+Tabla A2.12. Distribución de desembolsos según región de procedencia de
+beneficiarios activos (en miles de soles) Crédito Talento, 2021
+Región de Cantidad de Monto
+Participación (%)
+procedencia créditos desembolsado (S/)
+Lima 80 393 262 50.4 %
+Piura 11 33 947 4.3 %
+Junín 10 56 808 7.3 %
+Lambayeque 10 36 660 4.7 %
+Arequipa 9 41 098 5.3 %
+Callao 8 44 926 5.8 %
+Cusco 8 29 505 3.8 %
+La Libertad 8 12 870 1.6 %
+Cajamarca 6 26 893 3.4 %
+Áncash 6 21 097 2.7 %
+Ica 6 17 701 2.3 %
+Puno 4 4264 0.5 %
+Tacna 4 12 337 1.6 %
+Loreto 4 15 858 2.0 %
+San Martín 3 * 0.0 %
+Ucayali 3 10 411 1.3 %
+Tumbes 3 6308 0.8 %
+Huánuco 2 6567 0.8 %
+Apurímac 2 1633 0.2 %
+Moquegua 2 3550 0.5 %
+Amazonas 1 3923 0.5 %
+Madre de Dios 1 971 0.1 %
+Total 191 78 590 100.0 %
+*En ejecución de desembolso
+Fuente: Oficina de Gestión de Crédito Educativo
+Fecha de corte: Al mes de diciembre de 2021
+MEMORIA ANUAL
+79
+2021
+
+================================================================================
+PÁGINA 80
+================================================================================
+Tabla A2.13. Distribución beneficiarios activos por género en Crédito 18, 2021
+Género Cantidad de créditos Participación (%)
+Mujeres 127 56 %
+Hombres 100 44 %
+Total 227 100 %
+Fuente: Oficina de Gestión de Crédito Educativo
+Fecha de corte: Al mes de diciembre de 2021
+Tabla A2.14. Distribución de desembolsos según región de procedencia de
+beneficiarios activos (en miles de soles) Crédito 18, 2021
+Cantidad de Monto
+Región Procedencia Participación (%)
+créditos desembolsado (S/)
+Lima 170 1 862 562 75.0 %
+Callao 21 265 031 10.7 %
+Junín 5 76 647 3.1 %
+Ica 4 42 277 1.7 %
+Cusco 3 20 680 0.8 %
+Cajamarca 2 14 009 0.6 %
+Tacna 2 19 022 0.8 %
+Huánuco 2 20 287 0.8 %
+Áncash 2 42 077 1.7 %
+Lambayeque 2 39 047 1.6 %
+Pasco 2 * 0.0 %
+Huancavelica 2 10 395 0.4 %
+Puno 2 30 116 1.2 %
+Ayacucho 1 3761 0.2 %
+Madre de Dios 1 266 0.0 %
+Piura 1 7050 0.3%
+Arequipa 1 9350 0.4 %
+Amazonas 1 * 0.0 %
+Ucayali 1 1737 0.1%
+Apurímac 1 1737 0.1 %
+La Libertad 1 17 553 0.7 %
+Total 227 2 483 604 100.0 %
+*En ejecución de desembolso
+Fuente: Oficina de Gestión de Crédito Educativo
+Fecha de corte: Al mes de diciembre de 2021
+MEMORIA ANUAL
+80
+2021
+
+================================================================================
+PÁGINA 81
+================================================================================
+Tabla A2.15. Distribución beneficiarios activos
+por género de Crédito Continuidad, 2021
+Género Cantidad de créditos Participación (%)
+Mujeres 1348 57 %
+Hombres 1021 43 %
+Total 2369 100 %
+Fuente: Oficina de Gestión de Crédito Educativo
+Fecha de corte: Al mes de diciembre de 2021
+MEMORIA ANUAL
+81
+2021
+
+================================================================================
+PÁGINA 82
+================================================================================
+Tabla A2.16. Distribución de desembolsos según región de procedencia de
+beneficiarios activos (en miles de soles) de Crédito Continuidad, 2021
+Región de Cantidad de Monto
+Participación (%)
+procedencia créditos desembolsado (S/)
+Lima 1286 12 217 260 64.9 %
+Arequipa 149 906 087 4.8 %
+Cusco 136 841 207 4.5%
+Junín 93 614 942 3.3 %
+Callao 70 685 667 3.6 %
+La Libertad 70 387 243 2.1 %
+Puno 58 322 358 1.7 %
+Áncash 55 314 270 1.7 %
+Lambayeque 53 269 988 1.4 %
+Piura 52 321 715 1.7 %
+Cajamarca 47 173 884 0.9 %
+Tacna 44 283 576 1.5 %
+Ayacucho 37 219 557 1.2 %
+San Martín 35 205 093 1.1 %
+Apurímac 29 143 001 0.8 %
+Ica 27 246 097 1.3 %
+Huánuco 27 174 933 0.9%
+Amazonas 22 120 566 0.6 %
+Tumbes 19 83 996 0.4 %
+Loreto 15 49 306 0.3 %
+Huancavelica 11 63 142 0.3 %
+Ucayali 11 69 443 0.4 %
+Madre de Dios 10 40 791 0.2 %
+Moquegua 8 43 612 0.2 %
+Pasco 5 26 159 0.1 %
+Total 2369 18 823 891 100.0 %
+Fuente: Oficina de Gestión de Crédito Educativo.
+Fecha de corte: Al mes de diciembre de 2021
+MEMORIA ANUAL
+82
+2021
+
+================================================================================
+PÁGINA 83
+================================================================================
+ANEXO III
+A3.1. Presencia a nivel nacional
+Desde su creación el Pronabec ha implementado 24 Unidades de Coordinación y Cooperación
+Regional (Uccor) en todas las regiones del país.
+Tabla A3.1. Personal por órganos, 2021
+Hombres Mujeres Total
+Órganos
+Personal Porcentaje Personal Porcentaje Personal Porcentaje
+Dirección Ejecutiva 2 1 % 6 3 % 8 2 %
+Órganos de
+36 18 % 17 7 % 53 12 %
+asesoramiento
+Órganos de apoyo 57 28 % 60 26 % 117 27 %
+Órganos de línea 110 54 % 145 64 % 255 59 %
+Total general 205 100 % 228 100 % 433 100 %
+Fuente: Oficina de Gestión del Talento
+MEMORIA ANUAL
+83
+2021
+
+================================================================================
+PÁGINA 84
+================================================================================
+Tabla A3.2. Personal de las Unidades de Coordinación y Cooperación Regional, 2021
+Hombres Mujeres Total
+Regiones
+Personal Porcentaje Personal Porcentaje Personal Porcentaje
+Amazonas 3 4 % 2 2 % 5 3 %
+Áncash 2 3 % 1 1 % 3 2 %
+Apurímac 2 3 % 3 3 % 5 3 %
+Arequipa 3 4 % 2 2 % 5 3 %
+Ayacucho 1 1 % 4 5 % 5 3 %
+Cajamarca 5 7 % 1 1 % 6 4 %
+Cusco 2 3 % 5 6 % 7 4 %
+Huancavelica 3 4 % 2 2 % 5 3 %
+Huánuco 4 5 % 2 2 % 6 4 %
+Ica 4 5 % 2 2 % 6 4 %
+Junín 3 4 % 3 3 % 6 4 %
+La Libertad 2 3 % 6 7 % 8 5 %
+Lambayeque 1 1 % 4 5 % 5 3 %
+Lima 9 12 % 25 29 % 34 21 %
+Loreto 2 3 % 8 9 % 10 6 %
+Madre de Dios 2 3 % 1 1 % 3 2 %
+Moquegua 3 4 % 1 1 % 4 2 %
+Pasco 4 5 % 1 1 % 5 3 %
+Piura 4 5 % 4 5 % 8 5 %
+Puno 3 4 % 2 2 % 5 3 %
+San Martín 5 7 % 3 3 % 8 5 %
+Tacna 3 4 % 1 1 % 4 2 %
+Tumbes 3 4 % 1 1 % 4 2 %
+Ucayali 1 1 % 3 3 % 4 2 %
+Total general 74 100 % 87 100 % 161 100 %
+Fuente: Oficina de Coordinación Nacional y Cooperación Internacional
+MEMORIA ANUAL
+84
+2021
+
+================================================================================
+PÁGINA 85
+================================================================================
+Por otro lado, la tabla A3.3 detalla las capacitaciones e inducciones realizadas en el 2021.
+Tabla A3.3. Resumen de capacitaciones realizadas
+n.º de capacitaciones
+Porcentaje de
+Capacitaciones Participantes¹⁰²
+logro
+Planificadas Ejecutadas
+Acciones de capacitación
+20 20 100 % 723
+aprobadas en PDP¹⁰³ - 2021
+Acciones de capacitación incluidas
+en PDP 2021, en el marco del D.L. 2 2 100 % 4
+n.º 1505 - DU n.º 55-2021¹⁰⁴
+Total 22 22 100 % 727
+Fuente: Oficina de Gestión del Talento
+Tabla A3.4. Resumen de inducciones realizadas
+Inducciones n.º de inducciones Participantes
+Reinducción 0 0
+Talleres de inducción 3 35
+Total 3 35
+Fuente: Oficina de Gestión del Talento
+¹⁰²Considerando que una persona puede ser beneficiaria a más de una acción de capacitación.
+¹⁰³PDP son las siglas del Plan de Desarrollo de las Personas del Pronabec, siguiendo los lineamientos de Servir. El PDP 2021 se aprobó
+mediante Resolución Directoral Ejecutiva n.° 021-2021-MINEDU/VMGI-PRONABEC, el 11 de febrero de 2021. La capacitación es
+una herramienta estratégica, cuyo ciclo se desarrolla en tres etapas: planificación, ejecución y evaluación; y se encuentra orientada
+a fortalecer las capacidades de los servidores, mejorando su desempeño y contribuyendo al logro de los objetivos institucionales.
+¹⁰⁴El Decreto Legislativo n.º 1505 que establece medidas temporales excepcionales en materia de recursos humanos en el sector
+público ante la emergencia sanitaria por el COVID-19; el cual permite que las entidades tengan la posibilidad de incorporar acciones
+de capacitación a costo cero al PDP.
+MEMORIA ANUAL
+85
+2021
+
+================================================================================
+PÁGINA 86
+================================================================================
+ANEXO IV
+Tabla A4.1. Ejecución de los principales conceptos de gasto por trimestre
+y por toda fuente de financiamiento
+(expresado en millones de soles)
+EJECUCIÓN TOTAL
+Concepto de % Ejec /
+FF PIA PIM
+gasto % part. / PIM
+I TRIM II TRIM III TRIM IV TRIM S/
+Ejec
+2.3 Bienes y
+RO 52.99 62.83 12.41 13.99 14.81 18.71 59.92 5.45 % 95.37 %
+servicios
+2.3 Bienes y
+ROOC 0 0 0 0 0 0 0 0.00 % 0.00 %
+servicios
+Total 2.3 Bienes y
+52.99 62.83 12.41 13.99 14.81 18.71 59.92 5.45 % 95.37 %
+servicios
+2.4.Donaciones RO 0 0 0 0 0 0 0 0.00 % 0.00 %
+2.5 Otros gastos RO 1076.82 937.11 150.68 269.39 230.89 264.22 915.18 83.17 % 97.66 %
+2.5 Otros gastos ROOC 0 149.62 0 0 30.34 73.31 103.65 9.42 % 69.28 %
+Total 2.5 Otros
+1076.82 1086.73 150.68 269.39 261.23 337.53 1018.83 92.59 % 93.75 %
+gastos
+2.6 Adquisición
+de activos no RO 0 0.81 0.34 0 0 0.043 0.383 0.03 % 47.28 %
+financieros
+2.7 Adquisición
+de activos RO 93.6 20.37 1.32 2.04 8.26 8.63 20.25 1.84 % 99.41 %
+financieros
+2.7 Adquisición
+de activos RDR 2.99 2.99 0.06 0.09 0.29 0.59 1.03 0.09 % 34.45 %
+financieros
+2.7 Adquisición
+de activos ROOC 0 0 0 0 0 0 0 0.00 % 0.00 %
+financieros
+Total 2.7
+Adquisición
+96.59 23.36 1.38 2.13 8.55 9.22 21.28 1.93 % 91.10 %
+de activos
+financieros
+Total 1226.4 1173.73 164.81 285.51 284.59 365.50 1100.41 100.0 % 93.75 %
+Fuente: SIAF-MPP / 10-02-2022. Elaboración: Oficina de Planificación y Presupuesto
+MEMORIA ANUAL
+86
+2021
+
+================================================================================
+PÁGINA 87
+================================================================================
+Tabla A4.2. Ejecución presupuestal según categoría presupuestaria y actividad
+por toda fuente de financiamiento
+(en millones de soles)
+Ejecución
+Categoría presupuestal/meta PIM % Ejec / PIM
+S/ % Part/Ejec
+Meta 001: Gestión del programa - Uccor 17.78 17.52 1.59 % 98.54 %
+Meta 002: Gestión del programa 3.65 3.51 0.32 % 96.16 %
+Meta 003: Seguimiento y evaluación del
+0.09 0.09 0.01 % 100.00 %
+programa
+Meta 004: Evaluación y adjudicación de
+1.85 0.78 0.07 % 42.16 %
+crédito educativo
+Meta 005: Seguimiento de crédito
+1.81 1.68 0.15 % 92.82 %
+educativo
+Meta 006: Entrega de beca en la modalidad
+307.13 306.98 27.90 % 99.95 %
+ordinaria
+Meta 007: Entrega de beca en la modalidad
+126.62 124.6 11.32 % 98.40 %
+especial
+Meta 008: Seguimiento académico y
+2.01 2 0.18 % 99.50 %
+socioafectivo a becarios
+Meta 009: Entrega de beca en la modalidad
+193.33 193.15 17.55 % 99.91 %
+permanencia
+Meta 010: Aplicación de mecanismos de
+selección y adjudicación de la beca en 4.05 3.73 0.34 % 92.10%
+educación superior
+Acciones centrales 28.18 26.12 2.37 % 92.69 %
+Meta 011: Planificación y Presupuesto 3.69 3.51 0.32 % 95.12 %
+Meta 012: Dirección Ejecutiva 0.96 0.95 0.09 % 98.96 %
+Meta 013: Coordinación Nacional y
+0.28 0.26 0.02 % 92.86 %
+Cooperación Internacional
+Meta 014: Comunicaciones y Relaciones
+1.27 1.21 0.11 % 95.28%
+Institucionales
+Meta 015: Gestión Administrativa 10.93 10.38 0.94 % 94.97 %
+Meta 016: Innovación y Tecnología 3.85 3.27 0.30 % 84.94 %
+Meta 017: Atención al Ciudadano y Gestión
+3.2 2.74 0.25 % 85.63 %
+Documentaria
+Meta 018: Asesoría Jurídica 1.24 1.2 0.1 % 96.77 %
+Meta 019: Gestión del Talento 2.72 2.6 0.24 % 95.59 %
+Meta 020: Control Institucional 0.04 0 0.00 % 0.00 %
+Meta 020: Control Institucional 0.04 0 0.00 % 0.00 %
+MEMORIA ANUAL
+87
+2021
+
+================================================================================
+PÁGINA 88
+================================================================================
+Ejecución
+Categoría presupuestal/meta PIM % Ejec / PIM
+S/ % Part/Ejec
+Asignaciones presupuestales que no
+487.24 420.27 38.19 % 86.26 %
+resultan en productos (APnoP)
+Meta 021: Concesión de crédito educativo 1.69 1.67 0.15 % 98.82 %
+Meta 022: Otorgamiento de becas posgrado 28.37 24.62 2.24 % 86.78 %
+Meta 023: Otorgamiento de becas
+24.05 21.4 1.94 % 88.98 %
+especiales
+Meta 024: Otorgamiento de becas pregrado 18.73 18.16 1.65 % 96.96 %
+Meta 025: Otorgamiento de becas-apoyo 3.44 3.21 0.29 % 93.31 %
+Meta 026: Otorgamiento de Beca
+13.03 10 0.91 % 76.75 %
+Presidente de la República
+Meta 027: Otorgamiento de Beca Traslado 13.79 9.95 0.90 % 72.15 %
+Meta 028: Otorgamiento de la Beca
+323.7 273.89 24.89 % 84.61 %
+Continuidad
+Meta 029: Concesión de créditos
+21.03 20 1.82 % 95.10 %
+educativos-Crédito Continuidad
+Meta 030: Capacitación integral-
+prevención, control y tratamiento del 0.63 0.58 0.05 % 92.06 %
+coronavirus
+Meta 031: Capacitación integral-
+4.43 4.03 0.37 % 90.97 %
+otorgamiento de becas
+Meta 032: Capacitación integral-
+34.35 32.76 2.98 % 95.37 %
+otorgamiento de becas
+Meta 033: Capacitación integral-promoción,
+implementación y ejecución de actividades 0 0 100.00 % 100.00 %
+para la reactivación económica
+Total 1173.74 1100.43 100.00 % 93.75 %
+Fuente: SIAF-MPP / 10-02-2022. Elaboración: Oficina de Planificación y Presupuesto
+MEMORIA ANUAL
+88
+2021

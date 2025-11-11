@@ -1,0 +1,915 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reporte de Datos PRONABEC 2022</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 30px;
+            background: #f8f9fa;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        }
+        
+        .stat-card .number {
+            font-size: 3em;
+            font-weight: bold;
+            color: #667eea;
+            margin: 10px 0;
+        }
+        
+        .stat-card .label {
+            font-size: 1.1em;
+            color: #666;
+            font-weight: 500;
+        }
+        
+        .section {
+            padding: 40px;
+        }
+        
+        .section h2 {
+            color: #1e3c72;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #667eea;
+            font-size: 2em;
+        }
+        
+        .dataset-card {
+            background: #f8f9fa;
+            border-left: 5px solid #667eea;
+            padding: 25px;
+            margin-bottom: 25px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+        
+        .dataset-card:hover {
+            background: #e9ecef;
+            border-left-width: 8px;
+        }
+        
+        .dataset-card h3 {
+            color: #2a5298;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+        
+        .dataset-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+        
+        .info-item {
+            background: white;
+            padding: 12px;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        
+        .info-item strong {
+            color: #667eea;
+            display: block;
+            margin-bottom: 5px;
+        }
+        
+        .table-container {
+            overflow-x: auto;
+            margin-top: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+        }
+        
+        th {
+            background: #1e3c72;
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 0.95em;
+        }
+        
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #dee2e6;
+        }
+        
+        tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+            background: #667eea;
+            color: white;
+        }
+        
+        .footer {
+            background: #1e3c72;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .footer a {
+            color: #a5b4fc;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        
+        .footer a:hover {
+            color: white;
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+            
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .section {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📊 Reporte de Datos PRONABEC 2022</h1>
+            <p>Web Scraping - Memoria Anual del Programa Nacional de Becas y Crédito Educativo</p>
+            <p style="font-size: 0.9em; margin-top: 10px;">Fuente: Gobierno del Perú</p>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="number">24</div>
+                <div class="label">Departamentos</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">19</div>
+                <div class="label">Modalidades de Becas</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">13</div>
+                <div class="label">Programas</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">14</div>
+                <div class="label">Países (Int.)</div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>📁 Datasets Extraídos</h2>
+
+            <div class="dataset-card">
+                <h3>1. Becarios por Departamento</h3>
+                <p>Distribución de becarios aptos, asistentes e inasistentes por departamento del Perú.</p>
+                <div class="dataset-info">
+                    <div class="info-item">
+                        <strong>Registros:</strong>
+                        25
+                    </div>
+                    <div class="info-item">
+                        <strong>Archivo:</strong>
+                        becarios_por_departamento_2022.csv
+                    </div>
+                    <div class="info-item">
+                        <strong>Campos:</strong>
+                        9 columnas
+                    </div>
+                    <div class="info-item">
+                        <strong>Año:</strong>
+                        <span class="badge">2022</span>
+                    </div>
+                </div>
+                <div class="table-container">
+                    <table border="1" class="dataframe data-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Departamento</th>
+      <th>Aptos_N</th>
+      <th>Aptos_Pct</th>
+      <th>Asistentes_N</th>
+      <th>Asistentes_Pct</th>
+      <th>Inasistentes_N</th>
+      <th>Inasistentes_Pct</th>
+      <th>Pagina</th>
+      <th>Anio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Amazonas</td>
+      <td>119</td>
+      <td>2.2</td>
+      <td>93</td>
+      <td>2.1</td>
+      <td>26</td>
+      <td>21.8</td>
+      <td>30</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Áncash</td>
+      <td>198</td>
+      <td>3.6</td>
+      <td>162</td>
+      <td>3.6</td>
+      <td>36</td>
+      <td>18.2</td>
+      <td>30</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Apurímac</td>
+      <td>182</td>
+      <td>3.3</td>
+      <td>153</td>
+      <td>3.4</td>
+      <td>29</td>
+      <td>15.9</td>
+      <td>30</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Arequipa</td>
+      <td>235</td>
+      <td>4.3</td>
+      <td>206</td>
+      <td>4.6</td>
+      <td>29</td>
+      <td>12.3</td>
+      <td>30</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Ayacucho</td>
+      <td>214</td>
+      <td>3.9</td>
+      <td>179</td>
+      <td>4.0</td>
+      <td>35</td>
+      <td>16.4</td>
+      <td>30</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Cajamarca</td>
+      <td>316</td>
+      <td>5.8</td>
+      <td>219</td>
+      <td>4.9</td>
+      <td>97</td>
+      <td>30.7</td>
+      <td>30</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Cusco</td>
+      <td>342</td>
+      <td>6.3</td>
+      <td>299</td>
+      <td>6.6</td>
+      <td>43</td>
+      <td>12.6</td>
+      <td>30</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Huancavelica</td>
+      <td>81</td>
+      <td>1.5</td>
+      <td>66</td>
+      <td>1.5</td>
+      <td>15</td>
+      <td>18.5</td>
+      <td>30</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Huánuco</td>
+      <td>184</td>
+      <td>3.4</td>
+      <td>159</td>
+      <td>3.5</td>
+      <td>25</td>
+      <td>13.6</td>
+      <td>30</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Ica</td>
+      <td>167</td>
+      <td>3.1</td>
+      <td>129</td>
+      <td>2.9</td>
+      <td>38</td>
+      <td>22.8</td>
+      <td>30</td>
+      <td>2022</td>
+    </tr>
+  </tbody>
+</table>
+                </div>
+            </div>
+
+            <div class="dataset-card">
+                <h3>2. Becas por Tipo y Modalidad</h3>
+                <p>Tipos de becas ofrecidas con información de becarios continuadores y nuevas becas otorgadas.</p>
+                <div class="dataset-info">
+                    <div class="info-item">
+                        <strong>Registros:</strong>
+                        20
+                    </div>
+                    <div class="info-item">
+                        <strong>Archivo:</strong>
+                        becas_por_tipo_modalidad_2022.csv
+                    </div>
+                    <div class="info-item">
+                        <strong>Campos:</strong>
+                        7 columnas
+                    </div>
+                    <div class="info-item">
+                        <strong>Año:</strong>
+                        <span class="badge">2022</span>
+                    </div>
+                </div>
+                <div class="table-container">
+                    <table border="1" class="dataframe data-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>TipoBeca</th>
+      <th>NombreBeca</th>
+      <th>BecariosContinuadores</th>
+      <th>CantidadBecasOtorgadas2022</th>
+      <th>TotalBecariosActivos</th>
+      <th>Pagina</th>
+      <th>Anio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pregrado</td>
+      <td>Beca 18</td>
+      <td>16 578</td>
+      <td>5000</td>
+      <td>21 578</td>
+      <td>55</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Pregrado</td>
+      <td>ExcelenciaAcadémica\nInternacional Francia</td>
+      <td>19</td>
+      <td>NaN</td>
+      <td>19</td>
+      <td>55</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Pregrado</td>
+      <td>Excelencia Académica</td>
+      <td>2</td>
+      <td>NaN</td>
+      <td>2</td>
+      <td>55</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Pregrado</td>
+      <td>Permanencia para estudios de\narte</td>
+      <td>4</td>
+      <td>NaN</td>
+      <td>4</td>
+      <td>55</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Pregrado</td>
+      <td>Beca Traslado</td>
+      <td>785</td>
+      <td>NaN</td>
+      <td>785</td>
+      <td>55</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Pregrado</td>
+      <td>Beca Deporte Escolar</td>
+      <td>91</td>
+      <td>NaN</td>
+      <td>91</td>
+      <td>55</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Pregrado</td>
+      <td>Beca Talento Escolar</td>
+      <td>50</td>
+      <td>NaN</td>
+      <td>50</td>
+      <td>55</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Pregrado</td>
+      <td>Beca Vocación de Maestro</td>
+      <td>407</td>
+      <td>NaN</td>
+      <td>407</td>
+      <td>55</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Pregrado</td>
+      <td>Mujeres en Ciencias</td>
+      <td>139</td>
+      <td>NaN</td>
+      <td>139</td>
+      <td>55</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Posgrado</td>
+      <td>Beca Generación del\nBicentenario</td>
+      <td>297</td>
+      <td>150</td>
+      <td>447</td>
+      <td>55</td>
+      <td>2022</td>
+    </tr>
+  </tbody>
+</table>
+                </div>
+            </div>
+
+            <div class="dataset-card">
+                <h3>3. Metas y Otorgamiento de Becas</h3>
+                <p>Comparación entre metas planteadas y becas efectivamente otorgadas por programa.</p>
+                <div class="dataset-info">
+                    <div class="info-item">
+                        <strong>Registros:</strong>
+                        14
+                    </div>
+                    <div class="info-item">
+                        <strong>Archivo:</strong>
+                        metas_otorgamiento_becas_2022.csv
+                    </div>
+                    <div class="info-item">
+                        <strong>Campos:</strong>
+                        7 columnas
+                    </div>
+                    <div class="info-item">
+                        <strong>Año:</strong>
+                        <span class="badge">2022</span>
+                    </div>
+                </div>
+                <div class="table-container">
+                    <table border="1" class="dataframe data-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>TipoBeca</th>
+      <th>NombreBeca</th>
+      <th>Meta</th>
+      <th>BecasOtorgadas</th>
+      <th>PorcentajeOtorgamiento</th>
+      <th>Pagina</th>
+      <th>Anio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pregrado</td>
+      <td>Beca 18</td>
+      <td>5000</td>
+      <td>5000</td>
+      <td>100.00 %</td>
+      <td>18</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>NaN</td>
+      <td>- Modalidad Ordinaria</td>
+      <td>3450</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>18</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>NaN</td>
+      <td>- Modalidad Especial</td>
+      <td>1550</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>18</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Posgrado</td>
+      <td>Beca Generación del Bicentenario</td>
+      <td>150</td>
+      <td>150</td>
+      <td>100.00 %</td>
+      <td>18</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Especiales</td>
+      <td>Beca Inclusión Técnico Productiva</td>
+      <td>100</td>
+      <td>99</td>
+      <td>99.00 %</td>
+      <td>18</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>NaN</td>
+      <td>Beca Inclusión para Carreras Universitarias y\nProfesionales Técnicas</td>
+      <td>10</td>
+      <td>10</td>
+      <td>100.00 %</td>
+      <td>18</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>NaN</td>
+      <td>Beca para Situaciones Especiales en Formación\nTécnico Productiva - Repared.</td>
+      <td>120</td>
+      <td>119</td>
+      <td>99.17 %</td>
+      <td>18</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>NaN</td>
+      <td>Beca Técnico Productiva para Jóvenes de Pueblos\nIndígenas u Originarios en Situaciones Especiales.</td>
+      <td>110</td>
+      <td>107</td>
+      <td>97.27 %</td>
+      <td>18</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>NaN</td>
+      <td>Beca Perú*</td>
+      <td>79</td>
+      <td>48</td>
+      <td>60.76 %</td>
+      <td>18</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>NaN</td>
+      <td>Beca Alianza del Pacífico</td>
+      <td>50</td>
+      <td>30</td>
+      <td>60.00 %</td>
+      <td>18</td>
+      <td>2022</td>
+    </tr>
+  </tbody>
+</table>
+                </div>
+            </div>
+
+            <div class="dataset-card">
+                <h3>4. Becas Internacionales por País</h3>
+                <p>Distribución de becas de maestría y doctorado por país de destino.</p>
+                <div class="dataset-info">
+                    <div class="info-item">
+                        <strong>Registros:</strong>
+                        15
+                    </div>
+                    <div class="info-item">
+                        <strong>Archivo:</strong>
+                        becas_internacionales_pais_2022.csv
+                    </div>
+                    <div class="info-item">
+                        <strong>Campos:</strong>
+                        7 columnas
+                    </div>
+                    <div class="info-item">
+                        <strong>Modalidad:</strong>
+                        <span class="badge">Internacional</span>
+                    </div>
+                </div>
+                <div class="table-container">
+                    <table border="1" class="dataframe data-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>PaisEstudios</th>
+      <th>Maestria</th>
+      <th>Doctorado</th>
+      <th>Total</th>
+      <th>Pagina</th>
+      <th>Anio</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Estados Unidos</td>
+      <td>28</td>
+      <td>6</td>
+      <td>34</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>España</td>
+      <td>23</td>
+      <td>7</td>
+      <td>30</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>Argentina</td>
+      <td>24</td>
+      <td>0</td>
+      <td>24</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>Reino Unido</td>
+      <td>19</td>
+      <td>3</td>
+      <td>22</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>Australia</td>
+      <td>12</td>
+      <td>0</td>
+      <td>12</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>Chile</td>
+      <td>6</td>
+      <td>1</td>
+      <td>7</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>Países Bajos</td>
+      <td>3</td>
+      <td>3</td>
+      <td>6</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>Brasil</td>
+      <td>3</td>
+      <td>2</td>
+      <td>5</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>Francia</td>
+      <td>2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>México</td>
+      <td>2</td>
+      <td>0</td>
+      <td>2</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>Suecia</td>
+      <td>2</td>
+      <td>0</td>
+      <td>2</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>Rusia</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>Alemania</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>Italia</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+    <tr>
+      <td>Total</td>
+      <td>126</td>
+      <td>24</td>
+      <td>150</td>
+      <td>28</td>
+      <td>2022</td>
+      <td>Internacional</td>
+    </tr>
+  </tbody>
+</table>
+                </div>
+            </div>
+
+            <div class="dataset-card">
+                <h3>5. Créditos Educativos</h3>
+                <p>Modalidades de crédito educativo con beneficiarios y montos desembolsados.</p>
+                <div class="dataset-info">
+                    <div class="info-item">
+                        <strong>Registros:</strong>
+                        4
+                    </div>
+                    <div class="info-item">
+                        <strong>Archivo:</strong>
+                        creditos_educativos_2022.csv
+                    </div>
+                    <div class="info-item">
+                        <strong>Campos:</strong>
+                        6 columnas
+                    </div>
+                    <div class="info-item">
+                        <strong>Año:</strong>
+                        <span class="badge">2022</span>
+                    </div>
+                </div>
+                <div class="table-container">
+                    <table border="1" class="dataframe data-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>ModalidadCredito</th>
+      <th>BeneficiariosDesembolsos</th>
+      <th>MontoDesembolsado</th>
+      <th>ParticipacionPct</th>
+      <th>Pagina</th>
+      <th>Anio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Crédito Talento</td>
+      <td>174</td>
+      <td>2 923 078</td>
+      <td>63</td>
+      <td>35</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Crédito 18</td>
+      <td>150</td>
+      <td>1 018 761</td>
+      <td>22</td>
+      <td>35</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Crédito Continuidad</td>
+      <td>189</td>
+      <td>663 732</td>
+      <td>14</td>
+      <td>35</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Total</td>
+      <td>513</td>
+      <td>4 605 571</td>
+      <td>100 %</td>
+      <td>35</td>
+      <td>2022</td>
+    </tr>
+  </tbody>
+</table>
+                </div>
+            </div>
+
+        </div>
+        
+        <div class="footer">
+            <p><strong>Proyecto:</strong> EasyBeca Dashboard - Sprint 2</p>
+            <p style="margin-top: 10px;">Datos extraídos mediante Web Scraping del PDF oficial</p>
+            <p style="margin-top: 10px;">
+                <a href="https://cdn.www.gob.pe/uploads/document/file/4498935/Memoria%20Anual%20del%20Pronabec%202022.pdf?v=1683306322" target="_blank">
+                    📄 Ver documento original
+                </a>
+            </p>
+            <p style="margin-top: 20px; font-size: 0.9em; opacity: 0.8;">
+                © 2025 - Datos del Gobierno del Perú - PRONABEC
+            </p>
+        </div>
+    </div>
+</body>
+</html>
