@@ -1,0 +1,101 @@
+
+REPORTE DE DATOS SINTÉTICOS - PRONABEC 2022
+============================================
+
+IMPORTANTE PARA LA EXPOSICIÓN:
+-------------------------------
+
+Este dataset fue generado combinando:
+1. Datos REALES extraídos del PDF oficial de la Memoria Anual del Pronabec 2022
+2. Datos SINTÉTICOS generados para completar campos no disponibles en el documento
+
+CAMPOS SINTÉTICOS (No disponibles en el PDF original):
+-------------------------------------------------------
+
+1. INSTITUCIÓN (100% sintético)
+   Razón: El PDF no desglosa instituciones educativas por becario
+   Método: Asignación aleatoria de instituciones peruanas realistas
+   Uso recomendado: Solo para demostración, no para análisis institucional
+
+2. CARRERA (100% sintético)
+   Razón: El PDF no incluye información de carreras por becario
+   Método: Asignación aleatoria de carreras comunes en Perú
+   Uso recomendado: Solo para demostración, no para análisis por carrera
+
+3. GÉNERO (100% sintético)
+   Razón: El PDF menciona género agregado pero no por becario individual
+   Método: Distribución 45% M / 55% F (basada en estadísticas educativas)
+   Uso recomendado: Solo para visualización, no para conclusiones de género
+
+4. ESTRATO SOCIOECONÓMICO (100% sintético)
+   Razón: El PDF no incluye estrato por becario individual
+   Método: Distribución 25% Pobre Extremo / 50% Pobre / 25% No Pobre
+   Uso recomendado: Solo para demostración, no para análisis socioeconómico
+
+5. BECAS SEGÚN MIGRACIÓN (Parcialmente sintético)
+   Razón: El PDF tiene datos geográficos pero no migración individual
+   Método: 35% Migró / 65% No Migró (Internacional siempre "Migró")
+   Uso recomendado: Tendencias generales solamente
+
+6. LUGAR (Distribución sintética, lugares reales)
+   Razón: Los lugares existen en el PDF pero no la asignación individual
+   Método: Distribución aleatoria entre departamentos/países reales del PDF
+   Uso recomendado: Análisis geográfico agregado es confiable
+
+CAMPOS REALES (Extraídos del PDF):
+-----------------------------------
+
+✓ NombreBeca - 20 programas de becas identificados
+✓ CategoriaDeBecas - Pregrado, Posgrado Maestría, Posgrado Doctorado, Especiales
+✓ Anio_Convocatoria - 2022 (confirmado del documento)
+
+RECOMENDACIONES PARA LA EXPOSICIÓN:
+------------------------------------
+
+1. SER TRANSPARENTE:
+   "Los datos provienen del documento oficial del PRONABEC 2022, pero para crear
+   un dataset completo con todos los campos del modelo, se generaron datos sintéticos
+   para campos no disponibles en el documento público."
+
+2. ENFOCARSE EN DATOS REALES:
+   - Distribución de becas por programa
+   - Cobertura geográfica (departamentos y países)
+   - Tipos y categorías de becas
+   - Cumplimiento de metas
+
+3. USAR DATOS SINTÉTICOS PARA DEMOSTRACIÓN:
+   "Estos campos (institución, carrera, género, estrato) son simulados para
+   demostrar las capacidades del dashboard, pero requieren datos oficiales
+   del PRONABEC para análisis definitivos."
+
+4. PROPUESTA DE VALOR:
+   "Este dashboard demuestra cómo visualizar y analizar datos de becas. Con acceso
+   a la base de datos completa del PRONABEC, se pueden generar insights precisos
+   sobre todos estos campos."
+
+LIMITACIONES A MENCIONAR:
+--------------------------
+
+- El análisis por institución educativa no es confiable (datos sintéticos)
+- El análisis por carrera específica no es confiable (datos sintéticos)
+- El análisis de género es aproximado (datos sintéticos)
+- El análisis de estrato socioeconómico es aproximado (datos sintéticos)
+- El análisis de migración es aproximado (datos sintéticos)
+
+FORTALEZAS A DESTACAR:
+-----------------------
+
+✓ Datos oficiales del Gobierno del Perú (fuente confiable)
+✓ Información completa de programas de becas 2022
+✓ Cobertura geográfica real (25 departamentos + 15 países)
+✓ Datos de cumplimiento de metas y estadísticas agregadas
+✓ Dashboard demuestra capacidad de análisis con datos completos
+
+FUENTE DE DATOS:
+----------------
+Memoria Anual del Pronabec 2022
+Gobierno del Perú - Programa Nacional de Becas y Crédito Educativo
+URL: https://cdn.www.gob.pe/uploads/document/file/4498935/Memoria%20Anual%20del%20Pronabec%202022.pdf
+
+Fecha de extracción: Noviembre 2025
+Método: Web scraping con Python (pdfplumber)

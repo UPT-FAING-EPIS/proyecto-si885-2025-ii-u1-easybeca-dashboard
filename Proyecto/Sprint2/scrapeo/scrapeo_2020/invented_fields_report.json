@@ -1,0 +1,647 @@
+[
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Amazonas",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Áncash",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Apurímac",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Arequipa",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Ayacucho",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Cajamarca",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Callao",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Cusco",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Huancavelica",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Huánuco",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Ica",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Junín",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "La Libertad",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Lambayeque",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Lima",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Loreto",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Madre de Dios",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Moquegua",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Pasco",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Piura",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Puno",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "San Martín",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Tacna",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Tumbes",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_departamento",
+    "Lugar": "Ucayali",
+    "invented": [
+      "Carrera",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_carrera",
+    "Carrera": "Educación",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_carrera",
+    "Carrera": "Humanidades y Arte",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_carrera",
+    "Carrera": "Ciencias Sociales, Comerciales y Derecho",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_carrera",
+    "Carrera": "Ciencias Naturales, Exactas y de la Computación",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_carrera",
+    "Carrera": "Ingeniería, Industria y Construcción",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_carrera",
+    "Carrera": "Agropecuaria y Veterinaria",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_carrera",
+    "Carrera": "Ciencias de la Salud",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "beca_por_carrera",
+    "Carrera": "Servicios",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Alemania",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Argentina",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Australia",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Bélgica",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Brasil",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Canadá",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Chile",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Colombia",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "España",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Estados Unidos",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Finlandia",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Francia",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Holanda",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Hong Kong",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Italia",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Portugal",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Reino Unido",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "posgrado_por_pais",
+    "PaisEstudio": "Suiza",
+    "invented": [
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "modalidades",
+    "NombreBeca": "Beca Complementaria de la Amistad Peruano Ecuatoriana",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "modalidades",
+    "NombreBeca": "Beca de Permanencia de Estudios Nacional Arte",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "modalidades",
+    "NombreBeca": "Beca de Permanencia de Estudios Nacional Para Estudiantes del CNM⁷⁵",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "modalidades",
+    "NombreBeca": "Beca Excelencia Académica",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "modalidades",
+    "NombreBeca": "Beca Excelencia Internacional Francia",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "modalidades",
+    "NombreBeca": "Vocación de Maestro",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  },
+  {
+    "source": "modalidades",
+    "NombreBeca": "Total",
+    "invented": [
+      "Lugar",
+      "Institucion",
+      "Carrera",
+      "Genero",
+      "EstratoSocieconomico",
+      "BecasSegunMigracion"
+    ]
+  }
+]

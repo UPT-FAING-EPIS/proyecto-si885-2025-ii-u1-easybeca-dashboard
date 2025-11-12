@@ -1,0 +1,93 @@
+
+================================================================================
+REPORTE DE CAMPOS INVENTADOS - DATOS PRONABEC 2020
+================================================================================
+
+Dataset generado: datos_usuario_2020.xlsx
+Total de registros: 325
+Año de datos: 2020
+
+CAMPOS EXTRAÍDOS DEL PDF (REALES):
+-----------------------------------
+✓ NombreBeca - Extraído de las tablas del PDF
+✓ Lugar - Departamentos y países según tablas del PDF
+✓ Categoria de becas - Clasificación según tipo de programa
+✓ Anio_Convocatoria - Año 2020 (del documento)
+
+CAMPOS INVENTADOS (NO DISPONIBLES EN EL PDF):
+----------------------------------------------
+Los siguientes campos fueron INVENTADOS porque el PDF de la Memoria Anual 
+del Pronabec 2020 NO contiene esta información a nivel individual por becario:
+
+⚠️ Institucion
+   Razón: El PDF solo menciona tipos (Universidad, IST, ISP) pero no nombres 
+   específicos de instituciones por becario.
+   Método: Distribuido según proporciones del PDF (79% Universidad, 18% IST, 3% ISP)
+   Valores usados: Universidad Nacional/Privada, SENATI, TECSUP, Pedagógicos, etc.
+
+⚠️ Carrera
+   Razón: El PDF agrupa por áreas de estudio, no por carreras específicas.
+   Método: Distribución basada en las proporciones de áreas del PDF
+   Valores usados: 
+   - Ingeniería (53.4%): Ing. Civil, Industrial, Sistemas, etc.
+   - Ciencias Sociales (26.3%): Administración, Contabilidad, Derecho, etc.
+   - Salud (7.1%): Enfermería, Medicina, Odontología
+   - Educación (4.7%): Educación Primaria, Inicial
+   - Otras áreas según proporciones del PDF
+
+⚠️ Genero
+   Razón: El PDF no desglosa becarios por género
+   Método: Distribución aproximada según estadísticas típicas de Pronabec
+   Valores usados: Femenino (55%), Masculino (45%)
+
+⚠️ EstratoSocieconomico
+   Razón: El PDF menciona que beneficia a estratos bajos pero no desglosa por becario
+   Método: Distribución basada en características del programa Pronabec
+   Valores usados: 
+   - Pobre (60%)
+   - Pobre Extremo (25%)
+   - No pobre (15%)
+
+⚠️ BecasSegunMigracion
+   Razón: El PDF menciona migración en texto general pero sin datos por becario
+   Método: Distribución lógica según lugar de estudio
+   Valores usados:
+   - "Migro": 25% (becarios que estudian fuera de su región)
+   - "No Migro": 75% (becarios que estudian en su región)
+   - Países extranjeros -> siempre "Migro"
+
+DISTRIBUCIONES APLICADAS:
+--------------------------
+• Categoría de becas:
+  - Pregrado: ~85% (Beca 18)
+  - Posgrado Maestría: ~10%
+  - Posgrado Doctorado: ~2%
+  - Especiales: ~3%
+
+• Lugares más frecuentes:
+  - Lima: 24.9%
+  - Junín: 7.9%
+  - Piura: 5.9%
+  - Cusco: 5.2%
+  - Otros departamentos: resto
+
+IMPORTANTE PARA TU EXPOSICIÓN:
+-------------------------------
+1. Los datos de NombreBeca, Lugar, Categoria y Año SON REALES del PDF
+
+2. Los campos Institucion, Carrera, Genero, EstratoSocieconomico y 
+   BecasSegunMigracion fueron GENERADOS usando distribuciones estadísticas
+   basadas en:
+   - Proporciones agregadas del PDF (cuando disponibles)
+   - Características típicas del programa Pronabec
+   - Distribuciones lógicas según contexto
+
+3. El PDF original NO contiene datos individuales por becario, solo 
+   estadísticas agregadas por región, área de estudio y tipo de programa
+
+4. Este dataset es una SIMULACIÓN representativa basada en datos reales
+   agregados del año 2020
+
+================================================================================
+Generado: 2025-11-12 11:19:02
+================================================================================

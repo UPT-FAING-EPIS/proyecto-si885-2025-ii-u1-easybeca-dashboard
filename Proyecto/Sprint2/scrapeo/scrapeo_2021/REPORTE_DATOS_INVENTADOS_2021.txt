@@ -1,0 +1,84 @@
+================================================================================
+REPORTE DE DATOS INVENTADOS - PRONABEC 2021
+================================================================================
+
+
+    Los siguientes campos fueron INVENTADOS porque NO están disponibles
+    en el PDF de la Memoria Anual del Pronabec 2021:
+    
+    1. 📚 CARRERA (100% Inventado)
+       - El PDF NO desagrega las carreras por becario individual
+       - Se asignaron carreras aleatorias de una lista de 28 carreras típicas
+       - Carreras de pregrado: Ingeniería, Medicina, Administración, etc.
+       - Carreras de posgrado: MBA, Ciencias de Datos, Biotecnología, etc.
+    
+    2. 🏛️ INSTITUCIÓN (100% Inventado)
+       - El PDF NO especifica instituciones por becario individual
+       - Se asignaron universidades aleatorias de una lista de 25 instituciones
+       - Para Perú: Universidades nacionales y privadas reconocidas
+       - Para extranjero: Universidades prestigiosas por país
+    
+    3. 💰 ESTRATO SOCIOECONÓMICO (100% Inventado)
+       - El PDF NO desagrega estratos por becario individual
+       - Se asignó según distribución estimada:
+         * Pobre Extremo: 40% (peso mayor en regiones rurales)
+         * Pobre: 50% (mayoría de becarios)
+         * No Pobre: 10% (casos excepcionales)
+       - Para becas extranjero: Sin "Pobre Extremo" (60% Pobre, 40% No Pobre)
+    
+    4. 🚗 BECAS SEGÚN MIGRACIÓN (80% Inventado)
+       - El PDF solo tiene datos agregados, NO por becario individual
+       - Se asignó según lógica estimada:
+         * Si origen es Lima: 20% migró, 80% no migró
+         * Si origen no es Lima: 60% migró (a Lima), 40% no migró
+         * Becas extranjero: 100% migró
+    
+    5. 🎓 CATEGORÍA DE BECAS (Parcialmente Real)
+       - Pregrado: Datos reales de Beca 18
+       - Posgrado Maestría/Doctorado: Inferido de becas extranjero
+       - Especiales: Crédito Talento (real)
+    
+    DATOS REALES DEL PDF:
+    ✓ NombreBeca - Real (Beca 18, Crédito General, etc.)
+    ✓ Lugar - Real (departamentos de Perú y países)
+    ✓ Anio_Convocatoria - Real (2021)
+    ✓ Género - Parcialmente real (solo para créditos educativos)
+    ✓ Cantidades totales por región - Real
+    
+    NOTA IMPORTANTE PARA TU EXPOSICIÓN:
+    "Los datos de Carrera, Institución, Estrato Socioeconómico y Migración
+    individual fueron generados mediante algoritmos de distribución probabilística
+    basados en las estadísticas agregadas disponibles en la Memoria Anual 2021
+    y en criterios típicos del programa Pronabec. Estos datos mantienen la
+    coherencia con los totales reales por región, pero NO representan becarios
+    individuales reales."
+    
+
+================================================================================
+ESTADÍSTICAS DEL DATASET GENERADO
+================================================================================
+
+Total de registros: 4578
+
+Por Categoría de Becas:
+CategoriaDeBecas
+Pregrado              4266
+Especiales             161
+Posgrado Doctorado      78
+Posgrado Maestria       73
+
+Por Género:
+Genero
+Femenino     2603
+Masculino    1975
+
+Por Estrato Socioeconómico:
+EstratoSocieconomico
+Pobre            2433
+Pobre Extremo    1667
+No Pobre          478
+
+Por Migración:
+BecasSegunMigracion
+Migró       2526
+No Migró    2052

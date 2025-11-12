@@ -1,0 +1,326 @@
+﻿NombreBeca,Institucion,Carrera,Lugar,Categoria de becas,Anio_Convocatoria,Genero,EstratoSocieconomico,BecasSegunMigracion
+Beca 18,Universidad,Contabilidad,Amazonas,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,"Ciencias Sociales, Comerciales y Derecho",Amazonas,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad Pública,Ingeniería Mecánica,Amazonas,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Administración,Amazonas,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Pedagógico Nacional,Administración,Amazonas,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Pública,Ingeniería Industrial,Amazonas,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad Privada,Medicina,Áncash,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Ingeniería Mecánica,Áncash,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Privada,Ingeniería Industrial,Áncash,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Ingeniería Civil,Áncash,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Derecho,Áncash,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería Industrial,Apurímac,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,TECSUP,Ciencias de la Salud,Apurímac,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Instituto Tecnológico,Ciencias de la Salud,Apurímac,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Privada,"Ingeniería, Industria y Construcción",Apurímac,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,"Ingeniería, Industria y Construcción",Apurímac,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,"Ciencias Naturales, Exactas y de la Computación",Apurímac,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería Mecánica,Apurímac,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Privada,Derecho,Apurímac,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,SENATI,Derecho,Arequipa,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad,Ingeniería Mecánica,Arequipa,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Derecho,Arequipa,Pregrado,2020,Masculino,Pobre Extremo,Migro
+Beca 18,Universidad,Educación Inicial,Arequipa,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,"Ciencias Sociales, Comerciales y Derecho",Arequipa,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad,Ingeniería Industrial,Ayacucho,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,SENATI,Ingeniería de Sistemas,Ayacucho,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería Civil,Ayacucho,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad Pública,"Ingeniería, Industria y Construcción",Ayacucho,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad,"Ciencias Sociales, Comerciales y Derecho",Ayacucho,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Educación Inicial,Ayacucho,Pregrado,2020,Femenino,Pobre Extremo,Migro
+Beca 18,Universidad,Ingeniería Electrónica,Ayacucho,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Instituto superior tecnológico,Servicios,Ayacucho,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Instituto Tecnológico,"Ciencias Sociales, Comerciales y Derecho",Cajamarca,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería de Sistemas,Cajamarca,Pregrado,2020,Masculino,Pobre Extremo,Migro
+Beca 18,Instituto Tecnológico,Contabilidad,Cajamarca,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Derecho,Cajamarca,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Pública,Economía,Cajamarca,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Pública,Derecho,Cajamarca,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,"Ingeniería, Industria y Construcción",Cajamarca,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Economía,Cajamarca,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad,Ingeniería Civil,Callao,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad,Ingeniería Civil,Callao,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad,Ingeniería Electrónica,Callao,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Privada,Economía,Callao,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería Civil,Callao,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,"Ingeniería, Industria y Construcción",Callao,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,SENATI,Ingeniería Industrial,Callao,Pregrado,2020,Femenino,Pobre Extremo,Migro
+Beca 18,Universidad Privada,Ingeniería Electrónica,Cusco,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Instituto Tecnológico,Ingeniería Mecánica,Cusco,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad Privada,"Ingeniería, Industria y Construcción",Cusco,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad Nacional Agraria La Molina,Ingeniería de Sistemas,Cusco,Pregrado,2020,Masculino,No pobre,No Migro
+Beca 18,Instituto Tecnológico,Ingeniería Civil,Cusco,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Instituto Tecnológico,Ingeniería Mecánica,Cusco,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad,Ciencias de la Salud,Cusco,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,SENATI,"Ciencias Sociales, Comerciales y Derecho",Cusco,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Derecho,Cusco,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Privada,Economía,Cusco,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Instituto Tecnológico,Ingeniería Electrónica,Huancavelica,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,"Ingeniería, Industria y Construcción",Huancavelica,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,"Ingeniería, Industria y Construcción",Huancavelica,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería Civil,Huancavelica,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Administración,Huancavelica,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad,"Ciencias Sociales, Comerciales y Derecho",Huancavelica,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Privada,Agropecuaria y Veterinaria,Huancavelica,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad,Medicina,Huancavelica,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,"Ingeniería, Industria y Construcción",Huancavelica,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad,"Ingeniería, Industria y Construcción",Huancavelica,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Contabilidad,Huánuco,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Pública,Educación,Huánuco,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería de Sistemas,Huánuco,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Pública,Administración,Huánuco,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Privada,"Ingeniería, Industria y Construcción",Huánuco,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,SENATI,Economía,Huánuco,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional Agraria La Molina,Contabilidad,Huánuco,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Derecho,Ica,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Instituto Tecnológico,Contabilidad,Ica,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad,Odontología,Ica,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,TECSUP,Economía,Ica,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional Agraria La Molina,"Ingeniería, Industria y Construcción",Ica,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional de Ingeniería,"Ingeniería, Industria y Construcción",Junín,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Pedagógico Nacional,Ingeniería de Sistemas,Junín,Pregrado,2020,Masculino,No pobre,No Migro
+Beca 18,Universidad Privada,Ingeniería de Sistemas,Junín,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Pública,Enfermería,Junín,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,TECSUP,Economía,Junín,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Pública,Economía,Junín,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad,Ingeniería Electrónica,Junín,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Instituto superior tecnológico,Derecho,Junín,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Pública,Educación Inicial,Junín,Pregrado,2020,Femenino,No pobre,Migro
+Beca 18,Universidad,"Ciencias Sociales, Comerciales y Derecho",Junín,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,TECSUP,Contabilidad,Junín,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería de Sistemas,Junín,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad,"Ciencias Sociales, Comerciales y Derecho",Junín,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad,Ingeniería de Sistemas,Junín,Pregrado,2020,Masculino,No pobre,No Migro
+Beca 18,Universidad Privada,Ingeniería Civil,Junín,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería Industrial,La Libertad,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,"Ciencias Sociales, Comerciales y Derecho",La Libertad,Pregrado,2020,Femenino,Pobre Extremo,Migro
+Beca 18,Universidad,Ingeniería Civil,La Libertad,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Instituto superior tecnológico,"Ingeniería, Industria y Construcción",La Libertad,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad,Administración,La Libertad,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad Pública,Ingeniería Industrial,Lambayeque,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad Privada,Ingeniería Mecánica,Lambayeque,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Pública,Economía,Lambayeque,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad Privada,Derecho,Lambayeque,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Pedagógico Nacional,Ingeniería Industrial,Lambayeque,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Enfermería,Lambayeque,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,"Ciencias Sociales, Comerciales y Derecho",Lima,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Instituto superior tecnológico,Ingeniería Civil,Lima,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Instituto Tecnológico,"Ingeniería, Industria y Construcción",Lima,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,"Ciencias Sociales, Comerciales y Derecho",Lima,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería Civil,Lima,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Economía,Lima,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad,Economía,Lima,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad,Economía,Lima,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Instituto superior pedagógico,Educación Primaria,Lima,Pregrado,2020,Masculino,Pobre Extremo,Migro
+Beca 18,Universidad Privada,Ingeniería Industrial,Lima,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Contabilidad,Lima,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería de Sistemas,Lima,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad,"Ciencias Sociales, Comerciales y Derecho",Lima,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería Electrónica,Lima,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Instituto Tecnológico,Economía,Lima,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Instituto superior tecnológico,Ingeniería Civil,Loreto,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería de Sistemas,Loreto,Pregrado,2020,Masculino,Pobre Extremo,Migro
+Beca 18,TECSUP,Ingeniería Mecánica,Loreto,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Pedagógico Nacional,Economía,Loreto,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Privada,"Ciencias Naturales, Exactas y de la Computación",Loreto,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Privada,Ingeniería Civil,Loreto,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,TECSUP,Economía,Loreto,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Instituto Tecnológico,"Ingeniería, Industria y Construcción",Loreto,Pregrado,2020,Femenino,Pobre Extremo,Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería de Sistemas,Loreto,Pregrado,2020,Masculino,Pobre Extremo,Migro
+Beca 18,Universidad Nacional de Ingeniería,Odontología,Madre de Dios,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Ingeniería Industrial,Madre de Dios,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad,Educación,Madre de Dios,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Ingeniería de Sistemas,Madre de Dios,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Educación,Madre de Dios,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Privada,Ingeniería Mecánica,Moquegua,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,TECSUP,Ingeniería de Sistemas,Moquegua,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Privada,Ingeniería Electrónica,Moquegua,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad Privada,Enfermería,Moquegua,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Privada,Ingeniería Mecánica,Moquegua,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad Pública,Derecho,Pasco,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Pública,Educación Primaria,Pasco,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad,Ingeniería Industrial,Pasco,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,"Ingeniería, Industria y Construcción",Pasco,Pregrado,2020,Masculino,Pobre Extremo,Migro
+Beca 18,Instituto Tecnológico,Ingeniería Mecánica,Pasco,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Pública,Ingeniería Civil,Piura,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Ingeniería Mecánica,Piura,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,"Ciencias Sociales, Comerciales y Derecho",Piura,Pregrado,2020,Femenino,Pobre Extremo,Migro
+Beca 18,Universidad Privada,Ingeniería Civil,Piura,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería de Sistemas,Piura,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Contabilidad,Piura,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Pública,Ingeniería Civil,Piura,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad,"Ingeniería, Industria y Construcción",Piura,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Instituto Tecnológico,Ciencias de la Salud,Piura,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,"Ciencias Sociales, Comerciales y Derecho",Piura,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería Civil,Piura,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Instituto Tecnológico,Educación,Piura,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería Electrónica,Puno,Pregrado,2020,Femenino,Pobre Extremo,Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería de Sistemas,Puno,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Economía,Puno,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Enfermería,Puno,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Derecho,Puno,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional de Ingeniería,Administración,Puno,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería de Sistemas,San Martín,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Pública,"Ciencias Sociales, Comerciales y Derecho",San Martín,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Contabilidad,San Martín,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Instituto Tecnológico,"Ingeniería, Industria y Construcción",San Martín,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Instituto Tecnológico,Educación Primaria,San Martín,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Ingeniería de Sistemas,San Martín,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad,Ingeniería Industrial,San Martín,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad Nacional de Ingeniería,Contabilidad,Tacna,Pregrado,2020,Masculino,No pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería de Sistemas,Tacna,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Ingeniería Mecánica,Tacna,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad Pública,Ingeniería de Sistemas,Tacna,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Instituto superior tecnológico,Administración,Tacna,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería Mecánica,Tumbes,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad,Ingeniería Civil,Tumbes,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Privada,Ingeniería Mecánica,Tumbes,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Pública,Ingeniería Civil,Tumbes,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad Privada,Contabilidad,Tumbes,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Educación Inicial,Ucayali,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Privada,Ingeniería de Sistemas,Ucayali,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad Pública,Ingeniería de Sistemas,Ucayali,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Instituto Tecnológico,Ingeniería de Sistemas,Ucayali,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Contabilidad,Ucayali,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad,Educación Inicial,Arequipa,Pregrado,2020,Masculino,Pobre Extremo,Migro
+Beca 18,Universidad Nacional Agraria La Molina,Educación Primaria,Cusco,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional Agraria La Molina,Educación Inicial,Arequipa,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Instituto Tecnológico,Educación Primaria,Cajamarca,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,SENATI,Educación,Arequipa,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,SENATI,Humanidades y Arte,Ayacucho,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Humanidades y Arte,Arequipa,Pregrado,2020,Masculino,No pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Humanidades y Arte,Junín,Pregrado,2020,Masculino,No pobre,Migro
+Beca 18,Universidad Nacional Agraria La Molina,Humanidades y Arte,Cajamarca,Pregrado,2020,Masculino,No pobre,Migro
+Beca 18,Universidad Privada,Humanidades y Arte,Lambayeque,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Derecho,Cajamarca,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad Privada,Administración,Cajamarca,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional de Ingeniería,"Ciencias Sociales, Comerciales y Derecho",Ayacucho,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Pública,"Ciencias Sociales, Comerciales y Derecho",Piura,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Derecho,Arequipa,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Economía,Cajamarca,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Instituto superior tecnológico,Derecho,Ayacucho,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Contabilidad,Cusco,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Privada,"Ciencias Sociales, Comerciales y Derecho",Cusco,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional Agraria La Molina,Contabilidad,Lambayeque,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Instituto superior tecnológico,"Ciencias Naturales, Exactas y de la Computación",Lambayeque,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,"Ciencias Naturales, Exactas y de la Computación",Lima,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Instituto superior tecnológico,"Ciencias Naturales, Exactas y de la Computación",Junín,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional Agraria La Molina,"Ciencias Naturales, Exactas y de la Computación",Lambayeque,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Privada,"Ciencias Naturales, Exactas y de la Computación",Cajamarca,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Instituto superior tecnológico,Ingeniería Mecánica,Cusco,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería de Sistemas,Junín,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad,Ingeniería Electrónica,Cusco,Pregrado,2020,Femenino,Pobre Extremo,Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería Civil,Cusco,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Ingeniería Industrial,Lambayeque,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Pública,Ingeniería Industrial,Cajamarca,Pregrado,2020,Femenino,No pobre,No Migro
+Beca 18,Universidad Pública,Ingeniería Electrónica,Junín,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería de Sistemas,Lima,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad Pública,Ingeniería Industrial,Ayacucho,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Ingeniería de Sistemas,Lambayeque,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,SENATI,"Ingeniería, Industria y Construcción",Lambayeque,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería Civil,Arequipa,Pregrado,2020,Masculino,No pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería de Sistemas,Piura,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Ingeniería Industrial,Junín,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Pública,Ingeniería Industrial,Piura,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad Privada,Ingeniería de Sistemas,Ayacucho,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Instituto Tecnológico,Ingeniería Electrónica,Piura,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Ingeniería Mecánica,Lima,Pregrado,2020,Masculino,No pobre,Migro
+Beca 18,Instituto superior tecnológico,Ingeniería Industrial,Arequipa,Pregrado,2020,Masculino,No pobre,Migro
+Beca 18,Instituto Tecnológico,Ingeniería Mecánica,Cusco,Pregrado,2020,Femenino,No pobre,Migro
+Beca 18,Universidad,Agropecuaria y Veterinaria,Ayacucho,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad,Agropecuaria y Veterinaria,Arequipa,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,SENATI,Agropecuaria y Veterinaria,Piura,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Agropecuaria y Veterinaria,Lima,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Universidad Nacional de Ingeniería,Agropecuaria y Veterinaria,Arequipa,Pregrado,2020,Masculino,Pobre Extremo,No Migro
+Beca 18,Universidad Nacional de Ingeniería,Odontología,Lambayeque,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad Nacional de Ingeniería,Enfermería,Cajamarca,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Enfermería,Lima,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca 18,Universidad,Medicina,Lambayeque,Pregrado,2020,Masculino,No pobre,No Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Odontología,Lima,Pregrado,2020,Femenino,Pobre Extremo,Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Servicios,Lima,Pregrado,2020,Femenino,Pobre,No Migro
+Beca 18,Universidad Privada,Servicios,Lambayeque,Pregrado,2020,Masculino,Pobre,No Migro
+Beca 18,Universidad Nacional Agraria La Molina,Servicios,Piura,Pregrado,2020,Masculino,Pobre,Migro
+Beca 18,Universidad Nacional Mayor de San Marcos,Servicios,Lambayeque,Pregrado,2020,Femenino,Pobre,Migro
+Beca 18,Instituto Tecnológico,Servicios,Lambayeque,Pregrado,2020,Femenino,Pobre Extremo,No Migro
+Beca Posgrado,Universidad,MBA - Administración,Alemania,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,MBA - Administración,Alemania,Posgrado Maestria,2020,Masculino,No pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Alemania,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Educación,Argentina,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Economía,Argentina,Posgrado Doctorado,2020,Femenino,Pobre Extremo,Migro
+Beca Posgrado,Universidad,MBA - Administración,Argentina,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Economía,Argentina,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Salud Pública,Australia,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Australia,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Salud Pública,Australia,Posgrado Maestria,2020,Masculino,No pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Australia,Posgrado Maestria,2020,Masculino,Pobre Extremo,Migro
+Beca Posgrado,Universidad,Doctorado en Educación,Bélgica,Posgrado Maestria,2020,Femenino,No pobre,Migro
+Beca Posgrado,Universidad,MBA - Administración,Bélgica,Posgrado Maestria,2020,Masculino,Pobre Extremo,Migro
+Beca Posgrado,Universidad,Maestría en Derecho,Bélgica,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Brasil,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Salud Pública,Brasil,Posgrado Doctorado,2020,Femenino,No pobre,Migro
+Beca Posgrado,Universidad,Maestría en Educación,Brasil,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Canadá,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Canadá,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Educación,Canadá,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Salud Pública,Chile,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Chile,Posgrado Maestria,2020,Masculino,Pobre Extremo,Migro
+Beca Posgrado,Universidad,Maestría en Educación,Chile,Posgrado Maestria,2020,Masculino,No pobre,Migro
+Beca Posgrado,Universidad,Maestría en Economía,Chile,Posgrado Doctorado,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Colombia,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Economía,Colombia,Posgrado Doctorado,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Colombia,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Ingeniería,España,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Educación,España,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,MBA - Administración,España,Posgrado Doctorado,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Salud Pública,España,Posgrado Maestria,2020,Masculino,No pobre,Migro
+Beca Posgrado,Universidad,Maestría en Educación,España,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Economía,España,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Derecho,España,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Salud Pública,España,Posgrado Maestria,2020,Femenino,Pobre Extremo,Migro
+Beca Posgrado,Universidad,Maestría en Derecho,Estados Unidos,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Ingeniería,Estados Unidos,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Estados Unidos,Posgrado Maestria,2020,Femenino,No pobre,Migro
+Beca Posgrado,Universidad,Maestría en Educación,Estados Unidos,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Derecho,Finlandia,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Ingeniería,Finlandia,Posgrado Maestria,2020,Masculino,No pobre,Migro
+Beca Posgrado,Universidad,MBA - Administración,Finlandia,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Ingeniería,Francia,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Educación,Francia,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Francia,Posgrado Maestria,2020,Masculino,Pobre Extremo,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Holanda,Posgrado Maestria,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Holanda,Posgrado Doctorado,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Derecho,Holanda,Posgrado Doctorado,2020,Masculino,Pobre,Migro
+Beca Posgrado,Universidad,MBA - Administración,Hong Kong,Posgrado Maestria,2020,Masculino,Pobre Extremo,Migro
+Beca Posgrado,Universidad,MBA - Administración,Hong Kong,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Economía,Hong Kong,Posgrado Maestria,2020,Femenino,No pobre,Migro
+Beca Posgrado,Universidad,Maestría en Educación,Italia,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Educación,Italia,Posgrado Maestria,2020,Femenino,Pobre Extremo,Migro
+Beca Posgrado,Universidad,MBA - Administración,Italia,Posgrado Doctorado,2020,Femenino,Pobre Extremo,Migro
+Beca Posgrado,Universidad,Doctorado en Ciencias,Portugal,Posgrado Doctorado,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Salud Pública,Portugal,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Educación,Portugal,Posgrado Maestria,2020,Masculino,Pobre Extremo,Migro
+Beca Posgrado,Universidad,Doctorado en Educación,Reino Unido,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,MBA - Administración,Reino Unido,Posgrado Maestria,2020,Masculino,No pobre,Migro
+Beca Posgrado,Universidad,Maestría en Salud Pública,Reino Unido,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Ingeniería,Reino Unido,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Doctorado en Educación,Reino Unido,Posgrado Maestria,2020,Masculino,No pobre,Migro
+Beca Posgrado,Universidad,Maestría en Ingeniería,Suiza,Posgrado Maestria,2020,Femenino,No pobre,Migro
+Beca Posgrado,Universidad,MBA - Administración,Suiza,Posgrado Maestria,2020,Femenino,Pobre,Migro
+Beca Posgrado,Universidad,Maestría en Salud Pública,Suiza,Posgrado Maestria,2020,Masculino,Pobre Extremo,Migro
+Beca Complementaria de la Amistad Peruano Ecuatoriana,Universidad Privada,Ingeniería,Lima,Especiales,2020,Femenino,Pobre,Migro
+Beca Complementaria de la Amistad Peruano Ecuatoriana,Universidad Privada,Ciencias,Lima,Especiales,2020,Masculino,Pobre,Migro
+Beca de Permanencia de Estudios Nacional Arte,Universidad Pública,Artes Plásticas,Lima,Especiales,2020,Masculino,Pobre,No Migro
+Beca de Permanencia de Estudios Nacional Arte,Universidad Nacional Mayor de San Marcos,Danza,Arequipa,Especiales,2020,Masculino,No pobre,No Migro
+Beca de Permanencia de Estudios Nacional Para Estudiantes del CNM⁷⁵,Universidad Nacional de Ingeniería,Varios,Junín,Especiales,2020,Femenino,Pobre,No Migro
+Beca de Permanencia de Estudios Nacional Para Estudiantes del CNM⁷⁵,Universidad Nacional de Ingeniería,Varios,Junín,Especiales,2020,Femenino,No pobre,No Migro
+Beca Excelencia Académica,Instituto superior tecnológico,Administración,Arequipa,Especiales,2020,Masculino,Pobre Extremo,Migro
+Beca Excelencia Académica,Universidad Nacional de Ingeniería,Medicina,Cusco,Especiales,2020,Femenino,Pobre,No Migro
+Beca Excelencia Internacional Francia,TECSUP,Derecho,España,Especiales,2020,Femenino,Pobre,Migro
+Beca Excelencia Internacional Francia,Universidad Nacional de Ingeniería,Medicina,Reino Unido,Especiales,2020,Femenino,Pobre Extremo,Migro
+Beca Excelencia Internacional Francia,Universidad Privada,Medicina,Francia,Especiales,2020,Masculino,Pobre,Migro
+Vocación de Maestro,Universidad Nacional de Ingeniería,Educación Secundaria,Arequipa,Especiales,2020,Masculino,Pobre,No Migro
+Vocación de Maestro,Universidad Privada,Educación Inicial,Arequipa,Especiales,2020,Masculino,Pobre Extremo,Migro
+Vocación de Maestro,SENATI,Educación Secundaria,Junín,Especiales,2020,Femenino,Pobre,No Migro
+Vocación de Maestro,Universidad Pública,Educación Primaria,Lima,Especiales,2020,Femenino,Pobre,No Migro
+Vocación de Maestro,TECSUP,Educación Primaria,Junín,Especiales,2020,Femenino,Pobre,No Migro
